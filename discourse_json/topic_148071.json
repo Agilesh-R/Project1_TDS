@@ -1,0 +1,1846 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 529058,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-09-24T17:18:05.085Z",
+        "cooked": "<p>I do not have Excel 365.<br>\nCould anyone please help me compute this.</p>\n<p>Let’s make sure you can write formulas in Excel. Type this formula into Excel. (It won’t work in Google Sheets)<br>\n<strong>This needs Excel 365</strong> , not older versions of Excel. Most of the course features won’t need Excel 365, but for this question, you need a friend who has Excel 365 if you don’t.</p>\n<p>=SUM(TAKE(SORTBY({5,0,14,3,2,9,9,7,15,5,2,8,4,15,14,6}, {10,9,13,2,11,8,16,14,7,15,5,4,6,1,3,12}), 1, 10))</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T17:19:22.694Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 83,
+        "readers_count": 82,
+        "score": 46.6,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/1",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 529073,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-09-24T18:02:55.057Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"23f2005121\" data-post=\"1\" data-topic=\"148071\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/48/67277_2.png\" class=\"avatar\"> 23f2005121:</div>\n<blockquote>\n<p>you need a friend who has Excel 365 if you don’t.</p>\n</blockquote>\n</aside>\n<p>You need a friend or some intelligence, what i did was i created an account on <a href=\"http://office.com\" rel=\"noopener nofollow ugc\">office.com</a> and you can use online office 365 absolutely free<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/0/30e1df92a6fe82fed93bf4d01359e6d650c6a2e5.jpeg\" data-download-href=\"/uploads/short-url/6YqQHfPYjtGG5dIRfV6fqxkT3H7.jpeg?dl=1\" title=\"Screenshot 2024-09-24 at 11.32.02 PM\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/0/30e1df92a6fe82fed93bf4d01359e6d650c6a2e5_2_690x307.jpeg\" alt=\"Screenshot 2024-09-24 at 11.32.02 PM\" data-base62-sha1=\"6YqQHfPYjtGG5dIRfV6fqxkT3H7\" width=\"690\" height=\"307\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/0/30e1df92a6fe82fed93bf4d01359e6d650c6a2e5_2_690x307.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/0/30e1df92a6fe82fed93bf4d01359e6d650c6a2e5_2_1035x460.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/0/30e1df92a6fe82fed93bf4d01359e6d650c6a2e5_2_1380x614.jpeg 2x\" data-dominant-color=\"E9EAF6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2024-09-24 at 11.32.02 PM</span><span class=\"informations\">1920×856 67.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:02:55.057Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 81,
+        "readers_count": 80,
+        "score": 36.2,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://office.com",
+            "internal": false,
+            "reflection": false,
+            "title": "Login | Microsoft 365",
+            "clicks": 2
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/2",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529075,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-09-24T18:06:34.648Z",
+        "cooked": "<p>Thankyou, but it was throwing an error for me on the website version. The cell just became red. Anyways someone helped me. Thankyou for replying.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:06:34.648Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 76,
+        "readers_count": 75,
+        "score": 20.2,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/3",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529077,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-09-24T18:10:34.904Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a.jpeg\" data-download-href=\"/uploads/short-url/sfYbJi2LjBjIZhvWiVSYndoXjXY.jpeg?dl=1\" title=\"Screenshot 2024-09-24 at 11.40.17 PM\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a_2_690x180.jpeg\" alt=\"Screenshot 2024-09-24 at 11.40.17 PM\" data-base62-sha1=\"sfYbJi2LjBjIZhvWiVSYndoXjXY\" width=\"690\" height=\"180\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a_2_690x180.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a_2_1035x270.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a_2_1380x360.jpeg 2x\" data-dominant-color=\"F3F3F4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2024-09-24 at 11.40.17 PM</span><span class=\"informations\">1920×503 67.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:10:34.904Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 73,
+        "readers_count": 72,
+        "score": 34.6,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/4",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529079,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-09-24T18:14:46.918Z",
+        "cooked": "<p>Thankyou!<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/3/e3beacd9f2a5d814fd4f5d74e1f738054533db5b.jpeg\" data-download-href=\"/uploads/short-url/wuIU8Q0tAYgB1NFq1SpGbCeTGY3.jpeg?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/3/e3beacd9f2a5d814fd4f5d74e1f738054533db5b_2_690x173.jpeg\" alt=\"image\" data-base62-sha1=\"wuIU8Q0tAYgB1NFq1SpGbCeTGY3\" width=\"690\" height=\"173\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/3/e3beacd9f2a5d814fd4f5d74e1f738054533db5b_2_690x173.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/3/e3beacd9f2a5d814fd4f5d74e1f738054533db5b_2_1035x259.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/3/e3beacd9f2a5d814fd4f5d74e1f738054533db5b_2_1380x346.jpeg 2x\" data-dominant-color=\"D3D9D7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1600×402 114 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>This is what happened in my case</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:14:46.918Z",
+        "reply_count": 2,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 71,
+        "readers_count": 70,
+        "score": 24.2,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/5",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529080,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-09-24T18:16:58.242Z",
+        "cooked": "<p>It will work try it in another cell, or you can consider me a friend who has Excel 365 and use 75 as an answer <img src=\"https://emoji.discourse-cdn.com/google/smiley.png?v=12\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:16:58.242Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 70,
+        "readers_count": 69,
+        "score": 49.0,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/6",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529081,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-09-24T18:19:39.386Z",
+        "cooked": "<p>Sure Thankyou friend <img src=\"https://emoji.discourse-cdn.com/google/joy.png?v=12\" title=\":joy:\" class=\"emoji\" alt=\":joy:\" loading=\"lazy\" width=\"20\" height=\"20\"> <img src=\"https://emoji.discourse-cdn.com/google/heart.png?v=12\" title=\":heart:\" class=\"emoji\" alt=\":heart:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-24T18:19:39.386Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 70,
+        "readers_count": 69,
+        "score": 29.0,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/7",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529247,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-09-25T08:14:42.557Z",
+        "cooked": "<p>Hi Azhaan,<br>\nI have verified that the office 365 free version actually does work.<br>\nMake sure you have carefully pasted the formula.<br>\nTypically Excel also tells you what the error is. Select the cell and click in the area right of the <span class=\"math\">fx</span> to see if it gives you a clue on what the problem is.<br>\nKind regards</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-25T08:14:42.557Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 63,
+        "readers_count": 62,
+        "score": 32.6,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529269,
+        "name": "Prajakta Chinavalkar",
+        "username": "Prajakta",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prajakta/{size}/110280_2.png",
+        "created_at": "2024-09-25T09:04:21.432Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/5/85d978552b613e51aa254ece7f701999737ad5c7.png\" data-download-href=\"/uploads/short-url/j65qILS9sM94Z3pcOigwOiO96vl.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/5/85d978552b613e51aa254ece7f701999737ad5c7_2_690x216.png\" alt=\"image\" data-base62-sha1=\"j65qILS9sM94Z3pcOigwOiO96vl\" width=\"690\" height=\"216\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/5/85d978552b613e51aa254ece7f701999737ad5c7_2_690x216.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/5/85d978552b613e51aa254ece7f701999737ad5c7_2_1035x324.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/5/85d978552b613e51aa254ece7f701999737ad5c7_2_1380x432.png 2x\" data-dominant-color=\"F3F3F3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1458×458 31.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nIn my case ,it’s not working. Can anyone explain ? <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-25T09:05:29.017Z",
+        "reply_count": 1,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 16.4,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Prajakta Chinavalkar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8445,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/9",
+        "user_cakedate": "2021-12-29",
+        "user_birthdate": "1904-12-24",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 529312,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-09-25T11:07:02.582Z",
+        "cooked": "<p>Its not office 365, Use office 365 or use free online</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2024-09-25T11:07:02.582Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 52,
+        "readers_count": 51,
+        "score": 10.4,
+        "yours": false,
+        "topic_id": 148071,
+        "topic_slug": "tds-ga-0-question-3",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 8445,
+          "username": "Prajakta",
+          "name": "Prajakta Chinavalkar",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prajakta/{size}/110280_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga-0-question-3/148071/10",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      529058,
+      529073,
+      529075,
+      529077,
+      529079,
+      529080,
+      529081,
+      529247,
+      529269,
+      529312
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      249
+    ],
+    [
+      8,
+      248
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:31:45.591Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 517,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 148071,
+  "title": "TDS GA 0 - Question 3",
+  "fancy_title": "TDS GA 0 - Question 3",
+  "posts_count": 10,
+  "created_at": "2024-09-24T17:18:04.941Z",
+  "views": 101,
+  "reply_count": 8,
+  "like_count": 6,
+  "last_posted_at": "2024-09-25T11:07:02.582Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "tds-ga-0-question-3",
+  "category_id": 34,
+  "word_count": 332,
+  "deleted_at": null,
+  "user_id": 22540,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_148071",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 10,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 4,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 108938,
+      "title": "Week 5 GA",
+      "fancy_title": "Week 5 GA",
+      "slug": "week-5-ga",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2023-11-07T20:35:20.257Z",
+      "last_posted_at": "2023-11-07T21:18:37.206Z",
+      "bumped": true,
+      "bumped_at": "2023-11-07T21:18:37.206Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 35,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 8470,
+            "username": "21f1002538",
+            "name": "Rishabh Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1002538/{size}/79946_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 78102,
+      "title": "Issue with Excel for Week4 (Office 365 changes)",
+      "fancy_title": "Issue with Excel for Week4 (Office 365 changes)",
+      "slug": "issue-with-excel-for-week4-office-365-changes",
+      "posts_count": 7,
+      "reply_count": 5,
+      "highest_post_number": 7,
+      "image_url": null,
+      "created_at": "2023-02-16T13:47:28.928Z",
+      "last_posted_at": "2023-02-19T06:00:20.816Z",
+      "bumped": true,
+      "bumped_at": "2023-02-19T06:00:20.816Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 7,
+      "views": 102,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 7489,
+            "username": "RohanT",
+            "name": "Rohan ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rohant/{size}/40_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8056,
+            "username": "Puneet_21f3002005",
+            "name": "Puneet ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet_21f3002005/{size}/46059_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3150,
+            "username": "AswinSZ",
+            "name": "Aswin S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aswinsz/{size}/12765_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 66075,
+      "title": "Use of Excel in TDS course",
+      "fancy_title": "Use of Excel in TDS course",
+      "slug": "use-of-excel-in-tds-course",
+      "posts_count": 11,
+      "reply_count": 6,
+      "highest_post_number": 11,
+      "image_url": null,
+      "created_at": "2022-09-28T11:39:17.976Z",
+      "last_posted_at": "2022-10-16T03:52:56.297Z",
+      "bumped": true,
+      "bumped_at": "2022-10-16T03:52:56.297Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 9,
+      "views": 161,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 220,
+            "username": "harry",
+            "name": "Hardik Atri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harry/{size}/391_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2901,
+            "username": "Phalguni1",
+            "name": "Phalguni ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/phalguni1/{size}/85702_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8056,
+            "username": "Puneet_21f3002005",
+            "name": "Puneet ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet_21f3002005/{size}/46059_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 11132,
+            "username": "prabhu2022",
+            "name": "Prabhu R",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prabhu2022/{size}/13325_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 81005,
+      "title": "Excel Issues",
+      "fancy_title": "Excel Issues",
+      "slug": "excel-issues",
+      "posts_count": 4,
+      "reply_count": 2,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3dabf05cfffa5a07313a75b02e3941ce97beccec_2_1024x260.png",
+      "created_at": "2023-03-12T01:52:39.284Z",
+      "last_posted_at": "2023-03-12T10:02:25.946Z",
+      "bumped": true,
+      "bumped_at": "2023-03-12T10:02:25.946Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 77,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 7489,
+            "username": "RohanT",
+            "name": "Rohan ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rohant/{size}/40_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1998,
+            "username": "Preetam",
+            "name": "Preetam Mukherjee",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/preetam/{size}/57403_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 53965,
+      "title": "Excel Azure ML Query",
+      "fancy_title": "Excel Azure ML Query",
+      "slug": "excel-azure-ml-query",
+      "posts_count": 12,
+      "reply_count": 10,
+      "highest_post_number": 12,
+      "image_url": null,
+      "created_at": "2022-06-18T05:58:38.930Z",
+      "last_posted_at": "2022-06-22T03:50:33.243Z",
+      "bumped": true,
+      "bumped_at": "2022-06-22T03:50:33.243Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-5"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 162,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 3806,
+            "username": "Nitish",
+            "name": "Nitish Agarwal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nitish/{size}/31377_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1720,
+            "username": "him",
+            "name": "Himanshu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/him/{size}/3871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 686,
+            "username": "nmaddala",
+            "name": "Narayana Maddala",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nmaddala/{size}/67626_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1,
+            "username": "jkmadathil",
+            "name": "Jayakrishnan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "admin": true,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 263,
+            "username": "MUSKAN_JINDAL",
+            "name": "MUSKAN JINDAL",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muskan_jindal/{size}/66_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 4,
+    "username": "22f3002293",
+    "name": null,
+    "excerpt": "<a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/c/6/c60b09e0815dac9a1f59a199136034eeacd0629a.jpeg\" data-download-href=\"/uploads/short-url/sfYbJi2LjBjIZhvWiVSYndoXjXY.jpeg?dl=1\" title=\"Screenshot 2024-09-24 at 11.40.17 PM\" rel=\"noopener nofollow ugc\">[Screenshot 2024-09-24 at 11.40.17 PM]</a>",
+    "accepter_name": null,
+    "accepter_username": "s.anand"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 15475,
+        "username": "22f3002293",
+        "name": "Rajat Goel",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 22540,
+        "username": "23f2005121",
+        "name": "Azhaan Pary",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 8445,
+        "username": "Prajakta",
+        "name": "Prajakta Chinavalkar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prajakta/{size}/110280_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 22540,
+      "username": "23f2005121",
+      "name": "Azhaan Pary",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+    },
+    "last_poster": {
+      "id": 15475,
+      "username": "22f3002293",
+      "name": "Rajat Goel",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+    },
+    "links": [
+      {
+        "url": "http://office.com",
+        "title": "Login | Microsoft 365",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 15475,
+        "domain": "office.com",
+        "root_domain": "office.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

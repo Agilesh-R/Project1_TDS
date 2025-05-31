@@ -1,0 +1,1343 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 545884,
+        "name": "amit_kulkarni",
+        "username": "23f1001947",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+        "created_at": "2024-10-23T08:56:43.547Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898.png\" data-download-href=\"/uploads/short-url/fE7qtjDzRSxYt1lufd5n4hFhdFe.png?dl=1\" title=\"Screenshot from 2024-10-23 14-20-23\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_690x381.png\" alt=\"Screenshot from 2024-10-23 14-20-23\" data-base62-sha1=\"fE7qtjDzRSxYt1lufd5n4hFhdFe\" width=\"690\" height=\"381\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_690x381.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_1035x571.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_1380x762.png 2x\" data-dominant-color=\"F3F4F4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2024-10-23 14-20-23</span><span class=\"informations\">1915×1058 130 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p><strong>Basel:10</strong><br>\nFirst I had incorrectly fetched the data so I got only 100 rows . When I tried verify the github repo URL , it said “369 rows expected in Basel for more than 10 followers, only 100 found” . So then I tried again to fetch , I got 347 rows . I tried to verify the repo URL and it says correct and I get most of the categorical answers correct. But due to some rows missing, I cannot get the correlation and regression questions correct.</p>\n<p>What do I do ? Assume the current 347 rows data to be correct  or  try again and again ?</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 5,
+        "updated_at": "2024-10-23T08:56:43.547Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 50,
+        "readers_count": 49,
+        "score": 10.0,
+        "yours": false,
+        "topic_id": 153420,
+        "topic_slug": "inconsistency-in-github-repo-url-verification",
+        "display_username": "amit_kulkarni",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21929,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/inconsistency-in-github-repo-url-verification/153420/1",
+        "user_cakedate": "2023-09-18",
+        "user_birthdate": "1904-01-18",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 545894,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-23T09:16:55.392Z",
+        "cooked": "<p>See if this helps.</p><aside class=\"quote\" data-post=\"3\" data-topic=\"153303\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/48/68154_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/project-1-doubt-regarding-question/153303/3\">Project 1 doubt regarding question</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    Check your csv files have boolean values represented as true instead of TRUE\\True and false instead of FALSE\\False. The correct answers seem be calculated from our files in Github only (Assumably because of the dynamic nature of the data) so we need to follow the instructions exactly as given in the quiz. I was able to get these answers corrected after I reuploaded the csv files with these changes, barring #13.\n  </blockquote>\n</aside>\n",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 5,
+        "updated_at": "2024-10-23T09:16:55.392Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 24.4,
+        "yours": false,
+        "topic_id": 153420,
+        "topic_slug": "inconsistency-in-github-repo-url-verification",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-doubt-regarding-question/153303/3",
+            "internal": true,
+            "reflection": false,
+            "title": "Project 1 doubt regarding question",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/inconsistency-in-github-repo-url-verification/153420/2",
+        "user_cakedate": "2023-10-13",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 545901,
+        "name": "amit_kulkarni",
+        "username": "23f1001947",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+        "created_at": "2024-10-23T09:48:46.272Z",
+        "cooked": "<p>imputed True and False in boolean columns but still answer is same and wrong</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 5,
+        "updated_at": "2024-10-23T09:48:46.272Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 46,
+        "readers_count": 45,
+        "score": 9.2,
+        "yours": false,
+        "topic_id": 153420,
+        "topic_slug": "inconsistency-in-github-repo-url-verification",
+        "display_username": "amit_kulkarni",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21929,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/inconsistency-in-github-repo-url-verification/153420/3",
+        "user_cakedate": "2023-09-18",
+        "user_birthdate": "1904-01-18",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 546043,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-10-23T14:32:49.329Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/23f1001947\">@23f1001947</a> Assume the current 347 rows are correct. The project is designed to work even correctly based on YOUR data, even if the number of users is slightly different.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 5,
+        "updated_at": "2024-10-23T14:32:49.329Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 13.2,
+        "yours": false,
+        "topic_id": 153420,
+        "topic_slug": "inconsistency-in-github-repo-url-verification",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/inconsistency-in-github-repo-url-verification/153420/4",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 546052,
+        "name": "Sid",
+        "username": "22f3003031",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "created_at": "2024-10-23T14:43:05.921Z",
+        "cooked": "<p>FYI#<br>\nIf it’s still about the total row count (as originally asked), do note that GitHub paginates the response data. Do ensure that you have fetched it all via passing appropriate API params.</p>\n<p>To validate the result count, you can also use the GitHub Search box, using necessary values/parameters. Refer <a href=\"https://docs.github.com/en/search-github/github-code-search/using-github-code-search#using-the-search-bar\" rel=\"noopener nofollow ugc\">this</a></p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 5,
+        "updated_at": "2024-10-23T14:43:05.921Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 12.6,
+        "yours": false,
+        "topic_id": 153420,
+        "topic_slug": "inconsistency-in-github-repo-url-verification",
+        "display_username": "Sid",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://docs.github.com/en/search-github/github-code-search/using-github-code-search#using-the-search-bar",
+            "internal": false,
+            "reflection": false,
+            "title": "Using GitHub Code Search - GitHub Docs",
+            "clicks": 2
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16762,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/inconsistency-in-github-repo-url-verification/153420/5",
+        "user_cakedate": "2023-02-07",
+        "user_birthdate": "1904-11-08",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      545884,
+      545894,
+      545901,
+      546043,
+      546052
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      220
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:43:06.019Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 517,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 153420,
+  "title": "Inconsistency in github repo url verification",
+  "fancy_title": "Inconsistency in github repo url verification",
+  "posts_count": 5,
+  "created_at": "2024-10-23T08:56:43.282Z",
+  "views": 64,
+  "reply_count": 2,
+  "like_count": 0,
+  "last_posted_at": "2024-10-23T14:43:05.921Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "inconsistency-in-github-repo-url-verification",
+  "category_id": 34,
+  "word_count": 248,
+  "deleted_at": null,
+  "user_id": 21929,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_1024x565.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153420",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 5,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 4,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 1915,
+      "height": 1058,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898.png"
+    },
+    {
+      "max_width": 1024,
+      "max_height": 1024,
+      "width": 1024,
+      "height": 565,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/d/6da99b8e97a59c32d5b4331ae84e3b631d745898_2_1024x565.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 154510,
+      "title": "Error while verifying github repo url. Stockholm:100",
+      "fancy_title": "Error while verifying github repo url. Stockholm:100",
+      "slug": "error-while-verifying-github-repo-url-stockholm-100",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b29499e79ea5ed4e95be1f3f6689b39b28075e62_2_1024x319.png",
+      "created_at": "2024-10-30T17:03:00.668Z",
+      "last_posted_at": "2024-10-30T17:30:46.922Z",
+      "bumped": true,
+      "bumped_at": "2024-10-30T17:58:22.834Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 38,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 12548,
+            "username": "Lakshay_Sharma1",
+            "name": "Lakshay Sharma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshay_sharma1/{size}/1219_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16339,
+            "username": "HimanshuSaini",
+            "name": "Himanshu Saini",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/b5a626/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23358,
+            "username": "23f3001129",
+            "name": "Aliza Shaikh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001129/{size}/66875_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 153364,
+      "title": "Project url verification error",
+      "fancy_title": "Project url verification error",
+      "slug": "project-url-verification-error",
+      "posts_count": 12,
+      "reply_count": 9,
+      "highest_post_number": 12,
+      "image_url": null,
+      "created_at": "2024-10-22T20:02:56.726Z",
+      "last_posted_at": "2024-10-26T11:43:30.852Z",
+      "bumped": true,
+      "bumped_at": "2024-10-26T11:43:30.852Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 6,
+      "views": 132,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 3270,
+            "username": "umaskn",
+            "name": "Uma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/umaskn/{size}/1432_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15556,
+            "username": "kumarpa",
+            "name": "Pradeep Kumar P",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12855,
+            "username": "Gotherwal",
+            "name": "Deepesh Gotherwal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154302,
+      "title": "Project1 Austin:100",
+      "fancy_title": "Project1 Austin:100",
+      "slug": "project1-austin-100",
+      "posts_count": 8,
+      "reply_count": 7,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2024-10-28T21:47:21.388Z",
+      "last_posted_at": "2024-10-31T11:12:55.751Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T11:12:55.751Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 96,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 22654,
+            "username": "23ds2000155",
+            "name": "Viraj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000155/{size}/67226_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 40077,
+            "username": "24ds3000100",
+            "name": "Bahni Roy",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 35784,
+            "username": "24f1002112",
+            "name": "Amit Kumar Gupta ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002112/{size}/109978_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 153278,
+      "title": "TDS Project 1 users.csv validation error",
+      "fancy_title": "TDS Project 1 users.csv validation error",
+      "slug": "tds-project-1-users-csv-validation-error",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2024-10-22T09:02:55.163Z",
+      "last_posted_at": "2024-10-22T10:25:20.044Z",
+      "bumped": true,
+      "bumped_at": "2024-10-22T10:29:11.920Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 68,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 24024,
+            "username": "23ds3000248",
+            "name": "Bhavin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 154528,
+      "title": "Still showing as wrong answer - Mumbai:50",
+      "fancy_title": "Still showing as wrong answer - Mumbai:50",
+      "slug": "still-showing-as-wrong-answer-mumbai-50",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/4/6497c22adb07a85f4bc4bbfd698c0224433e6854_2_1024x505.png",
+      "created_at": "2024-10-30T19:36:32.442Z",
+      "last_posted_at": "2024-10-31T16:31:58.554Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T16:31:58.554Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 55,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23358,
+            "username": "23f3001129",
+            "name": "Aliza Shaikh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001129/{size}/66875_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 21929,
+        "username": "23f1001947",
+        "name": "amit_kulkarni",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16762,
+        "username": "22f3003031",
+        "name": "Sid",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 9419,
+        "username": "s.anand",
+        "name": "Anand S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "post_count": 1,
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_color": "000",
+        "flair_bg_color": "f2c26e",
+        "flair_group_id": 54,
+        "trust_level": 4
+      },
+      {
+        "id": 24024,
+        "username": "23ds3000248",
+        "name": "Bhavin",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 21929,
+      "username": "23f1001947",
+      "name": "amit_kulkarni",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png"
+    },
+    "last_poster": {
+      "id": 16762,
+      "username": "22f3003031",
+      "name": "Sid",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png"
+    },
+    "links": [
+      {
+        "url": "https://docs.github.com/en/search-github/github-code-search/using-github-code-search#using-the-search-bar",
+        "title": "Using GitHub Code Search - GitHub Docs",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 16762,
+        "domain": "docs.github.com",
+        "root_domain": "github.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

@@ -1,0 +1,2449 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 520954,
+        "name": "DNarendran",
+        "username": "Access_Naren",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png",
+        "created_at": "2024-09-02T05:40:37.839Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> sir <a class=\"mention\" href=\"/u/carlton\">@carlton</a><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171.jpeg\" data-download-href=\"/uploads/short-url/jnHCmbwZ36DrjlFVk7YdEO8DRp7.jpeg?dl=1\" title=\"1000051561\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_690x310.jpeg\" alt=\"1000051561\" data-base62-sha1=\"jnHCmbwZ36DrjlFVk7YdEO8DRp7\" width=\"690\" height=\"310\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_690x310.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_1035x465.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_1380x620.jpeg 2x\" data-dominant-color=\"F6F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">1000051561</span><span class=\"informations\">1600×720 109 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>We can visualize the outliers in the scatter plot.</p>\n<p>Please confirm</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T05:40:37.839Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 61,
+        "readers_count": 60,
+        "score": 27.2,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "DNarendran",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16233,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/1",
+        "user_cakedate": "2023-01-26",
+        "user_birthdate": "1904-09-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 520959,
+        "name": "Palash_H",
+        "username": "21f3002243",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "created_at": "2024-09-02T06:01:30.144Z",
+        "cooked": "<p>Is this an end term question, <a class=\"mention\" href=\"/u/access_naren\">@Access_Naren</a> ?</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T06:21:56.371Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 22.0,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Palash_H",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 4,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8282,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/2",
+        "user_cakedate": "2021-12-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 520980,
+        "name": "Aparna Iyer",
+        "username": "22ds1000191",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000191/{size}/66780_2.png",
+        "created_at": "2024-09-02T07:38:37.310Z",
+        "cooked": "<p>Scatter plot shows relationship between 2 variables. Its used to visualize correlation. Box plot shows outliers. To identify outliers, you need IQR as well, which box plot depicts.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T07:38:37.310Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 55,
+        "readers_count": 54,
+        "score": 31.0,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Aparna Iyer",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8542,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/3",
+        "user_cakedate": "2021-12-29",
+        "user_birthdate": "1904-03-11",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 520994,
+        "name": "Rajat Shenoi",
+        "username": "RajatShenoi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajatshenoi/{size}/66910_2.png",
+        "created_at": "2024-09-02T08:31:07.615Z",
+        "cooked": "<p>If this is the answer key for the end term that happened yesterday, please send the document. It’s not uploaded as of now in the course portal.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T08:31:07.615Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 20.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Rajat Shenoi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17669,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/4",
+        "user_cakedate": "2023-06-03",
+        "user_birthdate": "1904-09-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 520995,
+        "name": "DNarendran",
+        "username": "Access_Naren",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png",
+        "created_at": "2024-09-02T08:40:17.302Z",
+        "cooked": "<aside class=\"onebox googledrive\" data-onebox-src=\"https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk\">\n  <header class=\"source\">\n\n      <a href=\"https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk\" target=\"_blank\" rel=\"noopener nofollow ugc\">drive.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n      <a href=\"https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk\" target=\"_blank\" rel=\"noopener nofollow ugc\"><span class=\"googledocs-onebox-logo g-drive-logo\"></span></a>\n\n\n\n<h3><a href=\"https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk\" target=\"_blank\" rel=\"noopener nofollow ugc\">IIT M FOUNDATION DIPLOMA AN EXAM QDF3.pdf</a></h3>\n\n<p>Google Drive file.</p>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T08:40:17.302Z",
+        "reply_count": 3,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 52,
+        "readers_count": 51,
+        "score": 45.4,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "DNarendran",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk",
+            "internal": false,
+            "reflection": false,
+            "title": "IIT M FOUNDATION DIPLOMA AN EXAM QDF3.pdf - Google Drive",
+            "clicks": 13
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 17669,
+          "username": "RajatShenoi",
+          "name": "Rajat Shenoi",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajatshenoi/{size}/66910_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16233,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/5",
+        "user_cakedate": "2023-01-26",
+        "user_birthdate": "1904-09-14",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 520998,
+        "name": "Palash_H",
+        "username": "21f3002243",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "created_at": "2024-09-02T08:52:39.286Z",
+        "cooked": "<p>Thanks for the link, do you have link for qdf4 ?</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T10:23:22.424Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 19.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Palash_H",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16233,
+          "username": "Access_Naren",
+          "name": "DNarendran",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8282,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/6",
+        "user_cakedate": "2021-12-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521000,
+        "name": "Rajat Shenoi",
+        "username": "RajatShenoi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajatshenoi/{size}/66910_2.png",
+        "created_at": "2024-09-02T08:59:22.991Z",
+        "cooked": "<p>Thank you so much, do you have the answer key for the FN session as well?</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T08:59:22.991Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 48,
+        "readers_count": 47,
+        "score": 9.6,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Rajat Shenoi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16233,
+          "username": "Access_Naren",
+          "name": "DNarendran",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17669,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/7",
+        "user_cakedate": "2023-06-03",
+        "user_birthdate": "1904-09-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521048,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-02T11:46:23.091Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/access_naren\">@Access_Naren</a> pl share the answer key for the FN session or tell me where you got it from.</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T11:46:23.091Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 48,
+        "readers_count": 47,
+        "score": 19.6,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16233,
+          "username": "Access_Naren",
+          "name": "DNarendran",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/9",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521082,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-02T12:39:11.481Z",
+        "cooked": "<p>Forenoon answer keys</p>\n<p><a href=\"https://drive.google.com/drive/folders/14wV7AZbPEEec4zWmZTOb7MS34Yd1wZ4m\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://drive.google.com/drive/folders/14wV7AZbPEEec4zWmZTOb7MS34Yd1wZ4m</a></p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T12:39:31.195Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 29.4,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://drive.google.com/drive/folders/14wV7AZbPEEec4zWmZTOb7MS34Yd1wZ4m",
+            "internal": false,
+            "reflection": false,
+            "title": "FN - Google Drive",
+            "clicks": 4
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/10",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521123,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-02T14:23:44.168Z",
+        "cooked": "<p>Scatter plots need 2 variables. How will you use a scatter plot to identify outliers in one variable?</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T14:23:44.168Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 44,
+        "readers_count": 43,
+        "score": 33.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/12",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521173,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-09-02T16:00:27.623Z",
+        "cooked": "<p>Can I get AN answer keys link too please?</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T16:00:27.623Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 13.6,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/13",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521177,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-02T16:10:27.302Z",
+        "cooked": "<aside class=\"quote quote-modified\" data-post=\"5\" data-topic=\"144739\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/48/56336_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/can-we-visualize-outliers-in-scatter-plot/144739/5\">Can we visualize outliers in scatter plot</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    \n  </blockquote>\n</aside>\n",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-02T16:10:27.302Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 44,
+        "readers_count": 43,
+        "score": 8.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/14",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521264,
+        "name": "DNarendran",
+        "username": "Access_Naren",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png",
+        "created_at": "2024-09-03T02:30:09.119Z",
+        "cooked": "<p>Scatter plot shows relationship between 2 variables. Its used to visualize correlation. Box plot shows outliers. To identify outliers, you need IQR as well, which box plot depicts.</p>\n<p>Agreed, but can the scatter plot help you visually identify outliers in a dataset - yes or no</p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-03T02:36:48.719Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 39,
+        "readers_count": 38,
+        "score": 7.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "DNarendran",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 8542,
+          "username": "22ds1000191",
+          "name": "Aparna Iyer",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000191/{size}/66780_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16233,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/15",
+        "user_cakedate": "2023-01-26",
+        "user_birthdate": "1904-09-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521266,
+        "name": "DNarendran",
+        "username": "Access_Naren",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png",
+        "created_at": "2024-09-03T02:32:48.886Z",
+        "cooked": "<p>Scatter plots need 2 variables. How will you use a scatter plot to identify outliers in one variable?</p>\n<p>Agreed, but i the question it is not mentioned if it is one variable or more than one variable.<br>\ncan the scatter plot help you visually identify outliers in a dataset - yes or no</p>",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-03T02:36:15.180Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 17.6,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "DNarendran",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16233,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/16",
+        "user_cakedate": "2023-01-26",
+        "user_birthdate": "1904-09-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521289,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-03T04:23:57.231Z",
+        "cooked": "<p>You cannot identify outliers with precision in a scatter plot as you need the IQR or something similar for that, which a scatter plot doesn’t provide.</p>\n<p>It will only be a visual approximation, which would be more useful as an EDA exercise.</p>",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-03T04:23:57.231Z",
+        "reply_count": 1,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 36,
+        "readers_count": 35,
+        "score": 12.2,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16233,
+          "username": "Access_Naren",
+          "name": "DNarendran",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/17",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521566,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-09-04T04:46:46.845Z",
+        "cooked": "<p>Scatter plots are often used in the real world for bivariate outlier detection through the use of z scores, residuals in regression analysis, elliptic envelope (multivariate normal distribution). All these are precise mathematical tools that can be visually mapped on the scatter plot to detect outliers.</p>\n<p>Resolution : Q444 will be given marks for both box plots as well as scatter plots being marked as the correct answer.</p>",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-04T04:47:06.289Z",
+        "reply_count": 1,
+        "reply_to_post_number": 17,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 26.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/18",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521843,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-09-04T15:54:10.613Z",
+        "cooked": "<p>Hey <a class=\"mention\" href=\"/u/carlton\">@carlton</a> just a curious question<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/8/48f5aa457956d3b326149b49c82622cd332deaa8.png\" data-download-href=\"/uploads/short-url/apqIcEIYew9qUv7idgAB37u9uGc.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/8/48f5aa457956d3b326149b49c82622cd332deaa8_2_690x252.png\" alt=\"image\" data-base62-sha1=\"apqIcEIYew9qUv7idgAB37u9uGc\" width=\"690\" height=\"252\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/8/48f5aa457956d3b326149b49c82622cd332deaa8_2_690x252.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/8/48f5aa457956d3b326149b49c82622cd332deaa8.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/8/48f5aa457956d3b326149b49c82622cd332deaa8.png 2x\" data-dominant-color=\"F5F3F3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">937×343 51.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Even though OpenRefine is the correct option but Python too could be used to cleaning messy data depending on the libraries we use</p>\n<p>I got a bit confused  when I saw python as an option so asking now.</p>",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-04T15:54:26.342Z",
+        "reply_count": 1,
+        "reply_to_post_number": 18,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 32,
+        "readers_count": 31,
+        "score": 11.4,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/19",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521856,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-09-04T16:08:33.000Z",
+        "cooked": "<p>Python is just a general purpose programming language. It’s not a tool that is specialised for data cleaning.</p>",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-04T16:08:48.992Z",
+        "reply_count": 1,
+        "reply_to_post_number": 19,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 30,
+        "readers_count": 29,
+        "score": 26.0,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/20",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521918,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-09-04T18:55:39.006Z",
+        "cooked": "<p>True its not a tool I missed the “tool” part anyways thanks for answering.</p>",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-04T18:55:39.006Z",
+        "reply_count": 0,
+        "reply_to_post_number": 20,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 29,
+        "readers_count": 28,
+        "score": 10.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/21",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521981,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-05T04:55:17.151Z",
+        "cooked": "<p>Hello <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>\n<p>Regarding the question on the use of bar charts, I (and a lot of other people creating business presentations) have extensively used bar charts to compare two or more variables. For e.g., comparing the revenue of this year vs last year, broken down by quarter. Same for profits, margins, no. of people in the organization and stuff like that.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/1/e16f6f0ba95f35a91c137225eb48efd0facf00a2.png\" data-download-href=\"/uploads/short-url/waiaWS6GSvEf4uHWIAxNyAplggq.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/1/e16f6f0ba95f35a91c137225eb48efd0facf00a2_2_690x231.png\" alt=\"image\" data-base62-sha1=\"waiaWS6GSvEf4uHWIAxNyAplggq\" width=\"690\" height=\"231\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/1/e16f6f0ba95f35a91c137225eb48efd0facf00a2_2_690x231.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/1/e16f6f0ba95f35a91c137225eb48efd0facf00a2_2_1035x346.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/1/e16f6f0ba95f35a91c137225eb48efd0facf00a2.png 2x\" data-dominant-color=\"F5F0F0\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1080×363 85.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Kindly share your views.</p>",
+        "post_number": 22,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-05T04:55:17.151Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 10.0,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/22",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521993,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-09-05T05:25:37.428Z",
+        "cooked": "<p>I have been told by instructors and academics who are much more qualified than me that the improper use of graphs is rife in business presentations and that includes using bar charts for comparing two or more variables. The improper use of charts does not mean that they are the appropriate tool for the job. Hence for this question the correct answer is categorical data.</p>\n<p>People in the statistics department (and the business department) take particular umbrage to the improper use of graphs. It’s one of their pet peeves.</p>\n<p>A good analogy is that we can use a spanner to hit a nail. Does not mean its the <em>best</em> tool to hit a nail. In this question it does use the qualifier <em>best</em> and its hard to argue for other choices when categorical data is one of the choices, because that is in fact the best use of a bar chart.</p>",
+        "post_number": 23,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-05T05:25:37.428Z",
+        "reply_count": 1,
+        "reply_to_post_number": 22,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 24,
+        "readers_count": 23,
+        "score": 9.8,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/23",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521996,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-05T05:39:56.720Z",
+        "cooked": "<p>If 95% of the people are using this approach, perhaps it is time for the statisticians and academicians to update their approach and align themselves with the ground reality (aka real world) <img src=\"https://emoji.discourse-cdn.com/google/grinning.png?v=12\" title=\":grinning:\" class=\"emoji\" alt=\":grinning:\" loading=\"lazy\" width=\"20\" height=\"20\">.</p>\n<p>Also FYI, there isn’t a single person in any business department who doesn’t use bar charts according to the way I have described. In fact, one would be hard pressed to find other ways in which bar charts are used as a % of usage.</p>\n<p>You can ask <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> about this if you want. I’m sure he has come across many presentations which use bar charts in his career.</p>",
+        "post_number": 24,
+        "post_type": 1,
+        "posts_count": 22,
+        "updated_at": "2024-09-05T05:39:56.720Z",
+        "reply_count": 0,
+        "reply_to_post_number": 23,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 23,
+        "readers_count": 22,
+        "score": 64.6,
+        "yours": false,
+        "topic_id": 144739,
+        "topic_slug": "can-we-visualize-outliers-in-scatter-plot",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-we-visualize-outliers-in-scatter-plot/144739/24",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      520954,
+      520959,
+      520980,
+      520994,
+      520995,
+      520998,
+      521000,
+      521048,
+      521082,
+      521123,
+      521173,
+      521177,
+      521264,
+      521266,
+      521289,
+      521566,
+      521843,
+      521856,
+      521918,
+      521981,
+      521993,
+      521996
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      271
+    ],
+    [
+      16,
+      269
+    ],
+    [
+      20,
+      268
+    ]
+  ],
+  "tags": [
+    "clarification",
+    "diploma-level"
+  ],
+  "tags_descriptions": {},
+  "id": 144739,
+  "title": "Can we visualize outliers in scatter plot",
+  "fancy_title": "Can we visualize outliers in scatter plot",
+  "posts_count": 22,
+  "created_at": "2024-09-02T05:40:37.645Z",
+  "views": 151,
+  "reply_count": 17,
+  "like_count": 8,
+  "last_posted_at": "2024-09-05T05:39:56.720Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "can-we-visualize-outliers-in-scatter-plot",
+  "category_id": 34,
+  "word_count": 809,
+  "deleted_at": null,
+  "user_id": 16233,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_1024x460.jpeg",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_144739",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 24,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 7,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 1600,
+      "height": 720,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171.jpeg"
+    },
+    {
+      "max_width": 1024,
+      "max_height": 1024,
+      "width": 1024,
+      "height": 460,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/7/87d73eb49ad5cdc7a452b6f8e58c026df83e7171_2_1024x460.jpeg"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 15826,
+        "username": "iitmanupam",
+        "name": "Anupam Chandra",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "post_count": 7,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 16233,
+        "username": "Access_Naren",
+        "name": "DNarendran",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 6563,
+        "username": "21f3000759",
+        "name": "Swati Jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17669,
+        "username": "RajatShenoi",
+        "name": "Rajat Shenoi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajatshenoi/{size}/66910_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8282,
+        "username": "21f3002243",
+        "name": "Palash_H",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8542,
+        "username": "22ds1000191",
+        "name": "Aparna Iyer",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000191/{size}/66780_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 16233,
+      "username": "Access_Naren",
+      "name": "DNarendran",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/access_naren/{size}/56336_2.png"
+    },
+    "last_poster": {
+      "id": 15826,
+      "username": "iitmanupam",
+      "name": "Anupam Chandra",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+    },
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/15BcK8d_j9B7UkD8gMUOVFsuCMRPNE7QP/view?usp=drivesdk",
+        "title": "IIT M FOUNDATION DIPLOMA AN EXAM QDF3.pdf - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 13,
+        "user_id": 16233,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/14wV7AZbPEEec4zWmZTOb7MS34Yd1wZ4m",
+        "title": "FN - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 15826,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

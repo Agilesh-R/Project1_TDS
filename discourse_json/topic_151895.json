@@ -1,0 +1,1107 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 539750,
+        "name": "B D Jahnavi",
+        "username": "jahnavibd",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jahnavibd/{size}/66976_2.png",
+        "created_at": "2024-10-11T02:34:54.066Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> ,  I am trying to scrape the data from <a href=\"https://imdb.com/chart/boxoffice\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Top Box Office (US)</a>, but stuck at here <img src=\"https://emoji.discourse-cdn.com/google/point_down.png?v=12\" title=\":point_down:\" class=\"emoji\" alt=\":point_down:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f.png\" data-download-href=\"/uploads/short-url/7iY8Rt5jDo9SfaA8ky092DioyCz.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f_2_690x398.png\" alt=\"image\" data-base62-sha1=\"7iY8Rt5jDo9SfaA8ky092DioyCz\" width=\"690\" height=\"398\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f_2_690x398.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f.png 2x\" data-dominant-color=\"686D6E\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">986×570 75.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\ncan’t able to scrape the <strong>Weekend Gross</strong>, <strong>Total Gross</strong> and <strong>Weeks Released</strong> fields, my code is:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/1/a19edc4bd35ba2ac03bf9cef2b1406eab10bed09.png\" data-download-href=\"/uploads/short-url/n3LefAEeX2hNhFpzF6hB1WoPGVH.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/1/a19edc4bd35ba2ac03bf9cef2b1406eab10bed09.png\" alt=\"image\" data-base62-sha1=\"n3LefAEeX2hNhFpzF6hB1WoPGVH\" width=\"690\" height=\"136\" data-dominant-color=\"2B2E2B\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">988×196 15.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>I am not able to find where is it going wrong, could you help…</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-11T02:34:54.066Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 32,
+        "readers_count": 31,
+        "score": 21.2,
+        "yours": false,
+        "topic_id": 151895,
+        "topic_slug": "scraping-the-imdb-browser-using-javascript",
+        "display_username": "B D Jahnavi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://imdb.com/chart/boxoffice",
+            "internal": false,
+            "reflection": false,
+            "title": "Top Box Office (US)",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16089,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/scraping-the-imdb-browser-using-javascript/151895/1",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 539785,
+        "name": "Vikram Singh Negi",
+        "username": "vikram_negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "created_at": "2024-10-11T05:22:17.583Z",
+        "cooked": "<p>Try this:</p>\n<pre data-code-wrap=\"javascript\"><code class=\"lang-javascript\">$$('.ipc-metadata-list-summary-item').map(item =&gt; [\n    item.querySelector('.ipc-title__text').textContent,\n    item.querySelector('.sc-8f57e62c-1:nth-child(1)').querySelector('span:last-child').textContent,\n    item.querySelector('.sc-8f57e62c-1:nth-child(2)').querySelector('span:last-child').textContent,\n    item.querySelector('.sc-8f57e62c-1:nth-child(3)').querySelector('span:last-child').textContent,\n    item.querySelector('.ipc-rating-star--rating').textContent,\n    item.querySelector('.ipc-rating-star--voteCount').textContent.trim(),\n]);\n</code></pre>\n<p>Note: The CSS pseudo-class selector, selects the n-th child of a parent element. In this example, I <code>sc-8f57e62c-1</code> is the class of the <code>li</code> element.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-11T05:22:17.583Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 24,
+        "readers_count": 23,
+        "score": 39.8,
+        "yours": false,
+        "topic_id": 151895,
+        "topic_slug": "scraping-the-imdb-browser-using-javascript",
+        "display_username": "Vikram Singh Negi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15889,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/scraping-the-imdb-browser-using-javascript/151895/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 539863,
+        "name": "B D Jahnavi",
+        "username": "jahnavibd",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jahnavibd/{size}/66976_2.png",
+        "created_at": "2024-10-11T07:30:44.619Z",
+        "cooked": "<p>Now, It is right. I haven’t given the parent element for nth child, this works well with/without giving the span as last child.</p>\n<p>Thanks!</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-11T07:30:44.619Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 21,
+        "readers_count": 20,
+        "score": 19.2,
+        "yours": false,
+        "topic_id": 151895,
+        "topic_slug": "scraping-the-imdb-browser-using-javascript",
+        "display_username": "B D Jahnavi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15889,
+          "username": "vikram_negi",
+          "name": "Vikram Singh Negi",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16089,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/scraping-the-imdb-browser-using-javascript/151895/3",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      539750,
+      539785,
+      539863
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      233
+    ],
+    [
+      2,
+      232
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:31:45.591Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 517,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 151895,
+  "title": "Scraping the IMDb browser using Javascript",
+  "fancy_title": "Scraping the IMDb browser using Javascript",
+  "posts_count": 3,
+  "created_at": "2024-10-11T02:34:53.865Z",
+  "views": 36,
+  "reply_count": 1,
+  "like_count": 3,
+  "last_posted_at": "2024-10-11T07:30:44.619Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "scraping-the-imdb-browser-using-javascript",
+  "category_id": 34,
+  "word_count": 184,
+  "deleted_at": null,
+  "user_id": 16089,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_151895",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 986,
+      "height": 570,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/3/33342db30bd13f7d531957c61667a16e00ea5f5f.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 134706,
+      "title": "Issue in scraping IMDb",
+      "fancy_title": "Issue in scraping IMDb",
+      "slug": "issue-in-scraping-imdb",
+      "posts_count": 5,
+      "reply_count": 3,
+      "highest_post_number": 5,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/a/ba6f62b5b6d3bdc1c8fd17c7ab4a900b1815ca66_2_1024x562.png",
+      "created_at": "2024-06-14T12:07:58.834Z",
+      "last_posted_at": "2024-06-14T14:24:38.591Z",
+      "bumped": true,
+      "bumped_at": "2024-06-14T14:24:38.591Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 28,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16125,
+            "username": "23f1000873",
+            "name": "aditya_nupani",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000873/{size}/68296_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 117996,
+      "title": "Unable to scapre IMDB Table",
+      "fancy_title": "Unable to scapre IMDB Table",
+      "slug": "unable-to-scapre-imdb-table",
+      "posts_count": 4,
+      "reply_count": 1,
+      "highest_post_number": 4,
+      "image_url": null,
+      "created_at": "2024-02-04T09:32:06.473Z",
+      "last_posted_at": "2024-02-04T11:01:29.271Z",
+      "bumped": true,
+      "bumped_at": "2024-02-04T11:01:29.271Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 32,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 12077,
+            "username": "22f1000734",
+            "name": "Varun Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000734/{size}/33457_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14972,
+            "username": "22f2001036",
+            "name": "Johnson Philips",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001036/{size}/21069_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17144,
+            "username": "23ds2000038",
+            "name": "KAPIL VASSUDEV SHENVI AMONKAR",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000038/{size}/66733_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 96076,
+      "title": "Error 405 or 403 while scraping data",
+      "fancy_title": "Error 405 or 403 while scraping data",
+      "slug": "error-405-or-403-while-scraping-data",
+      "posts_count": 14,
+      "reply_count": 7,
+      "highest_post_number": 14,
+      "image_url": null,
+      "created_at": "2023-07-21T13:08:03.440Z",
+      "last_posted_at": "2023-07-23T04:08:00.700Z",
+      "bumped": true,
+      "bumped_at": "2023-07-23T04:08:00.700Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational",
+        "course-portal"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 200,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 11192,
+            "username": "Krithika",
+            "name": "Krithika",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/krithika/{size}/13956_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14645,
+            "username": "Sharmili",
+            "name": "S.A.SHARMILI SRINATH",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sharmili/{size}/45679_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6219,
+            "username": "21f3000786",
+            "name": "Ujit Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000786/{size}/66382_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 4098,
+            "username": "Anushaa",
+            "name": "Anushaa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anushaa/{size}/462_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 14712,
+            "username": "Insaf",
+            "name": "Insaf Maryam",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/insaf/{size}/45718_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 25954,
+      "title": "Imdb scrape",
+      "fancy_title": "Imdb scrape",
+      "slug": "imdb-scrape",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/2X/9/997bf981232d5a8f4f991ca83d6c6e2ea6f14713_2_768x1024.jpeg",
+      "created_at": "2022-01-03T17:36:57.476Z",
+      "last_posted_at": "2022-01-03T17:51:28.273Z",
+      "bumped": true,
+      "bumped_at": "2022-01-03T18:07:02.259Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 62,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 1021,
+            "username": "CKPIITM",
+            "name": "Chandan kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ckpiitm/{size}/1619_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6139,
+            "username": "maheshbalan",
+            "name": "Mahesh Balan U",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/maheshbalan/{size}/13253_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 134635,
+      "title": "Issue in scrapping imdb data with python",
+      "fancy_title": "Issue in scrapping imdb data with python",
+      "slug": "issue-in-scrapping-imdb-data-with-python",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/4/447d50007deaa499d644d3fcdcd7b95565fd9506.png",
+      "created_at": "2024-06-14T04:27:47.873Z",
+      "last_posted_at": "2024-06-15T15:12:25.289Z",
+      "bumped": true,
+      "bumped_at": "2024-06-15T15:12:25.289Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 46,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 19767,
+            "username": "Ramandeep",
+            "name": "Ranandeep",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ramandeep/{size}/67205_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16187,
+            "username": "22f3002487",
+            "name": "ektabansal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002487/{size}/87326_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 2,
+    "username": "vikram_negi",
+    "name": null,
+    "excerpt": "Try this: \n$$(&#39;.ipc-metadata-list-summary-item&#39;).map(item =&gt; [\n    item.querySelector(&#39;.ipc-title__text&#39;).textContent,\n    item.querySelector(&#39;.sc-8f57e62c-1:nth-child(1)&#39;).querySelector(&#39;span:last-child&#39;).textContent,\n    item.querySelector(&#39;.sc-8f57e62c-1:nth-child(2)&#39;).querySelector(&#39;span:last-ch&hellip;",
+    "accepter_name": null,
+    "accepter_username": "carlton"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16089,
+        "username": "jahnavibd",
+        "name": "B D Jahnavi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jahnavibd/{size}/66976_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15889,
+        "username": "vikram_negi",
+        "name": "Vikram Singh Negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 16089,
+      "username": "jahnavibd",
+      "name": "B D Jahnavi",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jahnavibd/{size}/66976_2.png"
+    },
+    "last_poster": {
+      "id": 16089,
+      "username": "jahnavibd",
+      "name": "B D Jahnavi",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jahnavibd/{size}/66976_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

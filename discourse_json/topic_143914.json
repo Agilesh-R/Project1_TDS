@@ -1,0 +1,2602 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 518106,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T08:22:07.393Z",
+        "cooked": "<p>Hello Everyone,</p>\n<p>After submitting my answers for project 2 I get a test run of 100/100 but I get this error message: “Your submission has wrong answers. Please recheck the submission”.</p>\n<p>The error message is contradictory, because the very first message says “Please note that the actual evaluation of your answer will be done only after the due date and the test run results indicative of file format alone.”</p>\n<p>So what does this error message mean? Does it mean that answers are wrong or the formatting is wrong? I’m not able to solve this even 2 days after trying and I don’t know what I’m doing wrong.</p>\n<p>Could anyone please advise?</p>\n<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>\n<p>Thanks.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:22:07.393Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 79,
+        "readers_count": 78,
+        "score": 20.8,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/1",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 518114,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T08:49:44.768Z",
+        "cooked": "<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"143731\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/48/23528_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/solution-to-tds-project-wrong-answer-thing/143731\">Solution to TDS Project \"Wrong answer thing\"</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    Hello, \nI saw a lot of my friends still struggling with wrong answer thing which says - \nYour submission has wrong answers. Please recheck the submission \nSolution -  \nUse notepad or simple text editors \nFormat \nQ1, 678 \nQ2,“Answer” \nQ3,7.89 \nSave as csv file you can name it anything. \nWhy without quotes thing is working yet not recommended??? \nWhen you use Excel or Google sheets - they by default add quotes for strings (See image below - it doesn’t have correct answers just shared for format) s…\n  </blockquote>\n</aside>\n<p>\nDo this</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:49:44.768Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 75,
+        "readers_count": 74,
+        "score": 20.0,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/solution-to-tds-project-wrong-answer-thing/143731",
+            "internal": true,
+            "reflection": false,
+            "title": "Solution to TDS Project \"Wrong answer thing\"",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/2",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518115,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T08:51:49.141Z",
+        "cooked": "<p>So I have to remove the quotes?</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:51:49.141Z",
+        "reply_count": 2,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 71,
+        "readers_count": 70,
+        "score": 24.2,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/3",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518116,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T08:53:13.858Z",
+        "cooked": "<p>Same error even after I removed the quotes</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:53:13.858Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 71,
+        "readers_count": 70,
+        "score": 14.2,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/4",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518117,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T08:54:34.730Z",
+        "cooked": "<p>no you have to write it in notepad and then save as csv</p>\n<p>read the post</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:56:14.670Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 69,
+        "readers_count": 68,
+        "score": 18.8,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/5",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518118,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T08:55:42.552Z",
+        "cooked": "<p>Yes that’s exactly what I did. I put double quotes for the strings answers. I’ve also checked 4-5 times that the format is correct. Don’t know what to do now.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:55:42.552Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 66,
+        "readers_count": 65,
+        "score": 18.2,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/6",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518119,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T08:56:42.737Z",
+        "cooked": "<p>Did you do it in notepad or text editor?</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:56:42.737Z",
+        "reply_count": 1,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 64,
+        "readers_count": 63,
+        "score": 17.8,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/7",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518120,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T08:57:33.869Z",
+        "cooked": "<p>I used notepad only, not any other editor</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:57:33.869Z",
+        "reply_count": 1,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 63,
+        "readers_count": 62,
+        "score": 17.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/8",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518121,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T08:58:28.578Z",
+        "cooked": "<p>can you share screenshot here?</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:58:28.578Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 63,
+        "readers_count": 62,
+        "score": 12.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/9",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518122,
+        "name": "MOHD AMAN",
+        "username": "aman1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png",
+        "created_at": "2024-08-25T08:59:42.629Z",
+        "cooked": "<p>Someone tell me about the sumission what type of file have to submit csv or zip?</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T08:59:42.629Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 63,
+        "readers_count": 62,
+        "score": 22.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "MOHD AMAN",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27515,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/10",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518123,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:00:20.955Z",
+        "cooked": "<p><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/e/aea0a79d6b275ac35fe20144c47278567eed11c4.png\" alt=\"image\" data-base62-sha1=\"oUPhqpiJCrSBbQKyCJH9ZGMJw8Y\" width=\"193\" height=\"283\"></p>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:00:20.955Z",
+        "reply_count": 2,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 61,
+        "readers_count": 60,
+        "score": 22.2,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27515,
+          "username": "aman1011",
+          "name": "MOHD AMAN",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/11",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518124,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:01:35.337Z",
+        "cooked": "<p>Nothing looks wrong to me</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:01:35.337Z",
+        "reply_count": 1,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/12",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518125,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:02:16.293Z",
+        "cooked": "<p>But <a class=\"mention\" href=\"/u/carlton\">@carlton</a>, is it checking the answers themselves or the formatting? 2 different error messages in the same log say different things</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:02:16.293Z",
+        "reply_count": 0,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 59,
+        "readers_count": 58,
+        "score": 11.8,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/13",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518126,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T09:03:14.843Z",
+        "cooked": "<p>For Q9 you have put in title and not original title right?<br>\nIf formatting isn’t an issue your answers are wrong… try comparing with a friend</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:04:55.424Z",
+        "reply_count": 2,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 58,
+        "readers_count": 57,
+        "score": 21.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/14",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518127,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T09:04:02.290Z",
+        "cooked": "<p>Read the first line in the project page</p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:04:02.290Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 58,
+        "readers_count": 57,
+        "score": 11.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27515,
+          "username": "aman1011",
+          "name": "MOHD AMAN",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/15",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518128,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:06:33.543Z",
+        "cooked": "<p>yes I put in ‘title’ only</p>",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:06:33.543Z",
+        "reply_count": 1,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/16",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518129,
+        "name": "MOHD AMAN",
+        "username": "aman1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png",
+        "created_at": "2024-08-25T09:08:00.472Z",
+        "cooked": "<p>In the first line mentioned the csv file but the portal says Select your zip file therefor i asked.</p>",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:08:00.472Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 62,
+        "readers_count": 61,
+        "score": 17.4,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "MOHD AMAN",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27515,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/17",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518130,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-08-25T09:09:54.934Z",
+        "cooked": "<p>That’s generic ignore that you need to upIoad csv file <a class=\"mention\" href=\"/u/aman1011\">@aman1011</a></p>",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:10:06.805Z",
+        "reply_count": 1,
+        "reply_to_post_number": 17,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 62,
+        "readers_count": 61,
+        "score": 17.4,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27515,
+          "username": "aman1011",
+          "name": "MOHD AMAN",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/18",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518132,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:13:46.058Z",
+        "cooked": "<p>Does anyone have any suggestions?</p>",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:13:46.058Z",
+        "reply_count": 0,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 61,
+        "readers_count": 60,
+        "score": 12.2,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/19",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518133,
+        "name": "MOHD AMAN",
+        "username": "aman1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png",
+        "created_at": "2024-08-25T09:14:29.523Z",
+        "cooked": "<p>Ok thank you, but  after submitting my answers for project 2 I get a test run of 100/100 but I get this error message: “Your submission has wrong answers. Please recheck the submission”.</p>",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:14:29.523Z",
+        "reply_count": 0,
+        "reply_to_post_number": 18,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 12.0,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "MOHD AMAN",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27515,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/20",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518134,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:14:41.028Z",
+        "cooked": "<p>I don’t have a friend to compare them with</p>",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:14:41.028Z",
+        "reply_count": 1,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 58,
+        "readers_count": 57,
+        "score": 16.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/21",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518135,
+        "name": "Harsh Bathija",
+        "username": "23f2003589",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "created_at": "2024-08-25T09:16:46.946Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/c/7cddeaf0bd90536b82f86cc8bc23d91285887e5e.png\" data-download-href=\"/uploads/short-url/hOCF69Ka7CiZqQLymII6VEk4wXQ.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/c/7cddeaf0bd90536b82f86cc8bc23d91285887e5e.png\" alt=\"image\" data-base62-sha1=\"hOCF69Ka7CiZqQLymII6VEk4wXQ\" width=\"690\" height=\"278\" data-dominant-color=\"F1F1F3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1363×550 12.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 22,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:16:46.946Z",
+        "reply_count": 1,
+        "reply_to_post_number": 21,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 58,
+        "readers_count": 57,
+        "score": 26.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Harsh Bathija",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27497,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/22",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518137,
+        "name": "MOHD AMAN",
+        "username": "aman1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png",
+        "created_at": "2024-08-25T09:20:00.357Z",
+        "cooked": "<p>Same issue i facing even test run score 100/100 <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 23,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T09:22:57.935Z",
+        "reply_count": 0,
+        "reply_to_post_number": 22,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 11.4,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "MOHD AMAN",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27497,
+          "username": "23f2003589",
+          "name": "Harsh Bathija",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27515,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/23",
+        "user_cakedate": "2024-02-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518302,
+        "name": "Talha Mahmood",
+        "username": "Talha10",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+        "created_at": "2024-08-25T15:51:52.927Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/aman1011\">@aman1011</a> , <a class=\"mention\" href=\"/u/23f2003589\">@23f2003589</a></p>\n<p>If you have confirmed that your answers are correct, try checking them in Excel using the respective CSV file, especially for the questions involving string types. Then, create a new Notepad file to write the answers in the format described earlier, save it as a .csv, and resubmit it. I had the same issue, and this approach helped me resolve it. I suggest copying and pasting the exact answers you got for the string-type questions, making sure they are enclosed in double quotes.</p>",
+        "post_number": 24,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T15:51:52.927Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 35,
+        "readers_count": 34,
+        "score": 7.0,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Talha Mahmood",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14776,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/24",
+        "user_cakedate": "2022-09-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 518374,
+        "name": "Mayank Joshi",
+        "username": "Mayankjoc",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mayankjoc/{size}/15_2.png",
+        "created_at": "2024-08-25T19:03:26.974Z",
+        "cooked": "<p>In my project 1 showing red while i submitted all answers and showing in response.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/2/e249bde2782d7bfc7a0e89fa41de63f7703935da.png\" data-download-href=\"/uploads/short-url/whPTKLPboOPRLC3sZ5rQWD4mEJA.png?dl=1\" title=\"Screenshot_20240826-002843\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/2/e249bde2782d7bfc7a0e89fa41de63f7703935da_2_225x500.png\" alt=\"Screenshot_20240826-002843\" data-base62-sha1=\"whPTKLPboOPRLC3sZ5rQWD4mEJA\" width=\"225\" height=\"500\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/2/e249bde2782d7bfc7a0e89fa41de63f7703935da_2_225x500.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/2/e249bde2782d7bfc7a0e89fa41de63f7703935da_2_337x750.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/2/e249bde2782d7bfc7a0e89fa41de63f7703935da_2_450x1000.png 2x\" data-dominant-color=\"E5E5E9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot_20240826-002843</span><span class=\"informations\">720×1600 106 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 25,
+        "post_type": 1,
+        "posts_count": 25,
+        "updated_at": "2024-08-25T19:03:26.974Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 18,
+        "readers_count": 17,
+        "score": 3.6,
+        "yours": false,
+        "topic_id": 143914,
+        "topic_slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+        "display_username": "Mayank Joshi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7466,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission/143914/25",
+        "user_cakedate": "2021-09-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      518106,
+      518114,
+      518115,
+      518116,
+      518117,
+      518118,
+      518119,
+      518120,
+      518121,
+      518122,
+      518123,
+      518124,
+      518125,
+      518126,
+      518127,
+      518128,
+      518129,
+      518130,
+      518132,
+      518133,
+      518134,
+      518135,
+      518137,
+      518302,
+      518374
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      279
+    ]
+  ],
+  "tags": [
+    "term2-2024"
+  ],
+  "tags_descriptions": {},
+  "id": 143914,
+  "title": "Unable to Solve \"Your submission has wrong answers. Please recheck the submission\"",
+  "fancy_title": "Unable to Solve &ldquo;Your submission has wrong answers. Please recheck the submission&rdquo;",
+  "posts_count": 25,
+  "created_at": "2024-08-25T08:22:07.169Z",
+  "views": 92,
+  "reply_count": 19,
+  "like_count": 0,
+  "last_posted_at": "2024-08-25T19:03:26.974Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "unable-to-solve-your-submission-has-wrong-answers-please-recheck-the-submission",
+  "category_id": 34,
+  "word_count": 515,
+  "deleted_at": null,
+  "user_id": 27497,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_143914",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 25,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 5,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 27497,
+        "username": "23f2003589",
+        "name": "Harsh Bathija",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png",
+        "post_count": 12,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 6563,
+        "username": "21f3000759",
+        "name": "Swati Jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "post_count": 7,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 27515,
+        "username": "aman1011",
+        "name": "MOHD AMAN",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aman1011/{size}/67712_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7466,
+        "username": "Mayankjoc",
+        "name": "Mayank Joshi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mayankjoc/{size}/15_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14776,
+        "username": "Talha10",
+        "name": "Talha Mahmood",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 27497,
+      "username": "23f2003589",
+      "name": "Harsh Bathija",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003589/{size}/67422_2.png"
+    },
+    "last_poster": {
+      "id": 7466,
+      "username": "Mayankjoc",
+      "name": "Mayank Joshi",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mayankjoc/{size}/15_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

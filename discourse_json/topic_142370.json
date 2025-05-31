@@ -1,0 +1,1493 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 511413,
+        "name": "sandhya",
+        "username": "23ds2000116",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+        "created_at": "2024-08-07T07:51:34.367Z",
+        "cooked": "<p>Sir<br>\ni had requested to get my week 4 marks on portal ,had raised a ticket also for the same.That has not been resolved yet and now It is really irritating to find that my week 3 marks have suddenly reduced by 10 on portal.<br>\nI fail to understand what’s  going on??<br>\nRaising tickets also we get responses such as \"your concern has been forwarded to the concerned team \"and no response after that.</p>\n<p>Kindly  look into the issue asap</p>\n<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a>  <a class=\"mention\" href=\"/u/andrew\">@andrew</a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-07T07:51:34.367Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 6.6,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "sandhya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17961,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/1",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 511485,
+        "name": "Talha Mahmood",
+        "username": "Talha10",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+        "created_at": "2024-08-07T12:22:06.475Z",
+        "cooked": "<p>Check the portal now. It has been fixed for week 4.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-07T12:30:09.461Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 30,
+        "readers_count": 29,
+        "score": 11.0,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "Talha Mahmood",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14776,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/2",
+        "user_cakedate": "2022-09-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 511493,
+        "name": "sandhya",
+        "username": "23ds2000116",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+        "created_at": "2024-08-07T12:58:06.000Z",
+        "cooked": "<p>yes thanks , but why have my week 3 scores decreased when no changes are made ? also how to access wrong answers and know which answers are wrong in week 4</p>\n<p>regards<br>\nsandhya</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-07T12:58:21.229Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 29,
+        "readers_count": 28,
+        "score": 10.8,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "sandhya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 14776,
+          "username": "Talha10",
+          "name": "Talha Mahmood",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17961,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/3",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 511503,
+        "name": "Talha Mahmood",
+        "username": "Talha10",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+        "created_at": "2024-08-07T13:45:22.363Z",
+        "cooked": "<p>Actually I have the same issue in week 3. so,<br>\n<a class=\"mention\" href=\"/u/carlton\">@carlton</a> Sir is the best one to clarify this issue.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-07T13:45:22.363Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 15.4,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "Talha Mahmood",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14776,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/4",
+        "user_cakedate": "2022-09-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 511616,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-08T03:46:40.270Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/talha10\">@Talha10</a> <a class=\"mention\" href=\"/u/23ds2000116\">@23ds2000116</a></p>\n<p>Your query is being looked at by the Operations team. They will either get in touch with you directly or they will update us on the query. As soon as we know anything we will inform you.</p>\n<p>Kind regards</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-08T03:46:40.270Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 22,
+        "readers_count": 21,
+        "score": 4.4,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 14776,
+          "username": "Talha10",
+          "name": "Talha Mahmood",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 512009,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-09T10:13:26.490Z",
+        "cooked": "<p>Hi <a class=\"mention\" href=\"/u/23ds2000116\">@23ds2000116</a>,</p>\n<p>We will be sending an official gform for all marks disputes. But meanwhile I had a chance to personally check your week 3 submission. You specifically got Q3 and Q4 wrong. We personally validated your question with our own answer scripts as well as the official answer key. Therefore you have received the correct marks for Week 3. You got exactly 8/10 questions correct. Week 4 frontend display is currently a system wide issue for TDS. The marks and submissions are all visible on our end. Hope that clears things up.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-09T10:13:26.490Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 13,
+        "readers_count": 12,
+        "score": 22.6,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 17961,
+          "username": "23ds2000116",
+          "name": "sandhya",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/6",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 512012,
+        "name": "sandhya",
+        "username": "23ds2000116",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+        "created_at": "2024-08-09T10:53:57.000Z",
+        "cooked": "<p>Thank you for the clarification.kindly send the clarification for week 4 also so that we may know which questions are right and which wrong</p>\n<p>thanks once again!</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2024-08-09T10:54:14.968Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 12,
+        "readers_count": 11,
+        "score": 2.4,
+        "yours": false,
+        "topic_id": 142370,
+        "topic_slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+        "display_username": "sandhya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17961,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/week-3-scores-reduced-on-portal-week-4-marks-still-not-showing/142370/7",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      511413,
+      511485,
+      511493,
+      511503,
+      511616,
+      512009,
+      512012
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      297
+    ],
+    [
+      6,
+      295
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:31:45.591Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 517,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "operational",
+    "diploma-level",
+    "course-portal"
+  ],
+  "tags_descriptions": {},
+  "id": 142370,
+  "title": "Week 3 scores reduced on portal,week 4 marks still not showing",
+  "fancy_title": "Week 3 scores reduced on portal,week 4 marks still not showing",
+  "posts_count": 7,
+  "created_at": "2024-08-07T07:51:34.123Z",
+  "views": 59,
+  "reply_count": 4,
+  "like_count": 1,
+  "last_posted_at": "2024-08-09T10:53:57.000Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "week-3-scores-reduced-on-portal-week-4-marks-still-not-showing",
+  "category_id": 34,
+  "word_count": 310,
+  "deleted_at": null,
+  "user_id": 17961,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_142370",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 7,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 141576,
+      "title": "Week 4 assignment score not showing on portal",
+      "fancy_title": "Week 4 assignment score not showing on portal",
+      "slug": "week-4-assignment-score-not-showing-on-portal",
+      "posts_count": 14,
+      "reply_count": 6,
+      "highest_post_number": 14,
+      "image_url": null,
+      "created_at": "2024-07-30T09:49:35.284Z",
+      "last_posted_at": "2024-08-07T17:56:19.837Z",
+      "bumped": true,
+      "bumped_at": "2024-08-07T17:56:19.837Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 110,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17961,
+            "username": "23ds2000116",
+            "name": "sandhya",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14776,
+            "username": "Talha10",
+            "name": "Talha Mahmood",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8282,
+            "username": "21f3002243",
+            "name": "Palash_H",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17349,
+            "username": "23f1002250",
+            "name": "Priasha Mukherjee ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002250/{size}/67684_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 34823,
+      "title": "Wrong display of marks on portal",
+      "fancy_title": "Wrong display of marks on portal",
+      "slug": "wrong-display-of-marks-on-portal",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2022-02-18T18:47:22.985Z",
+      "last_posted_at": "2022-02-19T08:14:53.214Z",
+      "bumped": true,
+      "bumped_at": "2022-02-19T08:14:53.214Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-7"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 44,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 3995,
+            "username": "BhavyaR",
+            "name": "Bhavya Ranjan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bhavyar/{size}/891_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1995,
+            "username": "rooshil",
+            "name": "Rooshil Bhatia",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/r/a587f6/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1460,
+            "username": "AdityaPhalnikar",
+            "name": "Aditya Phalnikar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/adityaphalnikar/{size}/9477_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 142372,
+      "title": "Response of ticket raised regarding week 4 ga",
+      "fancy_title": "Response of ticket raised regarding week 4 ga",
+      "slug": "response-of-ticket-raised-regarding-week-4-ga",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/1/f106ec3615fef2061a2195a4bd2d45fa43788d04.png",
+      "created_at": "2024-08-07T08:04:04.549Z",
+      "last_posted_at": "2024-08-08T07:22:35.219Z",
+      "bumped": true,
+      "bumped_at": "2024-08-08T07:22:35.219Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 37,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 17961,
+            "username": "23ds2000116",
+            "name": "sandhya",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 107688,
+      "title": "TDS week 4 marks error",
+      "fancy_title": "TDS week 4 marks error",
+      "slug": "tds-week-4-marks-error",
+      "posts_count": 18,
+      "reply_count": 4,
+      "highest_post_number": 18,
+      "image_url": null,
+      "created_at": "2023-10-26T10:02:16.157Z",
+      "last_posted_at": "2023-11-09T09:52:46.921Z",
+      "bumped": true,
+      "bumped_at": "2023-11-09T09:52:46.921Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 5,
+      "views": 149,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 13678,
+            "username": "21f1004764",
+            "name": "Nikita Rathore",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1004764/{size}/68111_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3230,
+            "username": "shriaviator",
+            "name": "Srinivas Chilukuri",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/59ef9b/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16812,
+            "username": "23ds1000135",
+            "name": "Kalpita Tare",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000135/{size}/81723_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12150,
+            "username": "22f1001418",
+            "name": "KSHITIJ MAHESHWARI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001418/{size}/109846_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 4999,
+            "username": "Gangsta123",
+            "name": "Jeevan Aji George",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gangsta123/{size}/7529_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 108609,
+      "title": "Graded Assgn Week 4a/ wrong marks",
+      "fancy_title": "Graded Assgn Week 4a/ wrong marks",
+      "slug": "graded-assgn-week-4a-wrong-marks",
+      "posts_count": 5,
+      "reply_count": 3,
+      "highest_post_number": 5,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/7/f70efbe1995eb1198156fdb776a29e9b6a088b75.png",
+      "created_at": "2023-11-05T07:30:12.268Z",
+      "last_posted_at": "2023-11-10T18:12:17.880Z",
+      "bumped": true,
+      "bumped_at": "2023-11-10T18:12:17.880Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "graded-assignment",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 61,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 11513,
+            "username": "21f3002975",
+            "name": "Vasu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002975/{size}/17424_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16812,
+            "username": "23ds1000135",
+            "name": "Kalpita Tare",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000135/{size}/81723_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 17961,
+        "username": "23ds2000116",
+        "name": "sandhya",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 14776,
+        "username": "Talha10",
+        "name": "Talha Mahmood",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/talha10/{size}/112079_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 17961,
+      "username": "23ds2000116",
+      "name": "sandhya",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png"
+    },
+    "last_poster": {
+      "id": 17961,
+      "username": "23ds2000116",
+      "name": "sandhya",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
