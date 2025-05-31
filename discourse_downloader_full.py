@@ -9,8 +9,8 @@ from urllib.parse import urljoin, urlencode
 DISCOURSE_BASE_URL = "https://discourse.onlinedegree.iitm.ac.in/"
 CATEGORY_SLUG = "courses/tds-kb"
 CATEGORY_ID = 34
-START_DATE = "2025-01-01" # Inclusive
-END_DATE = "2025-04-15"   # Inclusive
+START_DATE = "2024-08-01" # Inclusive
+END_DATE = "2025-01-10"   # Inclusive
 
 RAW_COOKIE_STRING = """""" # Replace with your actual cookie string
 

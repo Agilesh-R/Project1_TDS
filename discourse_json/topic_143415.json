@@ -1,0 +1,2497 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 515894,
+        "name": "Shivansh Pande",
+        "username": "21f1000658",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1000658/{size}/179_2.png",
+        "created_at": "2024-08-20T05:37:57.519Z",
+        "cooked": "<p>Good Morning <a class=\"mention\" href=\"/u/carlton\">@carlton</a> Sir,<br>\nJust wanted to clarify, what is the syllabus for End Term Exam of TDS? Also, what kind of questions appear, theoretical, numerical, or ROE-like, meaning anything from anywhere on the internet?<br>\nThank You Sir.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-22T07:39:47.114Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 13,
+        "reads": 441,
+        "readers_count": 440,
+        "score": 168.2,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Shivansh Pande",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6912,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/1",
+        "user_cakedate": "2021-09-07",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 516492,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-21T06:55:22.633Z",
+        "cooked": "<ol>\n<li>Syllabus: All 9 modules, All videos</li>\n<li>Weightage: Roughly equal weightage for all 9 modules</li>\n<li>Questions: Between 40 to 60 questions</li>\n<li>Exam time: 1.5 hours</li>\n<li>Questions will be all brand new set. None from previous PYQs.</li>\n</ol>\n<p>Kind regards</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-21T06:55:22.633Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 8,
+        "reads": 435,
+        "readers_count": 434,
+        "score": 227.0,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/guidance-for-end-term-preparation-requested/143007/2",
+            "internal": true,
+            "reflection": true,
+            "title": "Guidance for End Term Preparation Requested",
+            "clicks": 33
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-exam-prep/143625",
+            "internal": true,
+            "reflection": true,
+            "title": "End term exam prep",
+            "clicks": 24
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 6,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 4
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 6,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 516990,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-08-22T05:09:12.050Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/vikash\">@vikash</a> can you pin this post at the top in TDS?</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-22T05:09:12.050Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 420,
+        "readers_count": 419,
+        "score": 104.0,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/3",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 516996,
+        "name": "Vikash Ram Mahuri",
+        "username": "vikash",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikash/{size}/103483_2.png",
+        "created_at": "2024-08-22T05:47:42.977Z",
+        "cooked": "<p>I will be not able to do this as I don’t have course specific privilege.<br>\n<a class=\"mention\" href=\"/u/carlton\">@carlton</a> can you pin your comment till end term as it very important information for TDS students.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-22T05:47:42.977Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 7,
+        "reads": 417,
+        "readers_count": 416,
+        "score": 133.4,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Vikash Ram Mahuri",
+        "primary_group_name": "ds-students",
+        "flair_name": "Community-TA",
+        "flair_url": "handshake-angle",
+        "flair_bg_color": "717BF7",
+        "flair_color": "6BEE3D",
+        "flair_group_id": 89,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Community-TA",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 769,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/4",
+        "user_cakedate": "2021-04-28",
+        "user_birthdate": "1904-05-10",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 517051,
+        "name": "Discourse Staff",
+        "username": "pds_staff",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/pds_staff/{size}/71791_2.png",
+        "created_at": "2024-08-22T07:38:26.832Z",
+        "cooked": "",
+        "post_number": 5,
+        "post_type": 3,
+        "posts_count": 15,
+        "updated_at": "2024-08-22T07:38:26.832Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 412,
+        "readers_count": 411,
+        "score": 107.4,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Discourse Staff",
+        "primary_group_name": null,
+        "flair_name": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "flair_group_id": null,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "pod-admin",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": true,
+        "admin": true,
+        "staff": true,
+        "user_id": 13670,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "pinned.enabled",
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/5",
+        "user_cakedate": "2022-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 518325,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-08-25T16:43:16.548Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> Sharing the link for End term notes I did prepare for my studies, hope it would help others appearing for TDS END TERM.</p>\n<p>use IITM email address to access the folder</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;ifkv=Ab5oB3p-O3s6BEop2cAbU7YrNhWdY2cXUa5nviORVboqPpzL1EVxQn7hgIIyiWRVbgh0gT2JEUXC8w&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S1747660649%3A1724604585824488\">\n  <header class=\"source\">\n\n      <a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;ifkv=Ab5oB3p-O3s6BEop2cAbU7YrNhWdY2cXUa5nviORVboqPpzL1EVxQn7hgIIyiWRVbgh0gT2JEUXC8w&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S1747660649%3A1724604585824488\" target=\"_blank\" rel=\"noopener nofollow ugc\">accounts.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    \n\n<h3><a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&amp;ifkv=Ab5oB3p-O3s6BEop2cAbU7YrNhWdY2cXUa5nviORVboqPpzL1EVxQn7hgIIyiWRVbgh0gT2JEUXC8w&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S1747660649%3A1724604585824488\" target=\"_blank\" rel=\"noopener nofollow ugc\">Google Drive: Sign-in</a></h3>\n\n  <p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-25T16:51:42.124Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 372,
+        "readers_count": 371,
+        "score": 519.4,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&ifkv=Ab5oB3p-O3s6BEop2cAbU7YrNhWdY2cXUa5nviORVboqPpzL1EVxQn7hgIIyiWRVbgh0gT2JEUXC8w&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1747660649%3A1724604585824488",
+            "internal": false,
+            "reflection": false,
+            "title": "Google Drive: Sign-in",
+            "clicks": 226
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 28,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/6",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 26
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 28,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 518430,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-26T05:03:32.339Z",
+        "cooked": "<p>That is great work <img src=\"https://emoji.discourse-cdn.com/google/clap/4.png?v=12\" title=\":clap:t4:\" class=\"emoji\" alt=\":clap:t4:\" loading=\"lazy\" width=\"20\" height=\"20\"> in summarising and bookmarking all the videos with brief descriptions, as well as putting all the resources in one place.</p>\n<p>Thanks for sharing,<br>\nKind regards</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-26T05:06:29.913Z",
+        "reply_count": 1,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 353,
+        "readers_count": 352,
+        "score": 105.6,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 12658,
+          "username": "AMU",
+          "name": "___",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/7",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 518439,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-08-26T05:43:42.579Z",
+        "cooked": "<p>Thank you, hope it would help others in some way</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-26T05:43:42.579Z",
+        "reply_count": 0,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 344,
+        "readers_count": 343,
+        "score": 88.8,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/8",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 519036,
+        "name": "Diya",
+        "username": "23f2000206",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000206/{size}/67290_2.png",
+        "created_at": "2024-08-27T16:16:37.734Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> please take a session on HTML and CSS also, for those who did not study them yet in mad1</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-27T16:16:37.734Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 319,
+        "readers_count": 318,
+        "score": 63.8,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "Diya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 18977,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/9",
+        "user_cakedate": "2023-06-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 520354,
+        "name": "udhayamaayei",
+        "username": "22f2001654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001654/{size}/14009_2.png",
+        "created_at": "2024-08-31T04:22:14.467Z",
+        "cooked": "<p>Hey thanks for this. I used IITM email id but still I’m getting 404 error. Can you please check</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-31T04:22:14.467Z",
+        "reply_count": 2,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 254,
+        "readers_count": 253,
+        "score": 85.8,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "udhayamaayei",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 12658,
+          "username": "AMU",
+          "name": "___",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14215,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/10",
+        "user_cakedate": "2022-09-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 520357,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-08-31T04:24:22.331Z",
+        "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;ifkv=Ab5oB3p-CvoPOdnmYNmPivHHg2v-OfJRvJCc4JmmunJmt4iDes-L91vt-b3juvka9vUzE26ZPt5SZA&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-887049526%3A1725078263935437\">\n  <header class=\"source\">\n\n      <a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;ifkv=Ab5oB3p-CvoPOdnmYNmPivHHg2v-OfJRvJCc4JmmunJmt4iDes-L91vt-b3juvka9vUzE26ZPt5SZA&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-887049526%3A1725078263935437\" target=\"_blank\" rel=\"noopener nofollow ugc\">accounts.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    \n\n<h3><a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&amp;ifkv=Ab5oB3p-CvoPOdnmYNmPivHHg2v-OfJRvJCc4JmmunJmt4iDes-L91vt-b3juvka9vUzE26ZPt5SZA&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-887049526%3A1725078263935437\" target=\"_blank\" rel=\"noopener nofollow ugc\">Google Drive: Sign-in</a></h3>\n\n  <p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-31T04:24:22.331Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 251,
+        "readers_count": 250,
+        "score": 70.2,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&ifkv=Ab5oB3p-CvoPOdnmYNmPivHHg2v-OfJRvJCc4JmmunJmt4iDes-L91vt-b3juvka9vUzE26ZPt5SZA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-887049526%3A1725078263935437",
+            "internal": false,
+            "reflection": false,
+            "clicks": 67
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-exam-prep/143625/17",
+            "internal": true,
+            "reflection": true,
+            "title": "End term exam prep",
+            "clicks": 5
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 14215,
+          "username": "22f2001654",
+          "name": "udhayamaayei",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001654/{size}/14009_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/11",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 520358,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-08-31T04:26:04.497Z",
+        "cooked": "<p>Please check the link of the drive, I have shared it again.</p>\n<p>There is no issue in access , please check once at your end</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-08-31T04:26:04.497Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 247,
+        "readers_count": 246,
+        "score": 59.4,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 14215,
+          "username": "22f2001654",
+          "name": "udhayamaayei",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001654/{size}/14009_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/12",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 561204,
+        "name": "sunidhi garg",
+        "username": "Sunidhi_garg",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunidhi_garg/{size}/42701_2.png",
+        "created_at": "2024-12-01T21:44:52.557Z",
+        "cooked": "<p>Hello, i am trying to login by IIT email and getting 400 error, if you could re-mention the link then it would be really helpful. Thanks in advance.</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-12-01T21:44:52.557Z",
+        "reply_count": 1,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 139,
+        "readers_count": 138,
+        "score": 32.8,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "sunidhi garg",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 12658,
+          "username": "AMU",
+          "name": "___",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12768,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/13",
+        "user_cakedate": "2022-05-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 568893,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-12-19T07:42:56.537Z",
+        "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\">\n  <header class=\"source\">\n\n      <a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\" target=\"_blank\" rel=\"noopener nofollow ugc\">accounts.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    \n\n<h3><a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\" target=\"_blank\" rel=\"noopener nofollow ugc\">Google Drive: Sign-in</a></h3>\n\n  <p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-12-19T07:42:56.537Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 89,
+        "readers_count": 88,
+        "score": 22.8,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1542596015%3A1734594178456465&ddm=1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 6
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 12768,
+          "username": "Sunidhi_garg",
+          "name": "sunidhi garg",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunidhi_garg/{size}/42701_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/14",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 568895,
+        "name": "___",
+        "username": "AMU",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "created_at": "2024-12-19T07:45:11.091Z",
+        "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\">\n  <header class=\"source\">\n\n      <a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\" target=\"_blank\" rel=\"noopener nofollow ugc\">accounts.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    \n\n<h3><a href=\"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&amp;ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-1542596015%3A1734594178456465&amp;ddm=1\" target=\"_blank\" rel=\"noopener nofollow ugc\">Google Drive: Sign-in</a></h3>\n\n  <p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>COPY PASTE LINK</p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-12-19T07:45:11.091Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 88,
+        "readers_count": 87,
+        "score": 22.6,
+        "yours": false,
+        "topic_id": 143415,
+        "topic_slug": "syllabus-and-tips-for-end-term-tds",
+        "display_username": "___",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1542596015%3A1734594178456465&ddm=1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 23
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12658,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/syllabus-and-tips-for-end-term-tds/143415/15",
+        "user_cakedate": "2022-05-01",
+        "user_birthdate": "1904-04-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      515894,
+      516492,
+      516990,
+      516996,
+      517051,
+      518325,
+      518430,
+      518439,
+      519036,
+      520354,
+      520357,
+      520358,
+      561204,
+      568893,
+      568895
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      284
+    ],
+    [
+      2,
+      283
+    ],
+    [
+      3,
+      282
+    ],
+    [
+      6,
+      279
+    ],
+    [
+      7,
+      278
+    ],
+    [
+      9,
+      277
+    ],
+    [
+      10,
+      274
+    ],
+    [
+      11,
+      273
+    ],
+    [
+      13,
+      181
+    ],
+    [
+      14,
+      163
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1155,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "end-term-exam",
+    "quiz-syllabus",
+    "term2-2024"
+  ],
+  "tags_descriptions": {},
+  "id": 143415,
+  "title": "Syllabus and Tips for End Term TDS",
+  "fancy_title": "Syllabus and Tips for End Term TDS",
+  "posts_count": 15,
+  "created_at": "2024-08-20T05:37:57.289Z",
+  "views": 953,
+  "reply_count": 10,
+  "like_count": 39,
+  "last_posted_at": "2024-12-19T07:45:11.091Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "syllabus-and-tips-for-end-term-tds",
+  "category_id": 34,
+  "word_count": 329,
+  "deleted_at": null,
+  "user_id": 6912,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_143415",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 15,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 8,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 143625,
+      "title": "End term exam prep",
+      "fancy_title": "End term exam prep",
+      "slug": "end-term-exam-prep",
+      "posts_count": 17,
+      "reply_count": 12,
+      "highest_post_number": 17,
+      "image_url": null,
+      "created_at": "2024-08-22T06:16:46.387Z",
+      "last_posted_at": "2024-08-31T05:42:36.600Z",
+      "bumped": true,
+      "bumped_at": "2024-08-31T05:42:36.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "end-term-exam"
+      ],
+      "tags_descriptions": {},
+      "like_count": 42,
+      "views": 555,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15826,
+            "username": "iitmanupam",
+            "name": "Anupam Chandra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Accepted Answer",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12332,
+            "username": "amoghanshu",
+            "name": "Amogh Anshu N",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amoghanshu/{size}/47979_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13282,
+            "username": "22f1001809",
+            "name": "Nirmala ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001809/{size}/15091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 143007,
+      "title": "Guidance for End Term Preparation Requested",
+      "fancy_title": "Guidance for End Term Preparation Requested",
+      "slug": "guidance-for-end-term-preparation-requested",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-08-15T09:06:13.243Z",
+      "last_posted_at": "2024-08-21T07:01:40.103Z",
+      "bumped": true,
+      "bumped_at": "2024-08-21T07:01:40.103Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "extra-resources",
+        "guidelines"
+      ],
+      "tags_descriptions": {},
+      "like_count": 11,
+      "views": 172,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17961,
+            "username": "23ds2000116",
+            "name": "sandhya",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000116/{size}/66760_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 83887,
+      "title": "Tds final exam syllabus",
+      "fancy_title": "Tds final exam syllabus",
+      "slug": "tds-final-exam-syllabus",
+      "posts_count": 11,
+      "reply_count": 6,
+      "highest_post_number": 11,
+      "image_url": null,
+      "created_at": "2023-04-10T20:36:18.272Z",
+      "last_posted_at": "2023-04-23T16:11:32.876Z",
+      "bumped": true,
+      "bumped_at": "2023-04-23T16:11:32.876Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "quiz-syllabus"
+      ],
+      "tags_descriptions": {},
+      "like_count": 11,
+      "views": 301,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 1993,
+            "username": "KSHITIJ",
+            "name": "KSHITIJ TRIPATHI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kshitij/{size}/67_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1998,
+            "username": "Preetam",
+            "name": "Preetam Mukherjee",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/preetam/{size}/57403_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 11059,
+            "username": "22ds1000005",
+            "name": "Anitha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000005/{size}/12643_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 9138,
+            "username": "21f3001415",
+            "name": "Chandresh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001415/{size}/113304_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 171668,
+      "title": "End term TDS",
+      "fancy_title": "End term TDS",
+      "slug": "end-term-tds",
+      "posts_count": 13,
+      "reply_count": 7,
+      "highest_post_number": 13,
+      "image_url": null,
+      "created_at": "2025-04-03T10:14:21.014Z",
+      "last_posted_at": "2025-04-09T03:06:43.667Z",
+      "bumped": true,
+      "bumped_at": "2025-04-09T03:06:43.667Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "end-term-exam"
+      ],
+      "tags_descriptions": {},
+      "like_count": 21,
+      "views": 315,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 21948,
+            "username": "23f2004752",
+            "name": "Ansh bansal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004752/{size}/68296_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 40000,
+            "username": "Sakshi6479",
+            "name": "SAKSHI PATHAK",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sakshi6479/{size}/110446_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 21980,
+            "username": "23f2004912",
+            "name": "ABHIJEET KUMAR ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 14374,
+            "username": "A_LAKSHMI",
+            "name": "A LAKSHMI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 78524,
+      "title": "Quiz syllabus",
+      "fancy_title": "Quiz syllabus",
+      "slug": "quiz-syllabus",
+      "posts_count": 15,
+      "reply_count": 9,
+      "highest_post_number": 16,
+      "image_url": null,
+      "created_at": "2023-02-20T09:14:40.281Z",
+      "last_posted_at": "2023-03-28T05:50:11.254Z",
+      "bumped": true,
+      "bumped_at": "2023-03-28T05:50:11.254Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 10,
+      "views": 219,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 11720,
+            "username": "Suryaansh2020",
+            "name": "Suryaansh Jaiswal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/suryaansh2020/{size}/13359_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9365,
+            "username": "Sukhamoy",
+            "name": "Sukhamoy Saha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sukhamoy/{size}/13061_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 5662,
+            "username": "GBh",
+            "name": "Ganesh ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/g/9fc348/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1366,
+            "username": "Monu",
+            "name": "Monu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/monu/{size}/257_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 8056,
+            "username": "Puneet_21f3002005",
+            "name": "Puneet ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet_21f3002005/{size}/46059_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 2,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "Syllabus: All 9 modules, All videos\nWeightage: Roughly equal weightage for all 9 modules\nQuestions: Between 40 to 60 questions\nExam time: 1.5 hours\nQuestions will be all brand new set. None from previous PYQs.\n\nKind regards",
+    "accepter_name": null,
+    "accepter_username": "pds_staff"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 12658,
+        "username": "AMU",
+        "name": "___",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png",
+        "post_count": 6,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 18977,
+        "username": "23f2000206",
+        "name": "Diya",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000206/{size}/67290_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15826,
+        "username": "iitmanupam",
+        "name": "Anupam Chandra",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 14215,
+        "username": "22f2001654",
+        "name": "udhayamaayei",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001654/{size}/14009_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12768,
+        "username": "Sunidhi_garg",
+        "name": "sunidhi garg",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunidhi_garg/{size}/42701_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 6912,
+        "username": "21f1000658",
+        "name": "Shivansh Pande",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1000658/{size}/179_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 769,
+        "username": "vikash",
+        "name": "Vikash Ram Mahuri",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikash/{size}/103483_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "Community-TA",
+        "flair_url": "handshake-angle",
+        "flair_color": "6BEE3D",
+        "flair_bg_color": "717BF7",
+        "flair_group_id": 89,
+        "trust_level": 2
+      }
+    ],
+    "created_by": {
+      "id": 6912,
+      "username": "21f1000658",
+      "name": "Shivansh Pande",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1000658/{size}/179_2.png"
+    },
+    "last_poster": {
+      "id": 12658,
+      "username": "AMU",
+      "name": "___",
+      "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/4da419/{size}.png"
+    },
+    "links": [
+      {
+        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Ddrive_link&ifkv=Ab5oB3p-O3s6BEop2cAbU7YrNhWdY2cXUa5nviORVboqPpzL1EVxQn7hgIIyiWRVbgh0gT2JEUXC8w&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1747660649%3A1724604585824488",
+        "title": "Google Drive: Sign-in",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 226,
+        "user_id": 12658,
+        "domain": "accounts.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg&ifkv=Ab5oB3p-CvoPOdnmYNmPivHHg2v-OfJRvJCc4JmmunJmt4iDes-L91vt-b3juvka9vUzE26ZPt5SZA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-887049526%3A1725078263935437",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 67,
+        "user_id": 12658,
+        "domain": "accounts.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/guidance-for-end-term-preparation-requested/143007/2",
+        "title": "Guidance for End Term Preparation Requested",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 33,
+        "user_id": 16094,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jYbiaNxZg2lCHydkqejggkbbyeAIAGLg%3Fusp%3Dsharing&ifkv=AeZLP99Y83fVoJ_M4Tx5uT_kZd4lgU67mY6F6vYQ7UNHgrt3kcHFw9VrXsJ2qFapzgLLRn1jctgcLQ&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1542596015%3A1734594178456465&ddm=1",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 29,
+        "user_id": 12658,
+        "domain": "accounts.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-exam-prep/143625",
+        "title": "End term exam prep",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 24,
+        "user_id": 15826,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-exam-prep/143625/17",
+        "title": "End term exam prep",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 5,
+        "user_id": 16094,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

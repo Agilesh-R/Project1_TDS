@@ -1,0 +1,2521 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 549638,
+        "name": "Hameed",
+        "username": "23f2005059",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "created_at": "2024-10-31T14:51:02.944Z",
+        "cooked": "<p>I have observed that for some people the answers for numeric type input questions are accepting NaN as answer instead of any other value. This issue is usually arising when CSV files are not properly made and the script is giving NaN as answer. <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a> sir please look into it.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88.jpeg\" data-download-href=\"/uploads/short-url/aEc2rMCPXfs9xAxhPvigIDAw74k.jpeg?dl=1\" title=\"IMG-20241031-WA0002\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_281x500.jpeg\" alt=\"IMG-20241031-WA0002\" data-base62-sha1=\"aEc2rMCPXfs9xAxhPvigIDAw74k\" width=\"281\" height=\"500\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_281x500.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_421x750.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_562x1000.jpeg 2x\" data-dominant-color=\"7C7A77\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">IMG-20241031-WA0002</span><span class=\"informations\">720×1280 49.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-11-04T11:19:56.245Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 6,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 79.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Hameed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22415,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/1",
+        "user_cakedate": "2023-09-21",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 549644,
+        "name": "Ashwanth",
+        "username": "22f3001662",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001662/{size}/67172_2.png",
+        "created_at": "2024-10-31T14:58:59.561Z",
+        "cooked": "<aside class=\"quote\" data-post=\"6\" data-topic=\"154433\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/tds-project1-doubt-chennai-50/154433/6\">TDS Project1 doubt Chennai:50</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    Did you try what <a class=\"mention\" href=\"/u/22f3003031\">@22f3003031</a> mentioned? As in \n\nchange the values in your .csv to the right values, then\nupload the new files to your repository,\nthen resubmit the answers with the new repo details?\n\nBecause the Check Answers does validation on your own dataset that you upload. If the spec is not followed EXACTLY as mentioned the script will give you erroneous results. \nKind regards\n  </blockquote>\n</aside>\n",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T14:58:59.561Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 93,
+        "readers_count": 92,
+        "score": 18.6,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Ashwanth",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project1-doubt-chennai-50/154433/6",
+            "internal": true,
+            "reflection": false,
+            "title": "TDS Project1 doubt Chennai:50",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17894,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/3",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549650,
+        "name": "U.K.Arvindan",
+        "username": "TheBeigeRhombus",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/thebeigerhombus/{size}/55902_2.png",
+        "created_at": "2024-10-31T15:05:11.319Z",
+        "cooked": "<p>This is so cool! A truly ingenious hack. Don’t worry, now that you’ve pointed it out, I’m sure they’ll update their backend code, and the scores will get updated at a later date, even if it does show correct at the moment. Nice catch!</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T15:05:11.319Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 90,
+        "readers_count": 89,
+        "score": 23.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "U.K.Arvindan",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 22415,
+          "username": "23f2005059",
+          "name": "Hameed",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9091,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/5",
+        "user_cakedate": "2022-01-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549655,
+        "name": "Ashwanth",
+        "username": "22f3001662",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001662/{size}/67172_2.png",
+        "created_at": "2024-10-31T15:24:06.999Z",
+        "cooked": "<p>That’s how it will be, I guess.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T15:24:06.999Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 89,
+        "readers_count": 88,
+        "score": 17.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Ashwanth",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 22415,
+          "username": "23f2005059",
+          "name": "Hameed",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17894,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/6",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549685,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-10-31T16:57:42.220Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/8/d818ab7b22defe611d5b9b1fe09f21ebcf5d0219.png\" data-download-href=\"/uploads/short-url/uPFZhSqSnWhAKEQ6RTZvUtreS8N.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/8/d818ab7b22defe611d5b9b1fe09f21ebcf5d0219.png\" alt=\"image\" data-base62-sha1=\"uPFZhSqSnWhAKEQ6RTZvUtreS8N\" width=\"560\" height=\"236\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">560×236 10.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nFor me too. Ive been working on this question for over an hour. Im getting the same answer. and its showing incorrect. but yeah this is working? Is this is supposed to be right ?</p>\n<p>Despite equpping my code to display NaN if there’s not enough variation I am still getting my old answer. <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T16:57:42.220Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 81,
+        "readers_count": 80,
+        "score": 21.2,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/8",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549690,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T17:05:58.164Z",
+        "cooked": "<p>Come on think about it … correlation is a function. what is the range of the function? -1 to +1<br>\nIt CANNOT be anything else.</p>\n<p>I have mentioned this before in other posts and even in the TA sessions. The answer script is dependent on your datasets if they have been correctly formatted.</p>\n<p>Any other value other than the range -1 to +1 will be incorrect!</p>\n<p>Kind regards</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:05:58.164Z",
+        "reply_count": 1,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 79,
+        "readers_count": 78,
+        "score": 20.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/9",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549699,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-10-31T17:28:32.348Z",
+        "cooked": "<p>I think Ive exhausted my list of possible corrections. Are you sure that one of the values between -1 to  +1 will be shown as correct as it is accepting NaN as correct. What if my first answer is correct and its showing incorrect because it is set like this? I have formatted the data, Ive filled undefined values with 0s. I dont know what else is to be done. <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:28:32.348Z",
+        "reply_count": 3,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 76,
+        "readers_count": 75,
+        "score": 35.2,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/10",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549700,
+        "name": "Adith SR",
+        "username": "ASR23",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png",
+        "created_at": "2024-10-31T17:34:40.688Z",
+        "cooked": "<p>Same, I have run the correlation with script, copy pasting to websites, and other methods, and I get the same answer (which is shown as incorrect by the website).<br>\nBut the answer being accepted is NaN. I double checked if all the values were numbers, any empty rows or cells, and anything else I can think of, but the data is pretty much perfect from what I can see.</p>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:34:40.688Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 69,
+        "readers_count": 68,
+        "score": 13.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Adith SR",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23736,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/11",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549701,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T17:36:00.112Z",
+        "cooked": "<p>No Azhaan, I am not saying the project page will show a value between -1 to +1 as correct (because that depends on the dataset you uploaded if there are any errors or edgecases that have not been checked). What I am saying is the CORRECT answer will be between -1 and +1. It has to be. Its the mathematical definition of correlation.</p>\n<p>Also when you are asking for help you should tell what dataset you are working on.<br>\nAka city and followers parameters.</p>\n<p>Regards</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:37:35.362Z",
+        "reply_count": 3,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 69,
+        "readers_count": 68,
+        "score": 28.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/12",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549703,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-10-31T17:39:35.076Z",
+        "cooked": "<p>I’m sorry. My Bad</p>\n<p>My dataset is London:500</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:39:35.076Z",
+        "reply_count": 0,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 65,
+        "readers_count": 64,
+        "score": 13.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/13",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549704,
+        "name": "Adith SR",
+        "username": "ASR23",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png",
+        "created_at": "2024-10-31T17:40:17.451Z",
+        "cooked": "<p>I agree with this. My question is what answer should we finally enter? The numeric one that is shown as incorrect (because of an edgecase) or NaN.</p>\n<p>Furthermore, I’m noticing this issue only with my users.csv file, not my repo file. I am currently recreating that file using different methods, just in case (I will get back to you on that). My dataset is Melbourne - 100</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:40:17.451Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 72,
+        "readers_count": 71,
+        "score": 19.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Adith SR",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23736,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/14",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549705,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T17:43:59.425Z",
+        "cooked": "<p>Hi Adith,</p>\n<p>You should enter the numeric answer. Even if it says wrong.</p>\n<p>The validation will be done on the submitted backend for grading purposes.</p>\n<p>Kind regards</p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:43:59.425Z",
+        "reply_count": 2,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 8,
+        "reads": 70,
+        "readers_count": 69,
+        "score": 94.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 23736,
+          "username": "ASR23",
+          "name": "Adith SR",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/15",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549706,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-10-31T17:44:20.204Z",
+        "cooked": "<p>So How do I know if my initial answering is correct or not? How do I know that this aint a backend issue.</p>",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:44:20.204Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 70,
+        "readers_count": 69,
+        "score": 19.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/16",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549708,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T17:47:39.211Z",
+        "cooked": "<p>Because if you have two rows of data<br>\nX   Y</p>\n<ol>\n<li>3</li>\n<li>3</li>\n<li>5</li>\n<li>6</li>\n</ol>\n<p>It will give you the same correlation answer no matter what. You WILL know the right answer.<br>\nYou have confidence in the math. Not a script.</p>\n<p>Thats why you will know the answer is correct. Except you have to make sure you have accounted for all the instructions that have been given. aka have you made sure all true and false columns have been correctly assigned etc.</p>",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:47:39.211Z",
+        "reply_count": 0,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 68,
+        "readers_count": 67,
+        "score": 28.6,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22540,
+          "username": "23f2005121",
+          "name": "Azhaan Pary",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/17",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549712,
+        "name": "Adith SR",
+        "username": "ASR23",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png",
+        "created_at": "2024-10-31T17:55:24.482Z",
+        "cooked": "<p>Will do, thank you.</p>\n<p>Also, using the same style of script as for my repo csv file did not work. The initial difference was using csv library for users.csv and pandas library for repositories.csv. Now that using pandas for creating user.csv file has not worked, I am unsure what else I can do. But I will enter the values I am getting for now.</p>\n<p>Thanks again!</p>",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T17:58:44.907Z",
+        "reply_count": 0,
+        "reply_to_post_number": 15,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 62,
+        "readers_count": 61,
+        "score": 12.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Adith SR",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23736,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/18",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549713,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-10-31T18:00:28.480Z",
+        "cooked": "<p>I am trusting this and entering a value that’s shown as incorrect here. And I am hoping that NaN won’t be correct after the evaluation and that part will be corrected. I have been constantly getting the same answer no matter what corrections I do. So I don’t think I have an alternate choice here.</p>\n<p>Thankyou!<br>\nThankyou for replying despite it being so late.</p>",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T18:00:28.480Z",
+        "reply_count": 0,
+        "reply_to_post_number": 15,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 27.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/19",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549714,
+        "name": "Jivraj Singh Shekhawat",
+        "username": "Jivraj",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "created_at": "2024-10-31T18:06:14.867Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"23f2005121\" data-post=\"10\" data-topic=\"154637\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/48/67277_2.png\" class=\"avatar\"> 23f2005121:</div>\n<blockquote>\n<p>. I dont know what else is to be done. <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>\n</blockquote>\n</aside>\n<p>In repositories.csv you didn’t convert True to true, that might be a mistake.</p>",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T18:06:14.867Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 16.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Jivraj Singh Shekhawat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 15651,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/20",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549717,
+        "name": "Hameed",
+        "username": "23f2005059",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "created_at": "2024-10-31T18:36:52.907Z",
+        "cooked": "<p>Good sir,<br>\nI would like to argue, if the dataset is wrong then why the portal misleads us by showing NaN as correct answer? A wrong answer can’t be marked as correct after evaluation as <a class=\"mention\" href=\"/u/carlton\">@carlton</a> sir said, simply because we don’t have the correct dataset to perform operation so how do we assess the correctness after evaluation? The correct answer might be wrong if it is NaN but a wrong answer is definitely wrong. Mathematically correlation function is defined in two arrays of numbers, if we don’t have them (due to incorrect data) answer should be undefined not between [-1,1]</p>",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-10-31T18:37:29.370Z",
+        "reply_count": 1,
+        "reply_to_post_number": 20,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 14.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Hameed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15651,
+          "username": "Jivraj",
+          "name": "Jivraj Singh Shekhawat",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22415,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/21",
+        "user_cakedate": "2023-09-21",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 550666,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-02T05:36:59.696Z",
+        "cooked": "<p>The data is wrong not because you obtained the wrong dataset, but because it has been<br>\na) improperly extracted,<br>\nb) improperly formated,<br>\nc) improperly updated,<br>\nd) cached improperly (not doing a browser hard refresh and its using the old submission)</p>\n<p>Therefore, if the above was done, it is guaranteed that the script WILL work correctly. In other words, if your dataset is wrong, its because of human error. The goals of this exercise is to understand the responsibility of extracting, cleaning, transforming, and producing the right results.</p>\n<p>Any failure in the early part of the chain will lead to erroneous results at the end. So saying that its “not my fault that my results are wrong because i have the wrong dataset,” is not understanding your responsibility to the first stages of the process.</p>\n<p>I hope that gives some clarity. I will take up a whole session on Project and solving it soon, so that students will understand the exercise correctly.</p>\n<p>Kind regards</p>",
+        "post_number": 22,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-11-02T05:37:47.395Z",
+        "reply_count": 1,
+        "reply_to_post_number": 21,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 11.6,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22415,
+          "username": "23f2005059",
+          "name": "Hameed",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/22",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 550692,
+        "name": "Hameed",
+        "username": "23f2005059",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "created_at": "2024-11-02T06:06:11.032Z",
+        "cooked": "<p>Apologies for ambiguity in my post, I did not mean by “incorrect dataset” the error is in question, I wanted to say incorrect data due to student error itself.</p>\n<p>However, whatever the error is, I believe the portal should never accept NaN as correct answer, simple checks at question 0 can achieve this. Script should mark q0 as incorrect if dataset is formatted incorrectly</p>\n<p>Once again I want to clarify that I have got correct answers and i understand that dataset error is from student side. I just want to point at fact that portal is misleading students by explicitly marking NaN as Correct! I am afraid this might be final marking. Please ensure that’s not the case.</p>\n<p>Also I want to highlight that you have previously guided the students to input the correlation value between -1,1 eventhough it showed as incorrect. It would have been better if you’d have asked them to extract data properly first. Please give a update on this. Will their “incorrect answer” still be accepted?</p>\n<p>Please give a detailed reply so I can mark it as solution, <a class=\"mention\" href=\"/u/carlton\">@carlton</a> sir</p>\n<p>Thank you</p>",
+        "post_number": 23,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-11-02T06:23:06.792Z",
+        "reply_count": 1,
+        "reply_to_post_number": 22,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 32,
+        "readers_count": 31,
+        "score": 11.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Hameed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22415,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/23",
+        "user_cakedate": "2023-09-21",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 550787,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-02T08:12:35.212Z",
+        "cooked": "<p>Hi 23f20… (its better if you put your name in the profile, its a bit weird to refer to people as numbers <img src=\"https://emoji.discourse-cdn.com/google/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\" loading=\"lazy\" width=\"20\" height=\"20\">),</p>\n<p>Thanks for the clarification. You made some interesting points. We are considering the points you raised and having an internal discussion about it (since before this post was made, but its still good to see a student raise the question).</p>\n<p>Will let you know what the outcome of that discussion will be in the form of an official announcement.</p>\n<p>Kind regards</p>",
+        "post_number": 24,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-11-02T08:12:35.212Z",
+        "reply_count": 1,
+        "reply_to_post_number": 23,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 10.4,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22415,
+          "username": "23f2005059",
+          "name": "Hameed",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/24",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 550805,
+        "name": "Azhaan Pary",
+        "username": "23f2005121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "created_at": "2024-11-02T08:55:47.897Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"carlton\" data-post=\"24\" data-topic=\"154637\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png\" class=\"avatar\"> carlton:</div>\n<blockquote>\n<p>its better if you put your name in the profile, its a bit weird to refer to people as numbers <img src=\"https://emoji.discourse-cdn.com/google/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n</blockquote>\n</aside>\n<p>Unfortunately we cant.</p>\n<aside class=\"quote group-ds-students\" data-username=\"shriaviator\" data-post=\"24\" data-topic=\"27871\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://avatars.discourse-cdn.com/v4/letter/s/59ef9b/48.png\" class=\"avatar\"><a href=\"https://discourse.onlinedegree.iitm.ac.in/t/changing-of-discourse-username/27871/24\">Changing of Discourse Username</a></div>\n<blockquote>\n<p>Once a username is set <strong>i.e pencil icon is not visible</strong> the username cannot be changed as per <strong>forum policy</strong></p>\n</blockquote>\n</aside>",
+        "post_number": 25,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2024-11-02T08:55:47.897Z",
+        "reply_count": 0,
+        "reply_to_post_number": 24,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 5.0,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Azhaan Pary",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/changing-of-discourse-username/27871/24",
+            "internal": true,
+            "reflection": false,
+            "title": "Changing of Discourse Username",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22540,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/25",
+        "user_cakedate": "2023-09-23",
+        "user_birthdate": "1904-12-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 551895,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-04T11:19:56.366Z",
+        "cooked": "<p>Added <a class=\"hashtag-cooked\" href=\"/tag/term3-2024\" data-type=\"tag\" data-slug=\"term3-2024\" data-id=\"339\"><span class=\"hashtag-icon-placeholder\"><svg class=\"fa d-icon d-icon-square-full svg-icon svg-node\"><use href=\"#square-full\"></use></svg></span><span>term3-2024</span></a></p>",
+        "post_number": 27,
+        "post_type": 3,
+        "posts_count": 23,
+        "updated_at": "2024-11-04T11:19:56.366Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 14,
+        "readers_count": 13,
+        "score": 2.8,
+        "yours": false,
+        "topic_id": 154637,
+        "topic_slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "/tag/term3-2024",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "tags_changed",
+        "post_url": "/t/some-questions-in-project-are-accepting-nan-as-correct-answer/154637/27",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      549638,
+      549644,
+      549650,
+      549655,
+      549685,
+      549690,
+      549699,
+      549700,
+      549701,
+      549703,
+      549704,
+      549705,
+      549706,
+      549708,
+      549712,
+      549713,
+      549714,
+      549717,
+      550666,
+      550692,
+      550787,
+      550805,
+      551895
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      212
+    ],
+    [
+      19,
+      210
+    ],
+    [
+      23,
+      208
+    ]
+  ],
+  "tags": [
+    "term3-2024",
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 154637,
+  "title": "Some questions in project are accepting NaN as correct answer",
+  "fancy_title": "Some questions in project are accepting NaN as correct answer",
+  "posts_count": 23,
+  "created_at": "2024-10-31T14:51:02.764Z",
+  "views": 158,
+  "reply_count": 22,
+  "like_count": 6,
+  "last_posted_at": "2024-11-04T11:19:56.366Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "some-questions-in-project-are-accepting-nan-as-correct-answer",
+  "category_id": 34,
+  "word_count": 1465,
+  "deleted_at": null,
+  "user_id": 22415,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_576x1024.jpeg",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_154637",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 27,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 7,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 720,
+      "height": 1280,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88.jpeg"
+    },
+    {
+      "max_width": 1024,
+      "max_height": 1024,
+      "width": 576,
+      "height": 1024,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4aa0e403036083b20f50fbdff4a2b97806279d88_2_576x1024.jpeg"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 22540,
+        "username": "23f2005121",
+        "name": "Azhaan Pary",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005121/{size}/67277_2.png",
+        "post_count": 6,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 6,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 22415,
+        "username": "23f2005059",
+        "name": "Hameed",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23736,
+        "username": "ASR23",
+        "name": "Adith SR",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17894,
+        "username": "22f3001662",
+        "name": "Ashwanth",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001662/{size}/67172_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 9091,
+        "username": "TheBeigeRhombus",
+        "name": "U.K.Arvindan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/thebeigerhombus/{size}/55902_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      }
+    ],
+    "created_by": {
+      "id": 22415,
+      "username": "23f2005059",
+      "name": "Hameed",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

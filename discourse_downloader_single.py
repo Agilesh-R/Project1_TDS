@@ -9,8 +9,8 @@ BASE_URL = "https://discourse.onlinedegree.iitm.ac.in"
 CATEGORY_ID = 34
 CATEGORY_JSON_URL = f"{BASE_URL}/c/courses/tds-kb/{CATEGORY_ID}.json"
 AUTH_STATE_FILE = "auth.json"
-DATE_FROM = datetime(2025, 1, 1)
-DATE_TO = datetime(2025, 4, 14)
+DATE_FROM = datetime(2024, 8, 1)
+DATE_TO = datetime(2025, 1, 10)
 
 def parse_date(date_str):
     try:

@@ -1,0 +1,838 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 531483,
+        "name": "Ashutosh Maurya",
+        "username": "22f1001595",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001595/{size}/30831_2.png",
+        "created_at": "2024-09-27T10:26:19.279Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> i am not getting answer in q1 and q4<br>\nin q1 : i am doing all the procedure correctly still getting incorrect answer<br>\nin q4 : i am not sure in which format i need to give file size</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 2,
+        "updated_at": "2024-09-27T10:26:19.279Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 66,
+        "readers_count": 65,
+        "score": 18.0,
+        "yours": false,
+        "topic_id": 149399,
+        "topic_slug": "tds-ga1",
+        "display_username": "Ashutosh Maurya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12095,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga1/149399/1",
+        "user_cakedate": "2022-04-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 531564,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-09-27T14:02:40.019Z",
+        "cooked": "<p>Ah, an excellent opportunity to elaborate on…</p>\n<h2><a name=\"p-531564-how-to-ask-for-help-with-tds-on-discourse-1\" class=\"anchor\" href=\"#p-531564-how-to-ask-for-help-with-tds-on-discourse-1\"></a>How to ask for help with TDS on Discourse</h2>\n<ol>\n<li><strong>Don’t ask for the solution</strong>, e.g. “How do I solve GA3 Q4?”</li>\n<li><strong>Explain what you did, step by step.</strong> (Rather than “I’m not getting the answer”)</li>\n<li><strong>Share your ENTIRE code and ENTIRE error message.</strong> (Rather than just the part you think is relevant. The problem may be elsewhere.)</li>\n<li><strong>Share as copy-paste-able text.</strong> Screenshots are fine, not enough. Others have to type out your code to run or search.</li>\n</ol>\n<p>If possible:</p>\n<ol>\n<li><strong>Ask ChatGPT to rewrite</strong> to craft a better question</li>\n<li><strong>Check for similar questions</strong> before posting</li>\n<li><strong>Be patient and kind</strong>. It improves <em>your</em> health <img src=\"https://emoji.discourse-cdn.com/google/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\" loading=\"lazy\" width=\"20\" height=\"20\"></li>\n</ol>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 2,
+        "updated_at": "2024-09-27T14:25:13.945Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 64,
+        "readers_count": 63,
+        "score": 72.6,
+        "yours": false,
+        "topic_id": 149399,
+        "topic_slug": "tds-ga1",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 5,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-ga1/149399/2",
+        "user_cakedate": "2022-01-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          },
+          {
+            "id": "confetti_ball",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 5,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      531483,
+      531564
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      246
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 149399,
+  "title": "Tds ga1",
+  "fancy_title": "Tds ga1",
+  "posts_count": 2,
+  "created_at": "2024-09-27T10:26:19.091Z",
+  "views": 80,
+  "reply_count": 0,
+  "like_count": 5,
+  "last_posted_at": "2024-09-27T14:02:40.019Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "tds-ga1",
+  "category_id": 34,
+  "word_count": 159,
+  "deleted_at": null,
+  "user_id": 12095,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_149399",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 2,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 3,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 68170,
+      "title": "Unable to Understand GA 5b Q3",
+      "fancy_title": "Unable to Understand GA 5b Q3",
+      "slug": "unable-to-understand-ga-5b-q3",
+      "posts_count": 12,
+      "reply_count": 9,
+      "highest_post_number": 13,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/8/d/8d0a6ff1f8acae77d1babe078710df43de0bceed_2_1024x407.png",
+      "created_at": "2022-10-19T12:42:07.110Z",
+      "last_posted_at": "2022-11-02T11:45:29.242Z",
+      "bumped": true,
+      "bumped_at": "2022-11-02T11:53:40.493Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "week-5"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 133,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 1606,
+            "username": "21f1006311",
+            "name": "Mihika ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1006311/{size}/303_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 1973,
+            "username": "pranabsarma18",
+            "name": "Pranab Sarma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/pranabsarma18/{size}/55297_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6702,
+            "username": "21f2000543",
+            "name": "Praveen Choudhary",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/ebca7d/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2476,
+            "username": "X_Warrior",
+            "name": "Bibek Paul",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/x_warrior/{size}/979_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3024,
+            "username": "papadelta_5636",
+            "name": "Preetodeep Dev",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/dc4da7/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 150855,
+      "title": "Doubt in Q3 and Q4",
+      "fancy_title": "Doubt in Q3 and Q4",
+      "slug": "doubt-in-q3-and-q4",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/e/de3236b268eb023025bd4961e290511b051dae68_2_1024x502.png",
+      "created_at": "2024-10-04T08:39:33.199Z",
+      "last_posted_at": "2024-10-04T10:01:50.364Z",
+      "bumped": true,
+      "bumped_at": "2024-10-04T10:01:50.364Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 46,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17210,
+            "username": "Hasan",
+            "name": "Hamees ul-Hasan (23f1001168)",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hasan/{size}/88019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 151920,
+      "title": "Week 3 GA 3 q:3 and q:4",
+      "fancy_title": "Week 3 GA 3 q:3 and q:4",
+      "slug": "week-3-ga-3-q-3-and-q-4",
+      "posts_count": 4,
+      "reply_count": 2,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/6/16aac8bfe02377e1a24da7f3ed46c19836c06349.png",
+      "created_at": "2024-10-11T08:55:21.982Z",
+      "last_posted_at": "2024-10-11T12:36:32.322Z",
+      "bumped": true,
+      "bumped_at": "2024-10-11T12:36:32.322Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 76,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16012,
+            "username": "22f3002758",
+            "name": "Tarika",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002758/{size}/109751_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16339,
+            "username": "HimanshuSaini",
+            "name": "Himanshu Saini",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/b5a626/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 139885,
+      "title": "GA5 Q1 and Q2 doubts",
+      "fancy_title": "GA5 Q1 and Q2 doubts",
+      "slug": "ga5-q1-and-q2-doubts",
+      "posts_count": 4,
+      "reply_count": 2,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/f/7f66ff3226df7f62220e80f7eb56e790da679a2e.png",
+      "created_at": "2024-07-15T14:46:58.364Z",
+      "last_posted_at": "2024-07-16T13:49:18.038Z",
+      "bumped": true,
+      "bumped_at": "2024-07-16T13:49:18.038Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 72,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 14451,
+            "username": "siddd_2110",
+            "name": "Siddharth Pandey",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/e8c25b/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 151980,
+      "title": "Tds ga3 q3",
+      "fancy_title": "Tds ga3 q3",
+      "slug": "tds-ga3-q3",
+      "posts_count": 4,
+      "reply_count": 1,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/0/a0fb07c89819ab6d35b3415b376a1931416e5608_2_1024x513.jpeg",
+      "created_at": "2024-10-12T03:56:32.239Z",
+      "last_posted_at": "2024-10-12T05:11:56.317Z",
+      "bumped": true,
+      "bumped_at": "2024-10-12T06:13:22.804Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 69,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 27802,
+            "username": "Tarun_Kandarpa",
+            "name": "Tarun Kandarpa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/tarun_kandarpa/{size}/111556_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 9419,
+        "username": "s.anand",
+        "name": "Anand S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "post_count": 1,
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_color": "000",
+        "flair_bg_color": "f2c26e",
+        "flair_group_id": 54,
+        "trust_level": 4
+      },
+      {
+        "id": 12095,
+        "username": "22f1001595",
+        "name": "Ashutosh Maurya",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001595/{size}/30831_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      }
+    ],
+    "created_by": {
+      "id": 12095,
+      "username": "22f1001595",
+      "name": "Ashutosh Maurya",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001595/{size}/30831_2.png"
+    },
+    "last_poster": {
+      "id": 9419,
+      "username": "s.anand",
+      "name": "Anand S",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

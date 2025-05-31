@@ -1,0 +1,1487 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 547514,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T09:41:10.074Z",
+        "cooked": "<p>In given tds project  i have got  Shanghai:200 in this when i extracted the data from the given api github link it is showing jason file with total count 740 but in items their is only 30 user detail how to extract all 740 because when completed my project taking 30 user id as shown it is showing incomplete how i can clarify this<br>\nI am not able to share json file here</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T10:05:52.894Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 59,
+        "readers_count": 58,
+        "score": 26.8,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/1",
+        "user_cakedate": "2023-06-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 547529,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T10:05:53.035Z",
+        "cooked": "<p>Added <a class=\"hashtag-cooked\" href=\"/tag/tds-project-1\" data-type=\"tag\" data-slug=\"tds-project-1\" data-id=\"231\"><span class=\"hashtag-icon-placeholder\"><svg class=\"fa d-icon d-icon-square-full svg-icon svg-node\"><use href=\"#square-full\"></use></svg></span><span>tds-project-1</span></a></p>",
+        "post_number": 2,
+        "post_type": 3,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T10:05:53.035Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 11.2,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "/tag/tds-project-1",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "tags_changed",
+        "post_url": "/t/shanghai-200/153897/2",
+        "user_cakedate": "2023-06-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547578,
+        "name": "JAI SUBIKSHA T",
+        "username": "23f2001696",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "created_at": "2024-10-26T11:09:47.944Z",
+        "cooked": "<p>Is your query extract only 30 user details or fetching all the data gives 30. Say it clearly</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:09:47.944Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 15.8,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "JAI SUBIKSHA T",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19399,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/3",
+        "user_cakedate": "2023-06-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547580,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T11:13:41.921Z",
+        "cooked": "<p>fetching all the data gives 30</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:13:41.921Z",
+        "reply_count": 2,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 53,
+        "readers_count": 52,
+        "score": 20.6,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19399,
+          "username": "23f2001696",
+          "name": "JAI SUBIKSHA T",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/4",
+        "user_cakedate": "2023-06-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547585,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-26T11:27:58.325Z",
+        "cooked": "<p>Its a paginated API with default max results in 1 API call capped at 30.<br>\nYou can do two things</p>\n<ol>\n<li>Use per_page query param to fetch upto 100 results in 1 API call.</li>\n<li>Use next in links response header to go to the next page.</li>\n</ol>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:27:58.325Z",
+        "reply_count": 2,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 48,
+        "readers_count": 47,
+        "score": 44.6,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 20690,
+          "username": "23f2003124",
+          "name": "Yash Maheshwari ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/5",
+        "user_cakedate": "2023-10-13",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547587,
+        "name": "JAI SUBIKSHA T",
+        "username": "23f2001696",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "created_at": "2024-10-26T11:31:47.932Z",
+        "cooked": "<p>Verify all the ‘location’ for mispelled Shanghai,sangai, shangai etc. Check for time delay. etc(print response code) according to the response code correct the query</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:31:47.932Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 14.8,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "JAI SUBIKSHA T",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 20690,
+          "username": "23f2003124",
+          "name": "Yash Maheshwari ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19399,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/6",
+        "user_cakedate": "2023-06-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547594,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T11:45:41.094Z",
+        "cooked": "<p>Ok ,recently I am  just trying this</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:45:41.094Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 13.6,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/7",
+        "user_cakedate": "2023-06-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547595,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T11:48:22.794Z",
+        "cooked": "<p>ya ya i am using Shanghai as mentioned</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T11:48:22.794Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 42,
+        "readers_count": 41,
+        "score": 13.4,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19399,
+          "username": "23f2001696",
+          "name": "JAI SUBIKSHA T",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/8",
+        "user_cakedate": "2023-06-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 547699,
+        "name": "Yash Maheshwari ",
+        "username": "23f2003124",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "created_at": "2024-10-26T14:22:47.926Z",
+        "cooked": "<p>thank you i think i was facing this issue only along with some token related issue…but anyways my problem is solved and submitted successfully thank you for your advise</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 9,
+        "updated_at": "2024-10-26T14:22:47.926Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 42,
+        "readers_count": 41,
+        "score": 33.4,
+        "yours": false,
+        "topic_id": 153897,
+        "topic_slug": "shanghai-200",
+        "display_username": "Yash Maheshwari ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20690,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/shanghai-200/153897/9",
+        "user_cakedate": "2023-06-16",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      547514,
+      547529,
+      547578,
+      547580,
+      547585,
+      547587,
+      547594,
+      547595,
+      547699
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      217
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "miscellaneous",
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 153897,
+  "title": "Shanghai:200",
+  "fancy_title": "Shanghai:200",
+  "posts_count": 9,
+  "created_at": "2024-10-26T09:41:09.790Z",
+  "views": 76,
+  "reply_count": 6,
+  "like_count": 2,
+  "last_posted_at": "2024-10-26T14:22:47.926Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "shanghai-200",
+  "category_id": 34,
+  "word_count": 220,
+  "deleted_at": null,
+  "user_id": 20690,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153897",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 9,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 153690,
+      "title": "TDS project 1 Github API",
+      "fancy_title": "TDS project 1 Github API",
+      "slug": "tds-project-1-github-api",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-10-25T05:58:53.426Z",
+      "last_posted_at": "2024-10-26T02:27:27.546Z",
+      "bumped": true,
+      "bumped_at": "2024-10-26T02:27:27.546Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 100,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 18463,
+            "username": "bracket",
+            "name": "Umangbansal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bracket/{size}/69606_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 19399,
+            "username": "23f2001696",
+            "name": "JAI SUBIKSHA T",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154595,
+      "title": "Boston:100",
+      "fancy_title": "Boston:100",
+      "slug": "boston-100",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/0/70c741934de49209306c445fdae6fd1ae45f2c1f_2_1024x219.png",
+      "created_at": "2024-10-31T09:42:51.955Z",
+      "last_posted_at": "2024-10-31T10:05:39.197Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T10:05:39.197Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 31,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17800,
+            "username": "22f3000853",
+            "name": "Pahel Gregrath",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000853/{size}/68999_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 40077,
+            "username": "24ds3000100",
+            "name": "Bahni Roy",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154526,
+      "title": "TDS Project 1, Shanghai:200",
+      "fancy_title": "TDS Project 1, Shanghai:200",
+      "slug": "tds-project-1-shanghai-200",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2024-10-30T19:06:15.784Z",
+      "last_posted_at": "2024-10-30T19:06:15.964Z",
+      "bumped": true,
+      "bumped_at": "2024-10-30T19:06:15.964Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 33,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 34478,
+            "username": "Sammish",
+            "name": "Samarth Mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sammish/{size}/113126_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 154283,
+      "title": "TDS 1 Beijing:500",
+      "fancy_title": "TDS 1 Beijing:500",
+      "slug": "tds-1-beijing-500",
+      "posts_count": 4,
+      "reply_count": 0,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/5/e532249d261ffb6c68dbf5351cc2f3c6302506c3_2_1024x78.png",
+      "created_at": "2024-10-28T17:08:15.459Z",
+      "last_posted_at": "2024-10-29T05:35:18.398Z",
+      "bumped": true,
+      "bumped_at": "2024-10-29T05:35:18.398Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 76,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23020,
+            "username": "23f3002354",
+            "name": "L P Vishnupriya ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3002354/{size}/112715_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16323,
+            "username": "22f3001210",
+            "name": "Rishit Pant",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001210/{size}/69573_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 153278,
+      "title": "TDS Project 1 users.csv validation error",
+      "fancy_title": "TDS Project 1 users.csv validation error",
+      "slug": "tds-project-1-users-csv-validation-error",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2024-10-22T09:02:55.163Z",
+      "last_posted_at": "2024-10-22T10:25:20.044Z",
+      "bumped": true,
+      "bumped_at": "2024-10-22T10:29:11.920Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 68,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 24024,
+            "username": "23ds3000248",
+            "name": "Bhavin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 5,
+    "username": "23ds3000248",
+    "name": null,
+    "excerpt": "Its a paginated API with default max results in 1 API call capped at 30. \nYou can do two things \n\nUse per_page query param to fetch upto 100 results in 1 API call.\nUse next in links response header to go to the next page.",
+    "accepter_name": null,
+    "accepter_username": "23f2003124"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 20690,
+        "username": "23f2003124",
+        "name": "Yash Maheshwari ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19399,
+        "username": "23f2001696",
+        "name": "JAI SUBIKSHA T",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 24024,
+        "username": "23ds3000248",
+        "name": "Bhavin",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 20690,
+      "username": "23f2003124",
+      "name": "Yash Maheshwari ",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png"
+    },
+    "last_poster": {
+      "id": 20690,
+      "username": "23f2003124",
+      "name": "Yash Maheshwari ",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003124/{size}/66911_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

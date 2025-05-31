@@ -1,0 +1,1277 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 547758,
+        "name": "Ranjeet Sharma",
+        "username": "21f2001119",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001119/{size}/12767_2.png",
+        "created_at": "2024-10-26T16:24:15.068Z",
+        "cooked": "<p>I’m using the same values as in the API response, where booleans are represented by <code>true</code> and <code>false</code> and <code>\"\"</code> is used for null values. Yet, I’m not getting the correct answer.</p>\n<p>After analyzing, I noticed there is no tie for the most common surname; I am getting only one candidate, which is also incorrect.</p>\n<p>Here are the steps I did to identify the most common surname:-<br>\nI first filter for rows where the <code>name</code> field is not null. Then, I extract the surname from each name by taking the last word. Next, I count the occurrences of each surname, find the maximum count, and filter surnames that match this maximum. Finally, I sorted the resulting list.</p>\n<p>Where am I going wrong? What am I missing? Even a small hint would be appreciated.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-26T16:24:15.068Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 22.0,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "Ranjeet Sharma",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6745,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/1",
+        "user_cakedate": "2021-09-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 548949,
+        "name": "AMMAR SAJJIDALI SHAIKH",
+        "username": "Ammar_Sajjid",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ammar_sajjid/{size}/12424_2.png",
+        "created_at": "2024-10-29T18:22:22.387Z",
+        "cooked": "<p>try answering not the number of surnames but the surname itself</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-29T18:22:22.387Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 28,
+        "readers_count": 27,
+        "score": 10.6,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "AMMAR SAJJIDALI SHAIKH",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14857,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/2",
+        "user_cakedate": "2022-09-08",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 548961,
+        "name": "Bahni Roy",
+        "username": "24ds3000100",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "created_at": "2024-10-29T19:00:41.976Z",
+        "cooked": "<p>I think the question should be reworded to avoid ambiguity. On the first line, question 16 states:<br>\n-What’s the most common surname? and then in the next line,<br>\n-Number of users with the most common surname</p>\n<p>The one on the top is the actual question and the verbiage “Number of users with the most common surname” is more of a broad hint, but can be construed the other way round.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-29T19:02:58.683Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 5.4,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "Bahni Roy",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 14857,
+          "username": "Ammar_Sajjid",
+          "name": "AMMAR SAJJIDALI SHAIKH",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ammar_sajjid/{size}/12424_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40077,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/3",
+        "user_cakedate": "2024-10-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549237,
+        "name": "Kavya Prashant Amrutkar",
+        "username": "23f3003711",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3003711/{size}/116219_2.png",
+        "created_at": "2024-10-30T13:33:23.066Z",
+        "cooked": "<p>Were u able to get the answer, i too am stuck</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-30T13:33:23.066Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 21,
+        "readers_count": 20,
+        "score": 9.2,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "Kavya Prashant Amrutkar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 26312,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/4",
+        "user_cakedate": "2024-01-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549254,
+        "name": "Ranjeet Sharma",
+        "username": "21f2001119",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001119/{size}/12767_2.png",
+        "created_at": "2024-10-30T13:55:00.304Z",
+        "cooked": "<p>Nope, only this ques left for me and I don’t know what is going wrong.</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-30T13:55:00.304Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 22,
+        "readers_count": 21,
+        "score": 4.4,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "Ranjeet Sharma",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 26312,
+          "username": "23f3003711",
+          "name": "Kavya Prashant Amrutkar",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3003711/{size}/116219_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6745,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/5",
+        "user_cakedate": "2021-09-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549649,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T15:04:10.627Z",
+        "cooked": "<p>Hi Ranjeet,</p>\n<p>Please refer to this post.</p>\n<aside class=\"quote\" data-post=\"1\" data-topic=\"154615\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/48/56317_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/official-announcment-project-1/154615\">Official Announcment Project 1</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    Hi All, \nHere are some clarifications for Project 1: \n\nCompany names must have only their leading @symbol stripped (the first one only), in addition to any other cleanups that have been specified.\nQ13: You must find the regression slope of followers on the word count of the bio.\nQ16: List the most common surname. If it is a tie then a comma separated list in alphabetical order of the most common surnames.\n\nThanks and Kind Regards\n  </blockquote>\n</aside>\n\n<p>Kind regards</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 6,
+        "updated_at": "2024-10-31T15:04:10.627Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 13,
+        "readers_count": 12,
+        "score": 2.6,
+        "yours": false,
+        "topic_id": 153966,
+        "topic_slug": "paris-200-q16",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/official-announcment-project-1/154615",
+            "internal": true,
+            "reflection": false,
+            "title": "Official Announcment Project 1",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/paris-200-q16/153966/6",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      547758,
+      548949,
+      548961,
+      549237,
+      549254,
+      549649
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      217
+    ],
+    [
+      2,
+      214
+    ],
+    [
+      4,
+      213
+    ],
+    [
+      6,
+      212
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 153966,
+  "title": "Paris:200 Q16",
+  "fancy_title": "Paris:200 Q16",
+  "posts_count": 6,
+  "created_at": "2024-10-26T16:24:14.812Z",
+  "views": 97,
+  "reply_count": 2,
+  "like_count": 0,
+  "last_posted_at": "2024-10-31T15:04:10.627Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "paris-200-q16",
+  "category_id": 34,
+  "word_count": 264,
+  "deleted_at": null,
+  "user_id": 6745,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153966",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 6,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 5,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 153519,
+      "title": "Chicago:100 Q11-Q16",
+      "fancy_title": "Chicago:100 Q11-Q16",
+      "slug": "chicago-100-q11-q16",
+      "posts_count": 6,
+      "reply_count": 2,
+      "highest_post_number": 6,
+      "image_url": null,
+      "created_at": "2024-10-23T20:42:01.087Z",
+      "last_posted_at": "2024-10-31T17:00:12.902Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T17:00:12.902Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 114,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14358,
+            "username": "22f2000816",
+            "name": "Bijoy Biju Varghese",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 21900,
+            "username": "22f3001475",
+            "name": "Neil Ghevade ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001475/{size}/67967_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 154410,
+      "title": "Wrong Framed question Project 1 Question 16",
+      "fancy_title": "Wrong Framed question Project 1 Question 16",
+      "slug": "wrong-framed-question-project-1-question-16",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/6/560e4f6339d936477dcf0b0cc0d3804fb4c87e2a_2_1024x64.png",
+      "created_at": "2024-10-29T18:10:01.289Z",
+      "last_posted_at": "2024-10-31T14:48:47.956Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T14:48:47.956Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 68,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14857,
+            "username": "Ammar_Sajjid",
+            "name": "AMMAR SAJJIDALI SHAIKH",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ammar_sajjid/{size}/12424_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3270,
+            "username": "umaskn",
+            "name": "Uma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/umaskn/{size}/1432_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 153466,
+      "title": "Barcelona:100 Q16 issue",
+      "fancy_title": "Barcelona:100 Q16 issue",
+      "slug": "barcelona-100-q16-issue",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-10-23T14:47:58.762Z",
+      "last_posted_at": "2024-10-23T18:27:58.091Z",
+      "bumped": true,
+      "bumped_at": "2024-10-23T18:27:58.091Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 46,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 26274,
+            "username": "24ds1000075",
+            "name": "POORNIMA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000075/{size}/67479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16101,
+            "username": "22f3000797",
+            "name": "Parampreet Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000797/{size}/56302_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154615,
+      "title": "Official Announcment Project 1",
+      "fancy_title": "Official Announcment Project 1",
+      "slug": "official-announcment-project-1",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-10-31T11:57:55.356Z",
+      "last_posted_at": "2024-10-31T11:58:10.087Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T11:57:55.584Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term3-2024",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 187,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 37690,
+      "title": "TDS > Project 1 > Ambiguity in language",
+      "fancy_title": "TDS &gt; Project 1 &gt; Ambiguity in language",
+      "slug": "tds-project-1-ambiguity-in-language",
+      "posts_count": 13,
+      "reply_count": 9,
+      "highest_post_number": 13,
+      "image_url": null,
+      "created_at": "2022-03-06T06:51:02.306Z",
+      "last_posted_at": "2022-03-06T14:54:58.655Z",
+      "bumped": true,
+      "bumped_at": "2022-03-06T14:54:58.655Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "projects"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 147,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 47,
+            "username": "PUNEET",
+            "name": "PUNEET BHAGAT",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet/{size}/5137_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1720,
+            "username": "him",
+            "name": "Himanshu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/him/{size}/3871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 5982,
+            "username": "avi2k2",
+            "name": "Avi Meena",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/avi2k2/{size}/295_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 99,
+            "username": "Naveen",
+            "name": "Naveen",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/naveen/{size}/22538_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1073,
+            "username": "priyansh",
+            "name": ".",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/278dde/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 6745,
+        "username": "21f2001119",
+        "name": "Ranjeet Sharma",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001119/{size}/12767_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 40077,
+        "username": "24ds3000100",
+        "name": "Bahni Roy",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 26312,
+        "username": "23f3003711",
+        "name": "Kavya Prashant Amrutkar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3003711/{size}/116219_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14857,
+        "username": "Ammar_Sajjid",
+        "name": "AMMAR SAJJIDALI SHAIKH",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ammar_sajjid/{size}/12424_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      }
+    ],
+    "created_by": {
+      "id": 6745,
+      "username": "21f2001119",
+      "name": "Ranjeet Sharma",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001119/{size}/12767_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

@@ -1,0 +1,956 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 513682,
+        "name": "Eram Nishat",
+        "username": "eram1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "created_at": "2024-08-13T09:43:20.000Z",
+        "cooked": "<p>Are there no TA sessions being conducted since the ROE, as we used to have for scraping and LLMs for live practice and tool usage clarity in previous weeks?</p>\n<p>Those sessions were very helpful. I hope there are regular sessions until the end.</p>\n<p>Please confirm <a class=\"mention\" href=\"/u/amit1\">@Amit1</a> Sir, <a class=\"mention\" href=\"/u/carlton\">@carlton</a> Sir</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-13T09:43:20.000Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 33.6,
+        "yours": false,
+        "topic_id": 142874,
+        "topic_slug": "request-for-regular-ta-sessions",
+        "display_username": "Eram Nishat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22602,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/request-for-regular-ta-sessions/142874/1",
+        "user_cakedate": "2023-09-24",
+        "user_birthdate": "1904-03-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 513753,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-13T12:48:59.553Z",
+        "cooked": "<p>Hi,</p>\n<p>As there were no new content releases for the past couple of weeks, and TDS has no quizzes, we did have sessions but the content was so sparse that we decided against recording it. They were mostly quick overviews and doubt clearing sessions.</p>\n<p>We will conduct a more rigorous treatment of the subject material with a view of preparing students for the exam closer to end term.</p>\n<p>Kind regards</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-13T12:49:34.316Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 37,
+        "readers_count": 36,
+        "score": 17.4,
+        "yours": false,
+        "topic_id": 142874,
+        "topic_slug": "request-for-regular-ta-sessions",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/request-for-regular-ta-sessions/142874/3",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 513793,
+        "name": "Eram Nishat",
+        "username": "eram1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "created_at": "2024-08-13T14:48:08.216Z",
+        "cooked": "<p>Thanks for the clarification. I just wish there were regular sessions not only from the exam perspective but also for gaining practical hands-on experience according to the subject’s core structure, which seems valuable for real-life projects.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-13T14:48:08.216Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 31,
+        "readers_count": 30,
+        "score": 21.2,
+        "yours": false,
+        "topic_id": 142874,
+        "topic_slug": "request-for-regular-ta-sessions",
+        "display_username": "Eram Nishat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22602,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/request-for-regular-ta-sessions/142874/4",
+        "user_cakedate": "2023-09-24",
+        "user_birthdate": "1904-03-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      513682,
+      513753,
+      513793
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      291
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "extra-resources",
+    "diploma-level"
+  ],
+  "tags_descriptions": {},
+  "id": 142874,
+  "title": "Request for Regular TA Sessions",
+  "fancy_title": "Request for Regular TA Sessions",
+  "posts_count": 3,
+  "created_at": "2024-08-13T09:43:19.798Z",
+  "views": 51,
+  "reply_count": 1,
+  "like_count": 2,
+  "last_posted_at": "2024-08-13T14:48:08.216Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "request-for-regular-ta-sessions",
+  "category_id": 34,
+  "word_count": 158,
+  "deleted_at": null,
+  "user_id": 22602,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_142874",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 4,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 151978,
+      "title": "Recording links for TDS session",
+      "fancy_title": "Recording links for TDS session",
+      "slug": "recording-links-for-tds-session",
+      "posts_count": 10,
+      "reply_count": 8,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2024-10-12T02:14:04.157Z",
+      "last_posted_at": "2024-10-21T07:38:42.698Z",
+      "bumped": true,
+      "bumped_at": "2024-10-21T07:38:42.698Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 5,
+      "views": 125,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15556,
+            "username": "kumarpa",
+            "name": "Pradeep Kumar P",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17331,
+            "username": "23f1002330",
+            "name": "Haifa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002330/{size}/67219_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 175897,
+      "title": "Recorded Sessions for TDS",
+      "fancy_title": "Recorded Sessions for TDS",
+      "slug": "recorded-sessions-for-tds",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2025-05-21T09:43:37.819Z",
+      "last_posted_at": "2025-05-21T11:57:19.089Z",
+      "bumped": true,
+      "bumped_at": "2025-05-21T11:57:19.089Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 1,
+      "unread": 0,
+      "new_posts": 0,
+      "unread_posts": 0,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 1,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "clarification",
+        "miscellaneous",
+        "diploma-level",
+        "term1-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 27,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 19016,
+            "username": "Priyank",
+            "name": "Priyank Solanki ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/priyank/{size}/66833_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 156349,
+      "title": "Please upload TA session recording",
+      "fancy_title": "Please upload TA session recording",
+      "slug": "please-upload-ta-session-recording",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2024-11-14T08:37:37.711Z",
+      "last_posted_at": "2024-11-14T08:37:37.935Z",
+      "bumped": true,
+      "bumped_at": "2024-11-14T08:37:37.935Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational",
+        "live-session-ta"
+      ],
+      "tags_descriptions": {},
+      "like_count": 6,
+      "views": 71,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 26413,
+            "username": "24ds1000042",
+            "name": "PREENA SALIM",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000042/{size}/67340_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 156941,
+      "title": "Reg. today's TA session",
+      "fancy_title": "Reg. today&rsquo;s TA session",
+      "slug": "reg-todays-ta-session",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-11-20T15:50:28.997Z",
+      "last_posted_at": "2024-11-21T08:08:09.052Z",
+      "bumped": true,
+      "bumped_at": "2024-11-21T08:08:09.052Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term3-2024"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 82,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 26413,
+            "username": "24ds1000042",
+            "name": "PREENA SALIM",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000042/{size}/67340_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 136853,
+      "title": "Ensuring Access to Complete TDS Live Session Recordings",
+      "fancy_title": "Ensuring Access to Complete TDS Live Session Recordings",
+      "slug": "ensuring-access-to-complete-tds-live-session-recordings",
+      "posts_count": 8,
+      "reply_count": 6,
+      "highest_post_number": 8,
+      "image_url": null,
+      "created_at": "2024-06-26T19:57:08.265Z",
+      "last_posted_at": "2024-07-19T03:24:46.686Z",
+      "bumped": true,
+      "bumped_at": "2024-07-19T03:24:46.686Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "extra-resources",
+        "diploma-level",
+        "course-portal"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 99,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 22602,
+            "username": "eram1011",
+            "name": "Eram Nishat",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7466,
+            "username": "Mayankjoc",
+            "name": "Mayank Joshi",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mayankjoc/{size}/15_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 703,
+            "username": "hari",
+            "name": "Harish",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/cdc98d/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 3,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "Hi, \nAs there were no new content releases for the past couple of weeks, and TDS has no quizzes, we did have sessions but the content was so sparse that we decided against recording it. They were mostly quick overviews and doubt clearing sessions. \nWe will conduct a more rigorous treatment of the su&hellip;",
+    "accepter_name": null,
+    "accepter_username": "eram1011"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 22602,
+        "username": "eram1011",
+        "name": "Eram Nishat",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      }
+    ],
+    "created_by": {
+      "id": 22602,
+      "username": "eram1011",
+      "name": "Eram Nishat",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png"
+    },
+    "last_poster": {
+      "id": 22602,
+      "username": "eram1011",
+      "name": "Eram Nishat",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

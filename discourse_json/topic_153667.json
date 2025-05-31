@@ -1,0 +1,907 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 546662,
+        "name": "Monica Vaze",
+        "username": "23ds2000023",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000023/{size}/66814_2.png",
+        "created_at": "2024-10-25T02:10:19.465Z",
+        "cooked": "<p>Hi,<br>\nI have a doubt regarding the instruction given on project page about <strong>Cleaning COMPANY name</strong><br>\nWhile going through the data, I came across a record where there were 3 company names for one user. I am attaching the screenshot of one such user for the reference.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/1/01b632fe39f8a7d051a07379d26f23c9ee5342a3.png\" data-download-href=\"/uploads/short-url/f8PV6ZZ3M7KnckOyaGl6e1NWsH.png?dl=1\" title=\"Capture\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/1/01b632fe39f8a7d051a07379d26f23c9ee5342a3.png\" alt=\"Capture\" data-base62-sha1=\"f8PV6ZZ3M7KnckOyaGl6e1NWsH\" width=\"550\" height=\"500\" data-dominant-color=\"F3F2EE\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Capture</span><span class=\"informations\">732×665 19.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>I assumed that while cleaning COMPANY name, we need to remove all the @ symbols present.<br>\nKindly confirm whether my assumption is crrect.</p>\n<p>Quiz ID: <strong>Toronto:100</strong></p>\n<p>Regards,<br>\nMonica</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-25T02:10:19.465Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 53,
+        "readers_count": 52,
+        "score": 20.6,
+        "yours": false,
+        "topic_id": 153667,
+        "topic_slug": "tds-project1-company-name",
+        "display_username": "Monica Vaze",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17918,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-project1-company-name/153667/1",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 546689,
+        "name": "Sid",
+        "username": "22f3003031",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "created_at": "2024-10-25T04:14:46.258Z",
+        "cooked": "<p>Interesting edge case. Thanks for sharing.</p>\n<p>In my opinion, while we can strip all company names of @ (space delimited),  the next step would be to parse them separately, to correctly answer Q4.</p>\n<p>So should I bother?<br>\nI reviewed my dataset and found 3 such cases for a total of 362 users, with the most users working in a company <em>not</em> mentioned in any of these 3 cases. So pls do analyse your data to see if it warrants any detailed maneuvering</p>\n<ul>\n<li>For the purpose of assignment, I will only remove the leading @ , and validate my Q4 answer by clicking “Check answers” button</li>\n<li>As an exercise in learning, you may parse all <span class=\"mention\">@companies</span> and identify the top one [ BTW, Q16 explores that with a slightly different ask]</li>\n</ul>\n<p>Do you think this is a good candidate for your Readme.md? <img src=\"https://emoji.discourse-cdn.com/google/slight_smile.png?v=12\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-25T04:16:28.020Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 50,
+        "readers_count": 49,
+        "score": 25.0,
+        "yours": false,
+        "topic_id": 153667,
+        "topic_slug": "tds-project1-company-name",
+        "display_username": "Sid",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16762,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-project1-company-name/153667/2",
+        "user_cakedate": "2023-02-07",
+        "user_birthdate": "1904-11-08",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 547267,
+        "name": "JAI SUBIKSHA T",
+        "username": "23f2001696",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "created_at": "2024-10-26T02:31:32.685Z",
+        "cooked": "<p>Only leading <span class=\"mention\">@symbol</span> is to be stripped off. And check the answer</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-26T02:31:32.685Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 6.6,
+        "yours": false,
+        "topic_id": 153667,
+        "topic_slug": "tds-project1-company-name",
+        "display_username": "JAI SUBIKSHA T",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19399,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tds-project1-company-name/153667/3",
+        "user_cakedate": "2023-06-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      546662,
+      546689,
+      547267
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      219
+    ],
+    [
+      3,
+      218
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1155,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 153667,
+  "title": "TDS Project1 company name",
+  "fancy_title": "TDS Project1 company name",
+  "posts_count": 3,
+  "created_at": "2024-10-25T02:10:19.283Z",
+  "views": 73,
+  "reply_count": 0,
+  "like_count": 1,
+  "last_posted_at": "2024-10-26T02:31:32.685Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "tds-project1-company-name",
+  "category_id": 34,
+  "word_count": 231,
+  "deleted_at": null,
+  "user_id": 17918,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/1/01b632fe39f8a7d051a07379d26f23c9ee5342a3.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153667",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 732,
+      "height": 665,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/0/1/01b632fe39f8a7d051a07379d26f23c9ee5342a3.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 154615,
+      "title": "Official Announcment Project 1",
+      "fancy_title": "Official Announcment Project 1",
+      "slug": "official-announcment-project-1",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-10-31T11:57:55.356Z",
+      "last_posted_at": "2024-10-31T11:58:10.087Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T11:57:55.584Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term3-2024",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 187,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 123176,
+      "title": "TDS project - 1 , do we need to data cleaning?",
+      "fancy_title": "TDS project - 1 , do we need to data cleaning?",
+      "slug": "tds-project-1-do-we-need-to-data-cleaning",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/3/a3aa16cee8050fc5c4d56a7f95336cefb747d965_2_569x1024.jpeg",
+      "created_at": "2024-03-06T18:26:36.558Z",
+      "last_posted_at": "2024-03-11T13:09:23.467Z",
+      "bumped": true,
+      "bumped_at": "2024-03-11T13:09:23.467Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 61,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 19314,
+            "username": "23f1003177",
+            "name": "Krishnansh Agarwal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003177/{size}/83536_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 58276,
+      "title": "Data Cleaning in project 2",
+      "fancy_title": "Data Cleaning in project 2",
+      "slug": "data-cleaning-in-project-2",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2022-07-19T16:26:19.634Z",
+      "last_posted_at": "2022-07-20T01:28:23.555Z",
+      "bumped": true,
+      "bumped_at": "2022-07-20T01:28:23.555Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "projects",
+        "tds"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 112,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 6105,
+            "username": "21f1004361",
+            "name": "HImanshu Pratap",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1004361/{size}/1158_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 5303,
+            "username": "J_P",
+            "name": "Jishnu JP",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/j_p/{size}/45505_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 11095,
+            "username": "21f3002783",
+            "name": "Shahid Mohiuddin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002783/{size}/12998_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154410,
+      "title": "Wrong Framed question Project 1 Question 16",
+      "fancy_title": "Wrong Framed question Project 1 Question 16",
+      "slug": "wrong-framed-question-project-1-question-16",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/6/560e4f6339d936477dcf0b0cc0d3804fb4c87e2a_2_1024x64.png",
+      "created_at": "2024-10-29T18:10:01.289Z",
+      "last_posted_at": "2024-10-31T14:48:47.956Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T14:48:47.956Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 68,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14857,
+            "username": "Ammar_Sajjid",
+            "name": "AMMAR SAJJIDALI SHAIKH",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ammar_sajjid/{size}/12424_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3270,
+            "username": "umaskn",
+            "name": "Uma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/umaskn/{size}/1432_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 138925,
+      "title": "Data cleanup in Project",
+      "fancy_title": "Data cleanup in Project",
+      "slug": "data-cleanup-in-project",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-07-08T04:35:12.138Z",
+      "last_posted_at": "2024-07-08T05:08:49.061Z",
+      "bumped": true,
+      "bumped_at": "2024-07-08T05:08:49.061Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 54,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16125,
+            "username": "23f1000873",
+            "name": "aditya_nupani",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000873/{size}/68296_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16762,
+        "username": "22f3003031",
+        "name": "Sid",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19399,
+        "username": "23f2001696",
+        "name": "JAI SUBIKSHA T",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17918,
+        "username": "23ds2000023",
+        "name": "Monica Vaze",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000023/{size}/66814_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 17918,
+      "username": "23ds2000023",
+      "name": "Monica Vaze",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000023/{size}/66814_2.png"
+    },
+    "last_poster": {
+      "id": 19399,
+      "username": "23f2001696",
+      "name": "JAI SUBIKSHA T",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

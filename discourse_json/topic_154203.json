@@ -1,0 +1,1010 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 548180,
+        "name": "Deepesh Gotherwal",
+        "username": "Gotherwal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png",
+        "created_at": "2024-10-28T02:34:58.490Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> , <a class=\"mention\" href=\"/u/carlton\">@carlton</a><br>\nSir, I am getting in repo link verification as shown in mage below:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2.png\" data-download-href=\"/uploads/short-url/mwNlCx5To4JMLQh1nPB4Dinmg5I.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2_2_690x142.png\" alt=\"image\" data-base62-sha1=\"mwNlCx5To4JMLQh1nPB4Dinmg5I\" width=\"690\" height=\"142\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2_2_690x142.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2.png 2x\" data-dominant-color=\"F6F3F4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">981×202 14.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nI have all the requried files with all requried feilds in my github repo as shown below:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/7/a786a8a634570d6236015929fb1c3c4dac58620a.png\" data-download-href=\"/uploads/short-url/nU0f2SikloYbkbWDwi1T8PDDFJE.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/7/a786a8a634570d6236015929fb1c3c4dac58620a_2_690x239.png\" alt=\"image\" data-base62-sha1=\"nU0f2SikloYbkbWDwi1T8PDDFJE\" width=\"690\" height=\"239\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/7/a786a8a634570d6236015929fb1c3c4dac58620a_2_690x239.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/7/a786a8a634570d6236015929fb1c3c4dac58620a_2_1035x358.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/a/7/a786a8a634570d6236015929fb1c3c4dac58620a.png 2x\" data-dominant-color=\"F7F9F9\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1172×407 24.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nImage of my users.csv files are<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/0/702bf3e98ad284ce23f3cd523060cd75802bb8b5.png\" data-download-href=\"/uploads/short-url/g0jDZJvUiuYJ0jjyO7yE888i1Ip.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/0/702bf3e98ad284ce23f3cd523060cd75802bb8b5.png\" alt=\"image\" data-base62-sha1=\"g0jDZJvUiuYJ0jjyO7yE888i1Ip\" width=\"690\" height=\"226\" data-dominant-color=\"E3E4E5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1217×400 43.7 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nCan you please help me identify what mistakes I am making?</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-28T02:34:58.490Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 8.6,
+        "yours": false,
+        "topic_id": 154203,
+        "topic_slug": "zurich-50-error-in-repo-link-verification",
+        "display_username": "Deepesh Gotherwal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12855,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/zurich-50-error-in-repo-link-verification/154203/1",
+        "user_cakedate": "2022-05-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 548184,
+        "name": "JAI SUBIKSHA T",
+        "username": "23f2001696",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "created_at": "2024-10-28T03:07:04.384Z",
+        "cooked": "<p>Extension .git not needed. (<a href=\"https://github.com/gotherwal/TDS_PROJECT1\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">GitHub - gotherwal/TDS_Project1</a>) is enough</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-28T03:07:04.384Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 33.2,
+        "yours": false,
+        "topic_id": 154203,
+        "topic_slug": "zurich-50-error-in-repo-link-verification",
+        "display_username": "JAI SUBIKSHA T",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://github.com/gotherwal/TDS_PROJECT1",
+            "internal": false,
+            "reflection": false,
+            "title": "GitHub - gotherwal/TDS_Project1",
+            "clicks": 3
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19399,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/zurich-50-error-in-repo-link-verification/154203/2",
+        "user_cakedate": "2023-06-09",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 548190,
+        "name": "Deepesh Gotherwal",
+        "username": "Gotherwal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png",
+        "created_at": "2024-10-28T03:47:30.802Z",
+        "cooked": "<p>Thanks a lot it worked</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-10-28T03:47:30.802Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 7.6,
+        "yours": false,
+        "topic_id": 154203,
+        "topic_slug": "zurich-50-error-in-repo-link-verification",
+        "display_username": "Deepesh Gotherwal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19399,
+          "username": "23f2001696",
+          "name": "JAI SUBIKSHA T",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12855,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/zurich-50-error-in-repo-link-verification/154203/3",
+        "user_cakedate": "2022-05-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      548180,
+      548184,
+      548190
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      216
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 154203,
+  "title": "Zurich:50, error in repo link verification",
+  "fancy_title": "Zurich:50, error in repo link verification",
+  "posts_count": 3,
+  "created_at": "2024-10-28T02:34:58.293Z",
+  "views": 52,
+  "reply_count": 1,
+  "like_count": 1,
+  "last_posted_at": "2024-10-28T03:47:30.802Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "zurich-50-error-in-repo-link-verification",
+  "category_id": 34,
+  "word_count": 82,
+  "deleted_at": null,
+  "user_id": 12855,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_154203",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 981,
+      "height": 202,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/d/9de4e2cd3b58b8847dc3f12e75feb3202ceebce2.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 154510,
+      "title": "Error while verifying github repo url. Stockholm:100",
+      "fancy_title": "Error while verifying github repo url. Stockholm:100",
+      "slug": "error-while-verifying-github-repo-url-stockholm-100",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b29499e79ea5ed4e95be1f3f6689b39b28075e62_2_1024x319.png",
+      "created_at": "2024-10-30T17:03:00.668Z",
+      "last_posted_at": "2024-10-30T17:30:46.922Z",
+      "bumped": true,
+      "bumped_at": "2024-10-30T17:58:22.834Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 38,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 12548,
+            "username": "Lakshay_Sharma1",
+            "name": "Lakshay Sharma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshay_sharma1/{size}/1219_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16339,
+            "username": "HimanshuSaini",
+            "name": "Himanshu Saini",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/b5a626/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23358,
+            "username": "23f3001129",
+            "name": "Aliza Shaikh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001129/{size}/66875_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154283,
+      "title": "TDS 1 Beijing:500",
+      "fancy_title": "TDS 1 Beijing:500",
+      "slug": "tds-1-beijing-500",
+      "posts_count": 4,
+      "reply_count": 0,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/5/e532249d261ffb6c68dbf5351cc2f3c6302506c3_2_1024x78.png",
+      "created_at": "2024-10-28T17:08:15.459Z",
+      "last_posted_at": "2024-10-29T05:35:18.398Z",
+      "bumped": true,
+      "bumped_at": "2024-10-29T05:35:18.398Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 76,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23020,
+            "username": "23f3002354",
+            "name": "L P Vishnupriya ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3002354/{size}/112715_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16323,
+            "username": "22f3001210",
+            "name": "Rishit Pant",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001210/{size}/69573_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 153364,
+      "title": "Project url verification error",
+      "fancy_title": "Project url verification error",
+      "slug": "project-url-verification-error",
+      "posts_count": 12,
+      "reply_count": 9,
+      "highest_post_number": 12,
+      "image_url": null,
+      "created_at": "2024-10-22T20:02:56.726Z",
+      "last_posted_at": "2024-10-26T11:43:30.852Z",
+      "bumped": true,
+      "bumped_at": "2024-10-26T11:43:30.852Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 6,
+      "views": 132,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 3270,
+            "username": "umaskn",
+            "name": "Uma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/umaskn/{size}/1432_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15556,
+            "username": "kumarpa",
+            "name": "Pradeep Kumar P",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12855,
+            "username": "Gotherwal",
+            "name": "Deepesh Gotherwal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154435,
+      "title": "Showing error while accessing the Github link. Mumbai:50",
+      "fancy_title": "Showing error while accessing the Github link. Mumbai:50",
+      "slug": "showing-error-while-accessing-the-github-link-mumbai-50",
+      "posts_count": 5,
+      "reply_count": 2,
+      "highest_post_number": 5,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/b/2/b27e1335b7935d35036d5d2736cfec51c9622538_2_1023x187.png",
+      "created_at": "2024-10-30T04:55:49.588Z",
+      "last_posted_at": "2024-10-30T15:44:45.763Z",
+      "bumped": true,
+      "bumped_at": "2024-10-30T15:44:45.763Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 49,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23358,
+            "username": "23f3001129",
+            "name": "Aliza Shaikh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001129/{size}/66875_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154177,
+      "title": "TDS project 1 error in repo verification",
+      "fancy_title": "TDS project 1 error in repo verification",
+      "slug": "tds-project-1-error-in-repo-verification",
+      "posts_count": 4,
+      "reply_count": 1,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/c/0cd99bcc6fb82ab25c68eaeac21bf655121c4727_2_1024x640.jpeg",
+      "created_at": "2024-10-27T13:39:54.734Z",
+      "last_posted_at": "2024-10-28T13:24:40.018Z",
+      "bumped": true,
+      "bumped_at": "2024-10-28T13:24:40.018Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 109,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 22479,
+            "username": "23f2003845",
+            "name": "Harsh Shah",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/6f9a4e/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 2,
+    "username": "23f2001696",
+    "name": null,
+    "excerpt": "Extension .git not needed. (<a href=\"https://github.com/gotherwal/TDS_PROJECT1\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">GitHub - gotherwal/TDS_Project1</a>) is enough",
+    "accepter_name": null,
+    "accepter_username": "carlton"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 12855,
+        "username": "Gotherwal",
+        "name": "Deepesh Gotherwal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19399,
+        "username": "23f2001696",
+        "name": "JAI SUBIKSHA T",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 12855,
+      "username": "Gotherwal",
+      "name": "Deepesh Gotherwal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png"
+    },
+    "last_poster": {
+      "id": 12855,
+      "username": "Gotherwal",
+      "name": "Deepesh Gotherwal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gotherwal/{size}/69650_2.png"
+    },
+    "links": [
+      {
+        "url": "https://github.com/gotherwal/TDS_PROJECT1",
+        "title": "GitHub - gotherwal/TDS_Project1",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 19399,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

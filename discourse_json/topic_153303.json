@@ -1,0 +1,2278 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 545507,
+        "name": "Soham Ghosh ",
+        "username": "23f2003803",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png",
+        "created_at": "2024-10-22T12:17:38.269Z",
+        "cooked": "<p>Hi <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> <a class=\"mention\" href=\"/u/carlton\">@carlton</a> . My Quiz ID is Stockholm:100</p>\n<p>in the Project 1 of TDS, the numerical answers from question 11 to question 15 are coming wrong. regardless of what I try. The other numerical answers are alright. Here is a picture for reference.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e.jpeg\" data-download-href=\"/uploads/short-url/3Dfrh5lhNThKMhAMXdpPF8RWqVo.jpeg?dl=1\" title=\"WhatsApp Image 2024-10-22 at 17.31.09_abe60046\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e_2_690x436.jpeg\" alt=\"WhatsApp Image 2024-10-22 at 17.31.09_abe60046\" data-base62-sha1=\"3Dfrh5lhNThKMhAMXdpPF8RWqVo\" width=\"690\" height=\"436\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e_2_690x436.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e.jpeg 2x\" data-dominant-color=\"F7F6F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">WhatsApp Image 2024-10-22 at 17.31.09_abe60046</span><span class=\"informations\">1000×633 74.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>what I have done with the questions is as follows:<br>\n11. binary encoded the columns has_projects and has_wiki then computed then correlation coefficient.<br>\n12. as given in the question, computed the average following for rows with hireable=true and subtracting from it, the average following of rest of the rows (ie. other than TRUE)<br>\n13. in this question, I have computed the regression slope of followers on bio_word count. I have also tried the correlation of length of their bio in unicode characters and followers. none are working.<br>\n15. again, like the question said, for hireable=TRUE i’m obtaining the fraction of users with email an then from it, subtracting fraction of users with email where hireable is not TRUE.</p>\n<p>these were mostly done on excel. Could you please help me in understanding my faults? also please confirm if my understanding of the questions is correct.</p>\n<p>would be thankful for any kind of help.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-11-05T10:16:57.815Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 117,
+        "readers_count": 116,
+        "score": 48.4,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Soham Ghosh ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23746,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/1",
+        "user_cakedate": "2023-10-07",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 545526,
+        "name": "Vikram Singh Negi",
+        "username": "vikram_negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "created_at": "2024-10-22T12:54:56.421Z",
+        "cooked": "<p>Similar thing is happening with me, Q11, 12, 13, and 15.</p>\n<p>Even though my code logic seems sound.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-22T12:54:56.421Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 108,
+        "readers_count": 107,
+        "score": 21.6,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Vikram Singh Negi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15889,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 545585,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-22T15:02:58.259Z",
+        "cooked": "<p>Check your csv files have boolean values represented as true instead of TRUE\\True and false instead of FALSE\\False. The correct answers seem be calculated from our files in Github only (Assumably because of the dynamic nature of the data) so we need to follow the instructions exactly as given in the quiz. I was able to get these answers corrected after I reuploaded the csv files with these changes, barring <span class=\"hashtag-raw\">#13</span>.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-22T15:02:58.259Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 103,
+        "readers_count": 102,
+        "score": 55.6,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/inconsistency-in-github-repo-url-verification/153420/2",
+            "internal": true,
+            "reflection": true,
+            "title": "Inconsistency in github repo url verification",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-answer-for-q11-q12-q13-q15-in-tds-project-1/153888/13",
+            "internal": true,
+            "reflection": true,
+            "title": "Wrong Answer for Q11, Q12, Q13, Q15 in TDS-PROJECT-1",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/3",
+        "user_cakedate": "2023-10-13",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 545619,
+        "name": "Soham Ghosh ",
+        "username": "23f2003803",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png",
+        "created_at": "2024-10-22T16:11:46.844Z",
+        "cooked": "<p>will try that. Thanks a lot.</p>\n<p>[update] I did exactly that and now it seems I have the same problem. <span class=\"hashtag-raw\">#13</span> isn’t giving the right answer for me either.</p>\n<p>tried different things in excel while also doing the same in colab. didn’t get the same answer but still none of them worked.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-22T18:08:57.116Z",
+        "reply_count": 2,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 98,
+        "readers_count": 97,
+        "score": 34.6,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Soham Ghosh ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23746,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/4",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 545678,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-22T18:39:39.817Z",
+        "cooked": "<p>Yeah same with me though got the same slope in both Excel and colab. Will try few other things tomorrow.</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-22T18:39:39.817Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 89,
+        "readers_count": 88,
+        "score": 27.8,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 23746,
+          "username": "23f2003803",
+          "name": "Soham Ghosh ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/5",
+        "user_cakedate": "2023-10-13",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 547285,
+        "name": "Saloni Singh",
+        "username": "Saloni",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saloni/{size}/66907_2.png",
+        "created_at": "2024-10-26T03:24:27.810Z",
+        "cooked": "<p>Hey, did your issue with Q 11,12,13,15 get fixed? I tried changing the values to true and false, but am still getting wrong answers.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-26T03:24:27.810Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 76,
+        "readers_count": 75,
+        "score": 20.2,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Saloni Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 23746,
+          "username": "23f2003803",
+          "name": "Soham Ghosh ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27245,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/6",
+        "user_cakedate": "2024-02-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549205,
+        "name": "Soham Ghosh ",
+        "username": "23f2003803",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png",
+        "created_at": "2024-10-30T12:32:25.077Z",
+        "cooked": "<p>as for me the issue with 13 still remains. others are alright.</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-30T12:32:25.077Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 16.2,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Soham Ghosh ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 27245,
+          "username": "Saloni",
+          "name": "Saloni Singh",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saloni/{size}/66907_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23746,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/7",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549207,
+        "name": "Soham Ghosh ",
+        "username": "23f2003803",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png",
+        "created_at": "2024-10-30T12:33:00.671Z",
+        "cooked": "<p>did you arrive at any solution?</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-30T12:33:00.671Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 15.8,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Soham Ghosh ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23746,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/8",
+        "user_cakedate": "2023-10-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549214,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-30T12:47:45.228Z",
+        "cooked": "<p>There was an issue in backend which was fixed today as mentioned in the other thread by the TA. After that I was able to reach to the correct answer.</p>\n<aside class=\"quote\" data-post=\"1\" data-topic=\"154442\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/48.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/regarding-question-13-of-project1/154442\">Regarding question 13 of project1</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    The issues with incorrect answers for Project 1, Question 13 have been resolved. The backend script responsible for checking answers has been updated. Students can now answer Question 13 of the project1. \nKind Regards\n  </blockquote>\n</aside>\n",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-30T12:53:43.071Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 52,
+        "readers_count": 51,
+        "score": 25.4,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-question-13-of-project1/154442",
+            "internal": true,
+            "reflection": false,
+            "title": "Regarding question 13 of project1",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 23746,
+          "username": "23f2003803",
+          "name": "Soham Ghosh ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/9",
+        "user_cakedate": "2023-10-13",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549567,
+        "name": "Anand K",
+        "username": "22ds1000131",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png",
+        "created_at": "2024-10-31T11:14:00.009Z",
+        "cooked": "<p>I am still getting error in Q13.</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-31T11:14:00.009Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 40,
+        "readers_count": 39,
+        "score": 13.0,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Anand K",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8226,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/10",
+        "user_cakedate": "2021-12-29",
+        "user_birthdate": "1904-11-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549575,
+        "name": "Bhavin",
+        "username": "23ds3000248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "created_at": "2024-10-31T11:44:02.996Z",
+        "cooked": "<p>Which tool are you using? I used sklearn’s LinearRegression model to find out the regression slope.</p>\n<p>Couple of points you can check are,</p>\n<ol>\n<li>You are counting words of the Bio by splitting it on whitespaces and not finding the length of the Bio.</li>\n<li>You are not considering the rows where Bio does not exist, just get rid of them from the calculation.</li>\n</ol>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-31T11:44:02.996Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 35,
+        "readers_count": 34,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Bhavin",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 8226,
+          "username": "22ds1000131",
+          "name": "Anand K",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/11",
+        "user_cakedate": "2023-10-13",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549616,
+        "name": "Anand K",
+        "username": "22ds1000131",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png",
+        "created_at": "2024-10-31T14:07:42.783Z",
+        "cooked": "<p>I used both model sklearn.linear_model as well as satatsmodels.formula.api.  In both models i am getting same answer, when i update and check  answer, it says incorrect.  i did word counting by bio splitting and had also eliminated all the rows which has no value.</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-31T15:48:35.245Z",
+        "reply_count": 1,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 26,
+        "readers_count": 25,
+        "score": 10.2,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Anand K",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24024,
+          "username": "23ds3000248",
+          "name": "Bhavin",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8226,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/12",
+        "user_cakedate": "2021-12-29",
+        "user_birthdate": "1904-11-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549684,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T16:55:49.453Z",
+        "cooked": "<p>Sometimes students have done an incorrect split on  a single whitespace. That WILL give you the wrong answer.</p>\n<p>Eg.</p>\n<pre><code class=\"lang-auto\">This  is a bio.\nThis is a bio.\n</code></pre>\n<p>If you spilt on a single whitespace you will get 5 for the first one and 4 for the second one. Even though both should have resulted in 4 being the word count. This is a VERY common mistake. You have to treat all whitespace as a delimiter not individually.</p>\n<p>Kind regards</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-31T16:57:11.350Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 20,
+        "readers_count": 19,
+        "score": 9.0,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 8226,
+          "username": "22ds1000131",
+          "name": "Anand K",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/14",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549695,
+        "name": "Anand K",
+        "username": "22ds1000131",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png",
+        "created_at": "2024-10-31T17:18:06.018Z",
+        "cooked": "<p>Thanks for the suggestion.  I did amended my code to include multiple whitespaces use re.  I got different answer, however, still my result shows incorrect.</p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 15,
+        "updated_at": "2024-10-31T17:18:06.018Z",
+        "reply_count": 0,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 19,
+        "readers_count": 18,
+        "score": 3.8,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Anand K",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8226,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-doubt-regarding-question/153303/15",
+        "user_cakedate": "2021-12-29",
+        "user_birthdate": "1904-11-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 552394,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-05T10:16:57.923Z",
+        "cooked": "<p>Added <a class=\"hashtag-cooked\" href=\"/tag/tds-project-1\" data-type=\"tag\" data-slug=\"tds-project-1\" data-id=\"231\"><span class=\"hashtag-icon-placeholder\"><svg class=\"fa d-icon d-icon-square-full svg-icon svg-node\"><use href=\"#square-full\"></use></svg></span><span>tds-project-1</span></a>, <a class=\"hashtag-cooked\" href=\"/tag/term3-2024\" data-type=\"tag\" data-slug=\"term3-2024\" data-id=\"339\"><span class=\"hashtag-icon-placeholder\"><svg class=\"fa d-icon d-icon-square-full svg-icon svg-node\"><use href=\"#square-full\"></use></svg></span><span>term3-2024</span></a></p>",
+        "post_number": 16,
+        "post_type": 3,
+        "posts_count": 15,
+        "updated_at": "2024-11-05T10:16:57.923Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 9,
+        "readers_count": 8,
+        "score": 1.8,
+        "yours": false,
+        "topic_id": 153303,
+        "topic_slug": "project-1-doubt-regarding-question",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "/tag/tds-project-1",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "/tag/term3-2024",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "tags_changed",
+        "post_url": "/t/project-1-doubt-regarding-question/153303/16",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      545507,
+      545526,
+      545585,
+      545619,
+      545678,
+      547285,
+      549205,
+      549207,
+      549214,
+      549567,
+      549575,
+      549616,
+      549684,
+      549695,
+      552394
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      221
+    ],
+    [
+      6,
+      218
+    ],
+    [
+      7,
+      213
+    ],
+    [
+      10,
+      212
+    ],
+    [
+      15,
+      207
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "term3-2024",
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 153303,
+  "title": "Project 1 doubt regarding question",
+  "fancy_title": "Project 1 doubt regarding question",
+  "posts_count": 15,
+  "created_at": "2024-10-22T12:17:37.908Z",
+  "views": 186,
+  "reply_count": 11,
+  "like_count": 3,
+  "last_posted_at": "2024-11-05T10:16:57.923Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "project-1-doubt-regarding-question",
+  "category_id": 34,
+  "word_count": 697,
+  "deleted_at": null,
+  "user_id": 23746,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e.jpeg",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153303",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 16,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 6,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 1000,
+      "height": 633,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/9/1976525dd1e146b2e19f7df94a4913c0a297568e.jpeg"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 153888,
+      "title": "Wrong Answer for Q11, Q12, Q13, Q15 in TDS-PROJECT-1",
+      "fancy_title": "Wrong Answer for Q11, Q12, Q13, Q15 in TDS-PROJECT-1",
+      "slug": "wrong-answer-for-q11-q12-q13-q15-in-tds-project-1",
+      "posts_count": 13,
+      "reply_count": 7,
+      "highest_post_number": 13,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/0/0/00eca38c7e559e09c8e02b9f2f4fed330aa79d71_2_1024x333.png",
+      "created_at": "2024-10-26T08:32:12.187Z",
+      "last_posted_at": "2024-10-31T12:20:57.619Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T12:20:57.619Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "tds",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 349,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 25678,
+            "username": "22f3000400",
+            "name": "Ramakrishnan S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000400/{size}/101201_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 21542,
+            "username": "22f3000626",
+            "name": "Shiva Santhosh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000626/{size}/66836_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29417,
+            "username": "lifelonglearner",
+            "name": "Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lifelonglearner/{size}/67019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16542,
+            "username": "22f3001673",
+            "name": "Adnan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001673/{size}/121826_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24024,
+            "username": "23ds3000248",
+            "name": "Bhavin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154433,
+      "title": "TDS Project1 doubt Chennai:50",
+      "fancy_title": "TDS Project1 doubt Chennai:50",
+      "slug": "tds-project1-doubt-chennai-50",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/d/1d086aa69c61ecd40656358d5f06176ba1a7d3e0_2_1024x709.png",
+      "created_at": "2024-10-30T04:45:38.767Z",
+      "last_posted_at": "2024-10-31T14:53:25.351Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T14:53:25.351Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 73,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14627,
+            "username": "22f3000182",
+            "name": "Jyoti Singh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000182/{size}/18877_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 933,
+            "username": "Anand",
+            "name": "Anand Iyer",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anand/{size}/1555_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154536,
+      "title": "How I solved Project 1 Q. 11/12/13/15",
+      "fancy_title": "How I solved Project 1 Q. 11/12/13/15",
+      "slug": "how-i-solved-project-1-q-11-12-13-15",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2024-10-31T03:34:05.509Z",
+      "last_posted_at": "2024-10-31T03:34:06.027Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T03:34:06.027Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 79,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 29417,
+            "username": "lifelonglearner",
+            "name": "Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lifelonglearner/{size}/67019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 155264,
+      "title": "Stockholm 100 Proj 1 Q12",
+      "fancy_title": "Stockholm 100 Proj 1 Q12",
+      "slug": "stockholm-100-proj-1-q12",
+      "posts_count": 4,
+      "reply_count": 0,
+      "highest_post_number": 4,
+      "image_url": null,
+      "created_at": "2024-11-02T05:56:16.702Z",
+      "last_posted_at": "2024-11-04T10:32:41.690Z",
+      "bumped": true,
+      "bumped_at": "2024-11-02T20:05:48.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term3-2024",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 49,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 7196,
+            "username": "21f2000507",
+            "name": "Bhav_s",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000507/{size}/13603_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 19399,
+            "username": "23f2001696",
+            "name": "JAI SUBIKSHA T",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001696/{size}/68091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 153519,
+      "title": "Chicago:100 Q11-Q16",
+      "fancy_title": "Chicago:100 Q11-Q16",
+      "slug": "chicago-100-q11-q16",
+      "posts_count": 6,
+      "reply_count": 2,
+      "highest_post_number": 6,
+      "image_url": null,
+      "created_at": "2024-10-23T20:42:01.087Z",
+      "last_posted_at": "2024-10-31T17:00:12.902Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T17:00:12.902Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 114,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14358,
+            "username": "22f2000816",
+            "name": "Bijoy Biju Varghese",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 21900,
+            "username": "22f3001475",
+            "name": "Neil Ghevade ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001475/{size}/67967_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 23746,
+        "username": "23f2003803",
+        "name": "Soham Ghosh ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 24024,
+        "username": "23ds3000248",
+        "name": "Bhavin",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8226,
+        "username": "22ds1000131",
+        "name": "Anand K",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 27245,
+        "username": "Saloni",
+        "name": "Saloni Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saloni/{size}/66907_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 15889,
+        "username": "vikram_negi",
+        "name": "Vikram Singh Negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 23746,
+      "username": "23f2003803",
+      "name": "Soham Ghosh ",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003803/{size}/66753_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    },
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/inconsistency-in-github-repo-url-verification/153420/2",
+        "title": "Inconsistency in github repo url verification",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 3,
+        "user_id": 24024,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
