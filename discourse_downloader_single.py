@@ -131,7 +131,13 @@ def main():
                 browser.close()
 
         scrape_posts(p)
+        
+def run_scraper_programmatically():
+    with sync_playwright() as p:
+        if not os.path.exists(AUTH_STATE_FILE):
+            raise Exception("❌ No auth state found. Run login manually first.")
+        scrape_posts(p)
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+ #   main()
 
