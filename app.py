@@ -24,3 +24,18 @@ def scrape():
         return {"status": "success", "message": "Scraping completed"}
     except Exception as e:
         return {"status": "error", "message": str(e)}
+
+@app.post("/api/")
+def virtual_ta_api(request: Request):
+    data = await request.json()
+    question = data.get("question", "")
+    image = data.get("image", None)  # base64 (optional)
+
+    # Your response logic here
+    return {
+        "answer": "...",
+        "links": [
+            {"url": "...", "text": "..."}
+        ]
+    }
+
