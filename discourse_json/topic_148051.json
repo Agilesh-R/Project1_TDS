@@ -1,0 +1,1221 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 529011,
+        "name": "HARINARAYANAN G",
+        "username": "Haring",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/51bf81/{size}.png",
+        "created_at": "2024-09-24T15:32:08.869Z",
+        "cooked": "<p>Namaskaram,</p>\n<p>I have taken TDS this term after MLF and MLT. I am moderately comfortable with Python (although I haven’t done it, I’m fairly confident I can get at least a B in PDSA if I do it now; using specific libraries is an entirely different question). Regarding Excel, most things used in BDM should be fine for me. Now comes the HTML and JavaScript part. I can read and understand some pure HTML code and make static pages without any bells and whistles—which more or less amounts to nothing, as it will just look like an average LaTeX document. I know nothing about Java or JavaScript. Now, dropping the course is not really a good option for me due to some personal reasons. Hence, I’m thinking of just learning what’s needed on the go. I am sure there will be others in a similar situation too.</p>\n<p>Things being what they are (I didn’t know about these prerequisites early enough, so I didn’t prepare during the three-week gap after the last term exams), can you please suggest some references—documents, books, articles, sites, or YouTube playlists—for getting started in the best possible way? It would have been nice if such content were curated and added as Week 0—MLF has a Week 0 where they list out some topics from statistics and mathematics.</p>\n<p>It would be helpful if the resources are divided into categories like:</p>\n<ol>\n<li>Minimal to get going, and can learn more as needed</li>\n<li>All that we need</li>\n</ol>\n<p>If it can also be structured like <em>these concepts would be used in week n; knowing this concept will provide better insights,</em> it would be great.</p>\n<p><strong>TL;DR</strong><br>\n<strong>Please provide some structured resources for the prerequisites, such as articles, documents, books, or YouTube playlists.</strong></p>\n<p>Thanks for any help and your time. <img src=\"https://emoji.discourse-cdn.com/google/pray.png?v=12\" title=\":pray:\" class=\"emoji\" alt=\":pray:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2024-09-24T15:38:15.708Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 109,
+        "readers_count": 108,
+        "score": 51.8,
+        "yours": false,
+        "topic_id": 148051,
+        "topic_slug": "prerequisites-for-tds-request-for-resources",
+        "display_username": "HARINARAYANAN G",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 25400,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/prerequisites-for-tds-request-for-resources/148051/1",
+        "user_cakedate": "2024-01-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 529235,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-09-25T07:55:20.784Z",
+        "cooked": "<p>Hi Hari,</p>\n<p>Please refer to the course introduction page. Most students ignore this page, but for TDS it is a source of very valuable information.</p>\n<blockquote>\n<p>You should be comfortable coding in Python, HTML, JavaScript, Excel, and have a basic understanding of data science concepts.</p>\n</blockquote>\n<p>GA0 is meant to point you to the problem (skill requirements). We will provide some more specific resources as the course progresses, but for the above, any google search will provide you good beginner resources to get started. One of the key skills of Data Science is given a problem, finding the data.</p>\n<p>How you solve that problem is part of your growth. Since these are very basic requirements, we do not typically give recommendations as everyone has a different learning style. You have to find resources that suit your style.</p>\n<p>For the more in depth topics we will cover them in the live sessions, lectures and the resource links we will provide that go with those topics.</p>\n<p>Please feel free to contribute what you have discovered to be great resources (as new ones keep popping up and they are quite good, so it will be good for all of us including the TDS team, to see what students find). Last term for example <a class=\"mention\" href=\"/u/eram1011\">@eram1011</a> did a phenomenal job of collating information of the various resources for TDS.</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"135490\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/48/102787_2.png\" class=\"avatar\">\n    <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/tds-may-2024-portal-resource-links/135490\">TDS May 2024 Portal Resource Links</a> <a class=\"badge-category__wrapper \" href=\"/c/courses/tds-kb/34\"><span data-category-id=\"34\" style=\"--category-badge-color: #0088CC; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #3AB54A;\" data-parent-category-id=\"9\" data-drop-close=\"true\" class=\"badge-category --has-parent\" title=\"This category is created to address subject-specific queries related to Tools in Data Science\"><span class=\"badge-category__name\">Tools in Data Science</span></span></a>\n  </div>\n  <blockquote>\n    Here is the collection of all the links provided on the portal up to the current week for the May 2024 term for learning TDS. I felt the need to save all of them for my learning checklist and future reference. I’m sharing this in the hope that it might save you some time if you also need the links in one place. I plan to update this post regularly with week-wise content. \n\nWEEK1 Data discovery \n\n\n<a href=\"https://datasetsearch.research.google.com/\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://datasetsearch.research.google.com/</a> \n<a href=\"https://data.gov/\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://data.gov/</a> \n\n\n\n<a href=\"https://data.gov.ru/?language=en\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://data.gov.ru/?language=en</a> \n\n…\n  </blockquote>\n</aside>\n\n<p>Please note that each term TDS changes. So not everything from last term will be the same. So not everything on that discourse post will be used. It is a good starting point.</p>\n<p>Kind regards</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2024-09-25T08:04:06.903Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 33.4,
+        "yours": false,
+        "topic_id": 148051,
+        "topic_slug": "prerequisites-for-tds-request-for-resources",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-may-2024-portal-resource-links/135490",
+            "internal": true,
+            "reflection": false,
+            "title": "TDS May 2024 Portal Resource Links",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/prerequisites-for-tds-request-for-resources/148051/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 536559,
+        "name": "SHOBHIT SHARMA",
+        "username": "23f1001823",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png",
+        "created_at": "2024-10-06T07:39:26.916Z",
+        "cooked": "<p>Sir, Prerequisites mentioned in Grading document have only MLF. Considering that I opted to take TDS , but now in Course introduction HTML, Javascript and even SQL questions are there in GA0 , in which I have no prior experience. I am struggling hard to proceed .<br>\nDropping the course will also cost me my money. Please look into this <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2024-10-06T07:39:26.916Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 61.6,
+        "yours": false,
+        "topic_id": 148051,
+        "topic_slug": "prerequisites-for-tds-request-for-resources",
+        "display_username": "SHOBHIT SHARMA",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17759,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/prerequisites-for-tds-request-for-resources/148051/3",
+        "user_cakedate": "2023-06-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 536616,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-06T08:51:11.016Z",
+        "cooked": "<p>If you plan on doing the course, I would suggest watching week 2 content (esp the optional videos) as a lot of it covers basic html, css, etc.</p>\n<p>Kind regards</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2024-10-06T08:51:11.016Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 31,
+        "readers_count": 30,
+        "score": 11.2,
+        "yours": false,
+        "topic_id": 148051,
+        "topic_slug": "prerequisites-for-tds-request-for-resources",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 17759,
+          "username": "23f1001823",
+          "name": "SHOBHIT SHARMA",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/prerequisites-for-tds-request-for-resources/148051/4",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      529011,
+      529235,
+      536559,
+      536616
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      249
+    ],
+    [
+      2,
+      248
+    ],
+    [
+      3,
+      237
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:43:06.019Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 518,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "extra-resources",
+    "tds"
+  ],
+  "tags_descriptions": {},
+  "id": 148051,
+  "title": "Prerequisites for TDS - request for resources",
+  "fancy_title": "Prerequisites for TDS - request for resources",
+  "posts_count": 4,
+  "created_at": "2024-09-24T15:32:08.707Z",
+  "views": 159,
+  "reply_count": 2,
+  "like_count": 4,
+  "last_posted_at": "2024-10-06T08:51:11.016Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "prerequisites-for-tds-request-for-resources",
+  "category_id": 34,
+  "word_count": 670,
+  "deleted_at": null,
+  "user_id": 25400,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_148051",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 4,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 147945,
+      "title": "Pre-requisites",
+      "fancy_title": "Pre-requisites",
+      "slug": "pre-requisites",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 7,
+      "image_url": null,
+      "created_at": "2024-09-23T20:43:01.168Z",
+      "last_posted_at": "2024-09-24T14:27:27.682Z",
+      "bumped": true,
+      "bumped_at": "2024-09-24T14:27:27.682Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [],
+      "tags_descriptions": {},
+      "like_count": 7,
+      "views": 126,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 22654,
+            "username": "23ds2000155",
+            "name": "Viraj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000155/{size}/67226_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 26049,
+      "title": "Need help with tools in data science",
+      "fancy_title": "Need help with tools in data science",
+      "slug": "need-help-with-tools-in-data-science",
+      "posts_count": 4,
+      "reply_count": 1,
+      "highest_post_number": 4,
+      "image_url": null,
+      "created_at": "2022-01-04T05:50:20.229Z",
+      "last_posted_at": "2022-01-05T03:24:00.872Z",
+      "bumped": true,
+      "bumped_at": "2022-01-05T03:24:00.872Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "week-1",
+        "week-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 12,
+      "views": 167,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 2276,
+            "username": "alphaeplisonpi",
+            "name": "Steve Richards",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/alphaeplisonpi/{size}/2476_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 933,
+            "username": "Anand",
+            "name": "Anand Iyer",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anand/{size}/1555_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7906,
+            "username": "sathiesh",
+            "name": "Sathiesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sathiesh/{size}/12463_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 112077,
+      "title": "Endterm - Please Do Not include Code",
+      "fancy_title": "Endterm - Please Do Not include Code",
+      "slug": "endterm-please-do-not-include-code",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2023-12-15T05:16:17.398Z",
+      "last_posted_at": "2023-12-15T07:41:50.777Z",
+      "bumped": true,
+      "bumped_at": "2023-12-15T07:41:50.777Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "end-term-exam"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 88,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 17559,
+            "username": "Jacob",
+            "name": "Jacob Lazar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jacob/{size}/68091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 164147,
+      "title": "Issues In TDS And Replacement with another course",
+      "fancy_title": "Issues In TDS And Replacement with another course",
+      "slug": "issues-in-tds-and-replacement-with-another-course",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2025-01-18T07:57:16.564Z",
+      "last_posted_at": "2025-01-19T15:17:29.605Z",
+      "bumped": true,
+      "bumped_at": "2025-01-19T15:17:29.605Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational",
+        "diploma-level",
+        "guidelines",
+        "course-portal"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 110,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 35818,
+            "username": "Rrishit",
+            "name": "Rishit",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rrishit/{size}/112505_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 17736,
+            "username": "23f2000573",
+            "name": "B R GIRI SUBRAHMANYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 43072,
+            "username": "TRIGON",
+            "name": "Shaurya Sharad Shukla",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/t/c6cbf5/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 23342,
+      "title": "Diploma Course Subject Selection",
+      "fancy_title": "Diploma Course Subject Selection",
+      "slug": "diploma-course-subject-selection",
+      "posts_count": 10,
+      "reply_count": 6,
+      "highest_post_number": 11,
+      "image_url": null,
+      "created_at": "2021-12-22T18:04:21.731Z",
+      "last_posted_at": "2021-12-23T20:21:59.576Z",
+      "bumped": true,
+      "bumped_at": "2021-12-23T20:21:59.576Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "course-selection"
+      ],
+      "tags_descriptions": {},
+      "like_count": 15,
+      "views": 409,
+      "category_id": 44,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 2798,
+            "username": "anand095",
+            "name": "Anand Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anand095/{size}/100799_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 403,
+            "username": "VishwaSP",
+            "name": "Vishwanath S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vishwasp/{size}/2331_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1247,
+            "username": "Shreyansh24",
+            "name": "Shreyansh Pathak",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/4491bb/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 4025,
+            "username": "M_NAGARAJAN",
+            "name": "M NAGARAJAN",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/m_nagarajan/{size}/466_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1432,
+            "username": "venu",
+            "name": "Venu Madhav A",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/venu/{size}/16536_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 2,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "Hi Hari, \nPlease refer to the course introduction page. Most students ignore this page, but for TDS it is a source of very valuable information. \n\nYou should be comfortable coding in Python, HTML, JavaScript, Excel, and have a basic understanding of data science concepts. \n\nGA0 is meant to point you&hellip;",
+    "accepter_name": null,
+    "accepter_username": "s.anand"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 17759,
+        "username": "23f1001823",
+        "name": "SHOBHIT SHARMA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25400,
+        "username": "Haring",
+        "name": "HARINARAYANAN G",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/51bf81/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 25400,
+      "username": "Haring",
+      "name": "HARINARAYANAN G",
+      "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/51bf81/{size}.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

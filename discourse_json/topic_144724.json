@@ -1,0 +1,1675 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 520873,
+        "name": "Palash_H",
+        "username": "21f3002243",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "created_at": "2024-09-01T14:53:16.820Z",
+        "cooked": "<p>Hey Everyone,<br>\nCreated this post so that everyone can post their experience of TDS. Will be useful for the future candidates of TDS. Please do share your experiences on how TDS felt to you in week 1 and how it shaped your data science learning curve. Tagging some people to start with. <a class=\"mention\" href=\"/u/21f3000759\">@21f3000759</a> <a class=\"mention\" href=\"/u/rajatshenoi\">@RajatShenoi</a> <a class=\"mention\" href=\"/u/eram1011\">@eram1011</a> (Your Contribution to TDS is amazing) <a class=\"mention\" href=\"/u/22f1000022\">@22f1000022</a><br>\nPlease share your experience and tag someone who could.<br>\nRegards.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-01T14:53:16.820Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 22,
+        "reads": 102,
+        "readers_count": 101,
+        "score": 145.4,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Palash_H",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8282,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/1",
+        "user_cakedate": "2021-12-29",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 520881,
+        "name": "Eram Nishat",
+        "username": "eram1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "created_at": "2024-09-01T15:49:27.065Z",
+        "cooked": "<p>Thank you for acknowledging my contribution, however small it may have been. I hope to be even more beneficial to the data science community in the future.</p>\n<p>My journey with TDS began with great hope, inspired by its name, “Tools in Data Science,” and the practical course outline.</p>\n<ul>\n<li>The first spark I felt was during the live data scraping sessions by Amit Sir, which were incredibly engaging and fun.</li>\n<li>“Gramener” and <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> Sir have an indescribable aura that instills hope to achieve the depth Anand Sir has reached in the industry.</li>\n<li>The very humble and supportive CREATIVE trio of Anand Sir, <a class=\"mention\" href=\"/u/amit1\">@Amit1</a> Sir, and <a class=\"mention\" href=\"/u/carlton\">@carlton</a> Sir guided us throughout. Whether it was the ROE (which makes me wish for it in place of oppe exams) or the Mission Mars 1-mark optional projects, it was more than I could have asked for when registering for the TDS course.</li>\n<li>One thing I feel I missed to fully experience the essence of TDS was the weekly Wednesday sessions by Dibu John Sir, as I only watched the recorded sessions on YouTube. When certain modules towards the end of the course had previous term recordings where Dibu Sir interacted with students, I felt I missed something valuable.</li>\n</ul>\n<p>All the course content provided significant value, thanks to the TDS team <img src=\"https://emoji.discourse-cdn.com/google/raised_hands.png?v=12\" title=\":raised_hands:\" class=\"emoji\" alt=\":raised_hands:\" loading=\"lazy\" width=\"20\" height=\"20\">.</p>\n<p>Not just the official team, but the student community in TDS this term was also a delight, especially the efforts of <a class=\"mention\" href=\"/u/arif\">@Arif</a> in supporting us through the difficulties we faced.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-01T15:49:27.065Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 95,
+        "readers_count": 94,
+        "score": 149.0,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Eram Nishat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 8,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22602,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/2",
+        "user_cakedate": "2023-09-24",
+        "user_birthdate": "1904-03-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 8
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 8,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 520905,
+        "name": "Eram Nishat",
+        "username": "eram1011",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "created_at": "2024-09-01T18:43:40.901Z",
+        "cooked": "<p>Regarding the end-term exam, I believe our GPT model needs further training to truly capture the essence and beauty of the subject and question design.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-01T18:43:40.901Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 81,
+        "readers_count": 80,
+        "score": 46.2,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Eram Nishat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22602,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/3",
+        "user_cakedate": "2023-09-24",
+        "user_birthdate": "1904-03-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521164,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-09-02T15:44:21.975Z",
+        "cooked": "<p>Thank you for tagging me.</p>\n<p>My overall experience was kind of nice. Initially, Week 1 felt very easy but as the weeks progressed, I felt there were so many tools to learn and handle data differently. This is one of the courses where I didn’t make any handwritten notes which I usually have done for all the courses expect English (mostly done with both diplomas).</p>\n<p>The bonus assignments quite interesting &amp; good for practicing practical skills although I couldn’t do all due to busy schedule and health issues. I did visit discourse from time to time hoping to find more extra activity but later started helping peers &amp; posting my doubts here.</p>\n<p>As for ROE 1 didn’t feel it that was difficult but had I not have gotten confused with that timing issue (slowed my paced a little thinking it was an hour) I would have done 2 more questions right. It was good though.</p>\n<p>The projects helped me put my skills to test which ROE didn’t. I used ChatGPT and it worked out so I gave that ROE marks credit to that GPT LLM.</p>\n<p>At the very last, I was unsure how to prepare for End term but my peers helped me and will post my digital notes (that’s what I prepared a week ago) after  polishing a bit for next term students.</p>\n<p><a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> sir’s guidance &amp; teachings helped a lot in building these skills and both the TAs were there to help us <a class=\"mention\" href=\"/u/amit1\">@Amit1</a> <a class=\"mention\" href=\"/u/carlton\">@carlton</a> (can’t thank enough).</p>\n<p><a class=\"mention\" href=\"/u/debasmit\">@Debasmit</a> used ChatGPT fine-tuned for TDS to generate 300+ questions which were really helpful for end term a big thanks to him.</p>\n<p>End term was a breeze completed within 10-15 minutes with hardly 1-2 questions wrong (mistakes checked with answer key - some courses have released that)</p>\n<p>Overall, it was a nice experience with some hiccups like issues in GAs &amp; projects but that’s part &amp; parcel of life (nothing is perfect). I hope I will be able to put these skills to good use in real life.</p>\n<p>Wishing the best for everyone here…</p>\n<p>Thanks &amp; Regards,<br>\nSwati Jain</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-02T15:58:55.547Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 68,
+        "readers_count": 67,
+        "score": 43.6,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/4",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521165,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-09-02T15:47:43.687Z",
+        "cooked": "<p>Tagging a few most students for their insights on this <a class=\"mention\" href=\"/u/iitmanupam\">@iitmanupam</a> <a class=\"mention\" href=\"/u/21f3002243\">@21f3002243</a></p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-02T15:47:43.687Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 68,
+        "readers_count": 67,
+        "score": 33.6,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/5",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521170,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-09-02T15:57:41.080Z",
+        "cooked": "<p>The course was amazing. In my eyes, it is the one course that is truly important because it shows me what life would be like in a Data Science role because more than 60% of the time in any such role is spent in data scraping, data cleaning and EDA.</p>\n<p>For this, I need to thank Professor <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> and the TAs <a class=\"mention\" href=\"/u/carlton\">@carlton</a> and <a class=\"mention\" href=\"/u/amit1\">@Amit1</a>. Without their effort, it would not have been possible for me to roll my sleeves up and get into the thick of it, even if it was at a beginner’s level. I hope I can find some roles in the industry which allow me to explore this area a bit more in a real life project.</p>\n<p>I also feel that given the importance and practical nature of this course, it should be converted to 4 credits with a proper structure and full time instructors to assist the Professor and students.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-02T15:57:41.080Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 68,
+        "readers_count": 67,
+        "score": 93.6,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 5,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/6",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 5
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 5,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521278,
+        "name": "Palash_H",
+        "username": "21f3002243",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "created_at": "2024-09-03T03:38:13.778Z",
+        "cooked": "<p>For me it was more than any 3 credit course being more practical than theoretical with full of experiments on data. I was aware of data analysis at high level before but this course delved me into the new realm of data analytics, drawing insights, trends by help of data visualization.</p>\n<p>Special thanks to Professor <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> and TAs <a class=\"mention\" href=\"/u/amit1\">@Amit1</a>, <a class=\"mention\" href=\"/u/carlton\">@carlton</a>. Their extensive support and active help on discourse without which this would have been a mess. Exposing to a real world like project rather than restricting to toy example is what makes this subject.</p>\n<p>Talking about ROE, It was hard but again LLM was a savior. It did taught one thing how to tackle a problem under pressure of time.</p>\n<p>End term was everyone’s comfort zone I guess. Thanks to the one who made the Chat GPT TDS TA. It crafted the questions well and due to which everyone was able to give end term. Also special thanks to <a class=\"mention\" href=\"/u/carlton\">@carlton</a> who conducted a mock for TDS which help to understand difficulty level of questions and gave students a confidence about end term.</p>\n<p>Regards,<br>\nPalash H</p>\n<p>PS. Encourage everyone those who visit this post, feel free to share your experience of TDS.</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-03T04:49:46.293Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 59,
+        "readers_count": 58,
+        "score": 16.8,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "Palash_H",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 6563,
+          "username": "21f3000759",
+          "name": "Swati Jain",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8282,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/7",
+        "user_cakedate": "2021-12-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 521359,
+        "name": "RAJESH RAMAKRISHNAN",
+        "username": "22f1000022",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000022/{size}/67132_2.png",
+        "created_at": "2024-09-03T08:20:21.780Z",
+        "cooked": "<p>Thank you for tagging me.</p>\n<p>I thoroughly enjoyed each and every piece of the course, right from the beginning. As a person coming from a zero programming background,  I had to endure the various pain points associated with the course (i am talking about myself) specifically in fetching and scrapping data.  I slowly started gaining confidence after watching the videos and TA session recordings multiple times.</p>\n<p>But that confidence was only short lived as I  was completely  overrun by the ROE juggernaut. I thought ROE is a real out of the box masterclass . It prepares one to handle real world decision making situations in a better way (utilizing limited resources in a optimal manner).</p>\n<p>I would say the course was very well designed and structured capturing all the widely used DS tools. It is also heartening to see the course contents being regularly updated to remain in sync with the rapidly changing  tools and technologies used in data science.</p>\n<p>At the end of it, it is only postive takeaways for me from this course.  Specifically:</p>\n<ul>\n<li>Exposure to various tools used in present day DS industry.</li>\n<li>Kindling interest to delve deeper in to these tools.</li>\n<li>Giving a birds eye view of the meaningful usage of data and kniiting interesting narratives from it.</li>\n</ul>\n<p>Professor @ s.anand made the course all the more intersting and lively. Special thanks to him for sharing his rich corporate experience with the students.</p>\n<p>My TDS experience will not be complete without  according special mention to <a class=\"mention\" href=\"/u/carlton\">@carlton</a> and <a class=\"mention\" href=\"/u/amit1\">@Amit1</a> for their  commitment and handholding throughout the term.</p>\n<p>I feel this course should find a much higher spot than a mere 3 credit course in the whole BS degree programme.</p>\n<p>Best regards,</p>\n<p>Rajesh Ramakrishnan</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-09-03T08:20:21.780Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 24.4,
+        "yours": false,
+        "topic_id": 144724,
+        "topic_slug": "how-was-your-paper-and-overall-experience-of-tds",
+        "display_username": "RAJESH RAMAKRISHNAN",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13884,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/how-was-your-paper-and-overall-experience-of-tds/144724/8",
+        "user_cakedate": "2022-07-18",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      520873,
+      520881,
+      520905,
+      521164,
+      521165,
+      521170,
+      521278,
+      521359
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      272
+    ],
+    [
+      4,
+      271
+    ],
+    [
+      8,
+      270
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:43:06.019Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 518,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "miscellaneous"
+  ],
+  "tags_descriptions": {},
+  "id": 144724,
+  "title": "How was your paper and overall experience of TDS",
+  "fancy_title": "How was your paper and overall experience of TDS",
+  "posts_count": 8,
+  "created_at": "2024-09-01T14:53:16.653Z",
+  "views": 186,
+  "reply_count": 1,
+  "like_count": 20,
+  "last_posted_at": "2024-09-03T08:20:21.780Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "how-was-your-paper-and-overall-experience-of-tds",
+  "category_id": 34,
+  "word_count": 1356,
+  "deleted_at": null,
+  "user_id": 8282,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_144724",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 8,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 5,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 144714,
+      "title": "TDS Suprises - Appreciation Post",
+      "fancy_title": "TDS Suprises - Appreciation Post",
+      "slug": "tds-suprises-appreciation-post",
+      "posts_count": 4,
+      "reply_count": 0,
+      "highest_post_number": 4,
+      "image_url": null,
+      "created_at": "2024-09-01T13:28:25.952Z",
+      "last_posted_at": "2024-09-03T06:32:44.890Z",
+      "bumped": true,
+      "bumped_at": "2024-09-03T06:32:44.890Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 4,
+      "unread": 0,
+      "new_posts": 0,
+      "unread_posts": 0,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 1,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 20,
+      "views": 160,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 13024,
+            "username": "Kartik1",
+            "name": "Kartik Mittal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6563,
+            "username": "21f3000759",
+            "name": "Swati Jain",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14432,
+            "username": "22f2001740",
+            "name": "Amitabha Singha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001740/{size}/46151_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 15812,
+            "username": "22f3000605",
+            "name": "Krishna Varshney",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000605/{size}/122273_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 127795,
+      "title": "Gratitude to the TA",
+      "fancy_title": "Gratitude to the TA",
+      "slug": "gratitude-to-the-ta",
+      "posts_count": 7,
+      "reply_count": 2,
+      "highest_post_number": 7,
+      "image_url": null,
+      "created_at": "2024-04-28T08:12:01.412Z",
+      "last_posted_at": "2024-05-06T11:04:44.322Z",
+      "bumped": true,
+      "bumped_at": "2024-05-06T11:04:44.322Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds"
+      ],
+      "tags_descriptions": {},
+      "like_count": 10,
+      "views": 190,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 12077,
+            "username": "22f1000734",
+            "name": "Varun Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000734/{size}/33457_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8189,
+            "username": "gNIKHIL",
+            "name": "🖥",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gnikhil/{size}/96971_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16562,
+            "username": "22f3000517",
+            "name": "Radha Ruckmani",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000517/{size}/68225_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22842,
+            "username": "23f2005056",
+            "name": "Sri Harsha Reddy Sagili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005056/{size}/66760_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 160097,
+      "title": "My Feedback for this Course",
+      "fancy_title": "My Feedback for this Course",
+      "slug": "my-feedback-for-this-course",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2024-12-23T10:59:36.850Z",
+      "last_posted_at": "2025-04-29T12:31:33.572Z",
+      "bumped": true,
+      "bumped_at": "2025-04-29T12:31:33.572Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 166,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 21929,
+            "username": "23f1001947",
+            "name": "amit_kulkarni",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29417,
+            "username": "lifelonglearner",
+            "name": "Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lifelonglearner/{size}/67019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17759,
+            "username": "23f1001823",
+            "name": "SHOBHIT SHARMA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 113214,
+      "title": "TA appreciation post",
+      "fancy_title": "TA appreciation post",
+      "slug": "ta-appreciation-post",
+      "posts_count": 10,
+      "reply_count": 3,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2023-12-26T12:55:07.513Z",
+      "last_posted_at": "2023-12-27T07:55:57.439Z",
+      "bumped": true,
+      "bumped_at": "2023-12-27T07:55:57.439Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "feedback"
+      ],
+      "tags_descriptions": {},
+      "like_count": 42,
+      "views": 157,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 6616,
+            "username": "aaruni-kale",
+            "name": "Aaruni Kale",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aaruni-kale/{size}/53900_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12978,
+            "username": "22f1001356",
+            "name": "Divya Jindal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001356/{size}/14361_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12434,
+            "username": "22ds2000105",
+            "name": "Alagammai Deepa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds2000105/{size}/12613_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8223,
+            "username": "21f3001205",
+            "name": "Priyangshu Bala",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001205/{size}/14246_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 44362,
+      "title": "Regarding tds course project marks",
+      "fancy_title": "Regarding tds course project marks",
+      "slug": "regarding-tds-course-project-marks",
+      "posts_count": 4,
+      "reply_count": 2,
+      "highest_post_number": 4,
+      "image_url": null,
+      "created_at": "2022-04-08T16:54:25.430Z",
+      "last_posted_at": "2022-04-10T08:20:15.562Z",
+      "bumped": true,
+      "bumped_at": "2022-04-10T08:20:15.562Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 188,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 6443,
+            "username": "21f2001580",
+            "name": "Rishabh Jain",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001580/{size}/20946_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1062,
+            "username": "winterrolls",
+            "name": "Kautuk N D",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/winterrolls/{size}/24435_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 22602,
+        "username": "eram1011",
+        "name": "Eram Nishat",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8282,
+        "username": "21f3002243",
+        "name": "Palash_H",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 6563,
+        "username": "21f3000759",
+        "name": "Swati Jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 13884,
+        "username": "22f1000022",
+        "name": "RAJESH RAMAKRISHNAN",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000022/{size}/67132_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15826,
+        "username": "iitmanupam",
+        "name": "Anupam Chandra",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      }
+    ],
+    "created_by": {
+      "id": 8282,
+      "username": "21f3002243",
+      "name": "Palash_H",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png"
+    },
+    "last_poster": {
+      "id": 13884,
+      "username": "22f1000022",
+      "name": "RAJESH RAMAKRISHNAN",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000022/{size}/67132_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

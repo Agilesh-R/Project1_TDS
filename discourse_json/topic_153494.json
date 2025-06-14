@@ -1,0 +1,1671 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 546131,
+        "name": "Parampreet Singh",
+        "username": "22f3000797",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000797/{size}/56302_2.png",
+        "created_at": "2024-10-23T17:43:54.278Z",
+        "cooked": "<p>Dear <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> sir,</p>\n<p>I got QUIZ ID: <strong>Beijing:500</strong>.</p>\n<p>I found several ambiguities while submitting answers.</p>\n<h4><a name=\"p-546131-q3-what-are-the-3-most-popular-license-among-these-users-ignore-missing-licenses-list-the-license_name-in-order-comma-separated-1\" class=\"anchor\" href=\"#p-546131-q3-what-are-the-3-most-popular-license-among-these-users-ignore-missing-licenses-list-the-license_name-in-order-comma-separated-1\"></a>Q3. What are the 3 most popular license among these users? Ignore missing licenses. List the <code>license_name</code> in order, comma-separated.</h4>\n<p>In Q3, based on my scraped data, I got:</p>\n<pre><code class=\"lang-auto\">NaN\nmit\napache-2.0\nothers\ngpl-3.0\n</code></pre>\n<p>as top 5 most popular license.<br>\nAs it’s written in the question <em>Ignore missing licenses</em>, so I am left with <code>mit,apache-2.0,others</code> combination.</p>\n<p>But, if I am submitting this, it’s showing incorrect and <code>null,mit,apache-2.0</code> are being considered correct.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5.png\" data-download-href=\"/uploads/short-url/45OLl0ezCxsL9EQtLfA5iCdxAkR.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5_2_517x124.png\" alt=\"image\" data-base62-sha1=\"45OLl0ezCxsL9EQtLfA5iCdxAkR\" width=\"517\" height=\"124\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5_2_517x124.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5.png 2x\" data-dominant-color=\"F6F7F7\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">752×182 16.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<hr>\n<h4><a name=\"p-546131-q6-which-programming-language-is-the-second-most-popular-among-users-who-joined-after-2020-2\" class=\"anchor\" href=\"#p-546131-q6-which-programming-language-is-the-second-most-popular-among-users-who-joined-after-2020-2\"></a>Q6. Which programming language is the second most popular among users who joined after 2020?</h4>\n<p>It is asking for <strong>second</strong> most popular language, but it’s accepting the first popular language.</p>\n<p>I am getting following as output for languages with their count (popularity) for users who joined after 2020:</p>\n<pre><code class=\"lang-auto\">language\nPython              10\nNaN                  9\nHTML                 6\nTypeScript           5\nC++                  3\nJavaScript           3\nJupyter Notebook     3\nAstro                2\nVue                  2\nC#                   2\nName: count, dtype: int64\n</code></pre>\n<p>It should accept HTML, but it’s accepting Python.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/7/f72dbb72d7fce1c2a3d8df8b42f9a0a13d4ae76a.png\" data-download-href=\"/uploads/short-url/zgDUNegn3rwLCBEJePNgWXYo8Wu.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/7/f72dbb72d7fce1c2a3d8df8b42f9a0a13d4ae76a_2_517x126.png\" alt=\"image\" data-base62-sha1=\"zgDUNegn3rwLCBEJePNgWXYo8Wu\" width=\"517\" height=\"126\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/7/f72dbb72d7fce1c2a3d8df8b42f9a0a13d4ae76a_2_517x126.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/7/f72dbb72d7fce1c2a3d8df8b42f9a0a13d4ae76a.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/f/7/f72dbb72d7fce1c2a3d8df8b42f9a0a13d4ae76a.png 2x\" data-dominant-color=\"F7F9F8\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">739×182 13.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<hr>\n<h4><a name=\"p-546131-q12-do-hireable-users-follow-more-people-than-those-who-are-not-hireable-3\" class=\"anchor\" href=\"#p-546131-q12-do-hireable-users-follow-more-people-than-those-who-are-not-hireable-3\"></a>Q12. Do hireable users follow more people than those who are not hireable?</h4>\n<p>For Q12 as well as Q15, it’s not accepting the numeric value, marking it as incorrect (I’ve tried several ways, got same value again and again), it is marking <code>NaN</code> as correct.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/2/c/2c7f8b1a155b87411e6e6956221c62e371fb0bb8.png\" data-download-href=\"/uploads/short-url/6lEgGqINCYcRDvxYbHKa3OqGzXi.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/c/2c7f8b1a155b87411e6e6956221c62e371fb0bb8_2_517x126.png\" alt=\"image\" data-base62-sha1=\"6lEgGqINCYcRDvxYbHKa3OqGzXi\" width=\"517\" height=\"126\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/c/2c7f8b1a155b87411e6e6956221c62e371fb0bb8_2_517x126.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/2/c/2c7f8b1a155b87411e6e6956221c62e371fb0bb8.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/2/c/2c7f8b1a155b87411e6e6956221c62e371fb0bb8.png 2x\" data-dominant-color=\"F4F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">739×182 21.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/c/7ce7aef7fbb00aa78529e44047e6399a830fdb4e.png\" data-download-href=\"/uploads/short-url/hOXAk8xLT0NouoxvOcqKwKOiwRE.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/c/7ce7aef7fbb00aa78529e44047e6399a830fdb4e_2_517x126.png\" alt=\"image\" data-base62-sha1=\"hOXAk8xLT0NouoxvOcqKwKOiwRE\" width=\"517\" height=\"126\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/c/7ce7aef7fbb00aa78529e44047e6399a830fdb4e_2_517x126.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/c/7ce7aef7fbb00aa78529e44047e6399a830fdb4e.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/c/7ce7aef7fbb00aa78529e44047e6399a830fdb4e.png 2x\" data-dominant-color=\"F4F4F4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">739×182 20.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Regarding these 2 questions, there might be some issue in my <code>users.csv</code>, but I am not sure of, because I am getting number as a result while executing Python code. Please clarify this.</p>\n<hr>\n<p>Please clarify these issues sir.</p>\n<blockquote>\n<p>Also, If any other student has got same Quiz ID: Beijing:500, please confirm whether this is happening to you as well, or it’s an issue from my end (csv file data ambiguity).</p>\n</blockquote>\n<p>Thank you,<br>\nParampreet Singh</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-11-05T10:11:51.100Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 8,
+        "reads": 93,
+        "readers_count": 92,
+        "score": 73.4,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "Parampreet Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16101,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/1",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-11-30",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 546645,
+        "name": "Bijoy Biju Varghese",
+        "username": "22f2000816",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+        "created_at": "2024-10-24T21:04:12.360Z",
+        "cooked": "<p>Just try in a different browser and see</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-10-24T21:04:12.360Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 69,
+        "readers_count": 68,
+        "score": 18.8,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "Bijoy Biju Varghese",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14358,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/2",
+        "user_cakedate": "2022-09-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 548801,
+        "name": "DataScience",
+        "username": "22f3001493",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png",
+        "created_at": "2024-10-29T13:29:14.429Z",
+        "cooked": "<p>Barcelona:100</p>\n<p>I too facing the same issue for Q11, Q12 and Q15. It is accepting NaN as a correct answer.</p>\n<p>Please help<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/9/d931fd13234aee211be39ce6a9303fc58aa0f58f.png\" data-download-href=\"/uploads/short-url/uZoI5vPXekXgwNzdsfOspH6sq3d.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/9/d931fd13234aee211be39ce6a9303fc58aa0f58f_2_690x88.png\" alt=\"image\" data-base62-sha1=\"uZoI5vPXekXgwNzdsfOspH6sq3d\" width=\"690\" height=\"88\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/9/d931fd13234aee211be39ce6a9303fc58aa0f58f_2_690x88.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/9/d931fd13234aee211be39ce6a9303fc58aa0f58f_2_1035x132.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/9/d931fd13234aee211be39ce6a9303fc58aa0f58f.png 2x\" data-dominant-color=\"F8F9F8\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1356×173 8.44 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-10-29T13:36:28.349Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "DataScience",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16893,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/3",
+        "user_cakedate": "2023-02-21",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 548808,
+        "name": "Saikat Mandal",
+        "username": "22f3001318",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001318/{size}/111221_2.png",
+        "created_at": "2024-10-29T13:54:18.749Z",
+        "cooked": "<p>Do the boolean modifications in file,  you should get the answers.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-10-29T13:54:18.749Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 59,
+        "readers_count": 58,
+        "score": 16.8,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "Saikat Mandal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16893,
+          "username": "22f3001493",
+          "name": "DataScience",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16883,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/4",
+        "user_cakedate": "2023-02-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 548838,
+        "name": "DataScience",
+        "username": "22f3001493",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png",
+        "created_at": "2024-10-29T14:33:23.199Z",
+        "cooked": "<p>I did that, but how NaN is considered as a correct answer.</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-10-29T14:33:23.199Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 16.4,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "DataScience",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16883,
+          "username": "22f3001318",
+          "name": "Saikat Mandal",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001318/{size}/111221_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16893,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/5",
+        "user_cakedate": "2023-02-21",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549631,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-10-31T14:41:24.476Z",
+        "cooked": "<p>Hi DataScience,</p>\n<p>Its because the validation is done on the data in your file. If your files you uploaded contain values that are not according to the spec then the Check Answers script will give you wrong results. (Garbage in = Garbage out)</p>\n<p>Kind regards</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-10-31T14:41:24.476Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 11.6,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 16893,
+          "username": "22f3001493",
+          "name": "DataScience",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/6",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 549791,
+        "name": "DataScience",
+        "username": "22f3001493",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png",
+        "created_at": "2024-11-01T04:34:38.961Z",
+        "cooked": "<p>Noted. Thanks.</p>\n<p>What misled is the below statement where it is mentioned to use true and false for boolean. However, for analysis purpose, I made changes to the local copy as 1 for true and 0 for false. But I didn’t add it in my repository.<br>\nSince time has already crossed, i can’t submit anymore. but i will try to see whether the above works.</p>\n<p>Regards<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/9/592b98ab5f87638fd33c25961731929746661ebb.png\" data-download-href=\"/uploads/short-url/cIPTMg2JpmXmVH7i9JySPr7G1hp.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/9/592b98ab5f87638fd33c25961731929746661ebb.png\" alt=\"image\" data-base62-sha1=\"cIPTMg2JpmXmVH7i9JySPr7G1hp\" width=\"690\" height=\"95\" data-dominant-color=\"F4F4F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1016×141 7.42 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 8,
+        "updated_at": "2024-11-01T04:35:02.245Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 26,
+        "readers_count": 25,
+        "score": 20.2,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "DataScience",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16893,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/7",
+        "user_cakedate": "2023-02-21",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 552385,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-05T10:11:51.225Z",
+        "cooked": "<p>Added <a class=\"hashtag-cooked\" href=\"/tag/term3-2024\" data-type=\"tag\" data-slug=\"term3-2024\" data-id=\"339\"><span class=\"hashtag-icon-placeholder\"><svg class=\"fa d-icon d-icon-square-full svg-icon svg-node\"><use href=\"#square-full\"></use></svg></span><span>term3-2024</span></a></p>",
+        "post_number": 8,
+        "post_type": 3,
+        "posts_count": 8,
+        "updated_at": "2024-11-05T10:11:51.225Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 6,
+        "readers_count": 5,
+        "score": 1.2,
+        "yours": false,
+        "topic_id": 153494,
+        "topic_slug": "ambiguity-in-tds-project-1-beijing-500",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "/tag/term3-2024",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "tags_changed",
+        "post_url": "/t/ambiguity-in-tds-project-1-beijing-500/153494/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      546131,
+      546645,
+      548801,
+      548808,
+      548838,
+      549631,
+      549791,
+      552385
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      220
+    ],
+    [
+      2,
+      219
+    ],
+    [
+      3,
+      214
+    ],
+    [
+      6,
+      212
+    ],
+    [
+      8,
+      207
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:43:06.019Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 519,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "term3-2024",
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 153494,
+  "title": "Ambiguity in TDS Project 1 Beijing:500",
+  "fancy_title": "Ambiguity in TDS Project 1 Beijing:500",
+  "posts_count": 8,
+  "created_at": "2024-10-23T17:43:54.046Z",
+  "views": 165,
+  "reply_count": 4,
+  "like_count": 2,
+  "last_posted_at": "2024-11-05T10:11:51.225Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "ambiguity-in-tds-project-1-beijing-500",
+  "category_id": 34,
+  "word_count": 514,
+  "deleted_at": null,
+  "user_id": 16101,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_153494",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 8,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 5,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 752,
+      "height": 182,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/c/1cb114be59adc1f82a1c5c52d11262e0d1719ba5.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 171485,
+      "title": "Project 1 discrepancy regarding mit license",
+      "fancy_title": "Project 1 discrepancy regarding mit license",
+      "slug": "project-1-discrepancy-regarding-mit-license",
+      "posts_count": 9,
+      "reply_count": 7,
+      "highest_post_number": 10,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/a/6/a63b3e5cf7847aad19780199e18d9767880f3de8_2_1024x601.png",
+      "created_at": "2025-04-01T05:16:56.405Z",
+      "last_posted_at": "2025-04-06T13:59:53.894Z",
+      "bumped": true,
+      "bumped_at": "2025-04-06T14:22:37.817Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 91,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 16552,
+            "username": "22f3000585",
+            "name": "Reva Lakshmy Paul",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000585/{size}/111045_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 31042,
+            "username": "24ds2000125",
+            "name": "PalakAnand",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds2000125/{size}/68316_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 154452,
+      "title": "Bangalore:100",
+      "fancy_title": "Bangalore:100",
+      "slug": "bangalore-100",
+      "posts_count": 6,
+      "reply_count": 3,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d1477cf1b0826472c93ba5b2ded3db1a792ea3c_2_1024x170.png",
+      "created_at": "2024-10-30T08:02:51.391Z",
+      "last_posted_at": "2024-10-30T13:47:35.971Z",
+      "bumped": true,
+      "bumped_at": "2024-10-30T13:47:35.971Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 50,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17066,
+            "username": "23f1000966",
+            "name": "Aryan Thakur",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000966/{size}/67154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 40077,
+            "username": "24ds3000100",
+            "name": "Bahni Roy",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 24024,
+            "username": "23ds3000248",
+            "name": "Bhavin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 154433,
+      "title": "TDS Project1 doubt Chennai:50",
+      "fancy_title": "TDS Project1 doubt Chennai:50",
+      "slug": "tds-project1-doubt-chennai-50",
+      "posts_count": 6,
+      "reply_count": 4,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/d/1d086aa69c61ecd40656358d5f06176ba1a7d3e0_2_1024x709.png",
+      "created_at": "2024-10-30T04:45:38.767Z",
+      "last_posted_at": "2024-10-31T14:53:25.351Z",
+      "bumped": true,
+      "bumped_at": "2024-10-31T14:53:25.351Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 73,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14627,
+            "username": "22f3000182",
+            "name": "Jyoti Singh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000182/{size}/18877_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 933,
+            "username": "Anand",
+            "name": "Anand Iyer",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anand/{size}/1555_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 154675,
+      "title": "Syndey:100 Question 5",
+      "fancy_title": "Syndey:100 Question 5",
+      "slug": "syndey-100-question-5",
+      "posts_count": 13,
+      "reply_count": 10,
+      "highest_post_number": 13,
+      "image_url": null,
+      "created_at": "2024-11-01T04:28:59.316Z",
+      "last_posted_at": "2024-11-06T11:39:31.336Z",
+      "bumped": true,
+      "bumped_at": "2024-11-06T11:39:31.336Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term3-2024",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 81,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 8133,
+            "username": "21f3002397",
+            "name": "Neelotpal Dutta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002397/{size}/13613_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 40077,
+            "username": "24ds3000100",
+            "name": "Bahni Roy",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 154283,
+      "title": "TDS 1 Beijing:500",
+      "fancy_title": "TDS 1 Beijing:500",
+      "slug": "tds-1-beijing-500",
+      "posts_count": 4,
+      "reply_count": 0,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/e/5/e532249d261ffb6c68dbf5351cc2f3c6302506c3_2_1024x78.png",
+      "created_at": "2024-10-28T17:08:15.459Z",
+      "last_posted_at": "2024-10-29T05:35:18.398Z",
+      "bumped": true,
+      "bumped_at": "2024-10-29T05:35:18.398Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 76,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23020,
+            "username": "23f3002354",
+            "name": "L P Vishnupriya ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3002354/{size}/112715_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16762,
+            "username": "22f3003031",
+            "name": "Sid",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16323,
+            "username": "22f3001210",
+            "name": "Rishit Pant",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001210/{size}/69573_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16893,
+        "username": "22f3001493",
+        "name": "DataScience",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14358,
+        "username": "22f2000816",
+        "name": "Bijoy Biju Varghese",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 16883,
+        "username": "22f3001318",
+        "name": "Saikat Mandal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001318/{size}/111221_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16101,
+        "username": "22f3000797",
+        "name": "Parampreet Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000797/{size}/56302_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 16101,
+      "username": "22f3000797",
+      "name": "Parampreet Singh",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000797/{size}/56302_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

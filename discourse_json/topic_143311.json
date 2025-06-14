@@ -1,0 +1,1035 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 515416,
+        "name": "Kartik Mittal",
+        "username": "Kartik1",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png",
+        "created_at": "2024-08-18T14:31:24.604Z",
+        "cooked": "<p>Inspired by <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> Sir’s Manhattan coffee project, i tried to create something similar like that for any indian city . I chose Domino’s and Pizza hut in Bangalore. I would really appreciate any kind of feedback on this project , the project is just in the beginning phase and i want improve it more to make it more interesting and useful.</p>\n<p><a href=\"https://pizzawarsbykartik.netlify.app/\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://pizzawarsbykartik.netlify.app/</a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-19T16:56:41.685Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 79.2,
+        "yours": false,
+        "topic_id": 143311,
+        "topic_slug": "geospatial-analysis-feedback-required",
+        "display_username": "Kartik Mittal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://pizzawarsbykartik.netlify.app/",
+            "internal": false,
+            "reflection": false,
+            "title": "Domino's vs Pizza Hut: The Geospatial Pizza War in Bangalore",
+            "clicks": 17
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/geospatial-analysis-feedback-required/143311/1",
+        "user_cakedate": "2022-05-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          },
+          {
+            "id": "confetti_ball",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 515680,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-08-19T09:54:36.651Z",
+        "cooked": "<p>Hi Kartik Mittal,</p>\n<p>Great work with the data collection, processing and visualisation. Here are some suggestions for improvements.</p>\n<ol>\n<li>You should give references for where you obtained the data. This helps the reviewer to know if your sources are reliable. eg. market valued at over <strong>$145 billion</strong> (when was this and where did you get this data) What is the market value in India/Bangalore? etc.</li>\n<li>The data you used for the population was 2011, is the data for the stores also from 2011? If you mix and match data from two different timescales, is the conclusion valid? Have you used projection or data from more recent sources that project reliably the population in the districts as it stands today?</li>\n<li>The heat map requires a legend indicating which areas are high population vs which are low.</li>\n<li>Show only each vendors distribution when doing the conclusions. Otherwise its difficult to see how you reached those conclusions.</li>\n<li>Are you able to create an interactive deployment for the visualisation, so that users can explore your creation?</li>\n</ol>\n<p>Its a great display of how to use all the various data tools to create a visually compelling story.</p>\n<p>Kind regards</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-19T09:54:36.651Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 26.8,
+        "yours": false,
+        "topic_id": 143311,
+        "topic_slug": "geospatial-analysis-feedback-required",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/geospatial-analysis-feedback-required/143311/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 515682,
+        "name": "Kartik Mittal",
+        "username": "Kartik1",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png",
+        "created_at": "2024-08-19T10:00:25.858Z",
+        "cooked": "<p>Thanks for the feedback and suggestions , i will definitely try to improve on the mentioned points.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2024-08-19T10:00:45.393Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 32,
+        "readers_count": 31,
+        "score": 6.4,
+        "yours": false,
+        "topic_id": 143311,
+        "topic_slug": "geospatial-analysis-feedback-required",
+        "display_username": "Kartik Mittal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13024,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/geospatial-analysis-feedback-required/143311/3",
+        "user_cakedate": "2022-05-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      515416,
+      515680,
+      515682
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      286
+    ],
+    [
+      2,
+      285
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 83,
+      "reply_count": 44,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-05-31T16:31:45.591Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T16:43:06.019Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 85,
+      "unread": 0,
+      "new_posts": 1,
+      "unread_posts": 1,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 24,
+      "views": 519,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34288,
+            "username": "VarunAgnihotri",
+            "name": "Varun Agnihotri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/varunagnihotri/{size}/103035_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29977,
+            "username": "24f1001758",
+            "name": "Soha Farhana ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1001758/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 38579,
+            "username": "Harsh_Choudhary",
+            "name": "Harsh Choudhary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harsh_choudhary/{size}/114548_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 80,
+      "reply_count": 51,
+      "highest_post_number": 85,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T15:34:18.368Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T15:34:18.368Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 82,
+      "unread": 0,
+      "new_posts": 3,
+      "unread_posts": 3,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1156,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12914,
+            "username": "iAnimeshS",
+            "name": "Animesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "miscellaneous"
+  ],
+  "tags_descriptions": {},
+  "id": 143311,
+  "title": "Geospatial Analysis - Feedback required",
+  "fancy_title": "Geospatial Analysis - Feedback required",
+  "posts_count": 3,
+  "created_at": "2024-08-18T14:31:24.452Z",
+  "views": 73,
+  "reply_count": 1,
+  "like_count": 4,
+  "last_posted_at": "2024-08-19T10:00:25.858Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "geospatial-analysis-feedback-required",
+  "category_id": 34,
+  "word_count": 280,
+  "deleted_at": null,
+  "user_id": 13024,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_143311",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 53678,
+      "title": "Geo-Spatial Analysis",
+      "fancy_title": "Geo-Spatial Analysis",
+      "slug": "geo-spatial-analysis",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2022-06-15T22:04:09.995Z",
+      "last_posted_at": "2022-06-15T22:04:10.126Z",
+      "bumped": true,
+      "bumped_at": "2022-06-15T22:11:07.224Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-5"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 46,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 2624,
+            "username": "ShreyanshBardia",
+            "name": "Shreyansh Bardia",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/shreyanshbardia/{size}/239_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 35039,
+      "title": "Extra Activity - Feedback Needed",
+      "fancy_title": "Extra Activity - Feedback Needed",
+      "slug": "extra-activity-feedback-needed",
+      "posts_count": 4,
+      "reply_count": 2,
+      "highest_post_number": 4,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/4/14208cf8cd91c6c1e62ddc8662f9ff3dd1878811_2_1024x403.png",
+      "created_at": "2022-02-19T13:55:03.017Z",
+      "last_posted_at": "2022-02-21T06:19:17.669Z",
+      "bumped": true,
+      "bumped_at": "2022-02-21T06:19:17.669Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 68,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 529,
+            "username": "biswasabhik999",
+            "name": "Abhik Biswas",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/biswasabhik999/{size}/169_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1021,
+            "username": "CKPIITM",
+            "name": "Chandan kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ckpiitm/{size}/1619_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 33108,
+      "title": "Data for GeoSpatial Analysis with Python",
+      "fancy_title": "Data for GeoSpatial Analysis with Python",
+      "slug": "data-for-geospatial-analysis-with-python",
+      "posts_count": 5,
+      "reply_count": 2,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2022-02-09T05:55:02.395Z",
+      "last_posted_at": "2022-02-10T04:36:13.007Z",
+      "bumped": true,
+      "bumped_at": "2022-02-10T04:36:13.007Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-6"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 79,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 922,
+            "username": "ahambrahmasmi",
+            "name": "Ashwin S Venkataraman",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ahambrahmasmi/{size}/126709_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 47,
+            "username": "PUNEET",
+            "name": "PUNEET BHAGAT",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet/{size}/5137_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 108504,
+      "title": "Week 5, Geospatial Analysis Dataset",
+      "fancy_title": "Week 5, Geospatial Analysis Dataset",
+      "slug": "week-5-geospatial-analysis-dataset",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2023-11-03T16:28:26.413Z",
+      "last_posted_at": "2023-11-04T04:49:18.954Z",
+      "bumped": true,
+      "bumped_at": "2023-11-04T04:49:18.954Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 31,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 2517,
+            "username": "hasandemon12",
+            "name": "Mohammed Hassan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hasandemon12/{size}/634_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 149909,
+      "title": "Survey Analysis Insights from the 2024 Stack Overflow Developer Survey - An ice-breaker for the future Business Analysts from the IITM-BS community",
+      "fancy_title": "Survey Analysis Insights from the 2024 Stack Overflow Developer Survey - An ice-breaker for the future Business Analysts from the IITM-BS community",
+      "slug": "survey-analysis-insights-from-the-2024-stack-overflow-developer-survey-an-ice-breaker-for-the-future-business-analysts-from-the-iitm-bs-community",
+      "posts_count": 10,
+      "reply_count": 6,
+      "highest_post_number": 11,
+      "image_url": null,
+      "created_at": "2024-09-30T13:24:51.660Z",
+      "last_posted_at": "2024-10-01T17:59:58.064Z",
+      "bumped": true,
+      "bumped_at": "2024-10-01T17:59:58.064Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 53,
+      "views": 422,
+      "category_id": 75,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 797,
+            "username": "kunal",
+            "name": "Kunal Chaturvedi",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kunal/{size}/31314_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14344,
+            "username": "22f2001152",
+            "name": "Lovleen Chadha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001152/{size}/1945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17311,
+            "username": "Tulika_5",
+            "name": "Tulika Chatterjee ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/tulika_5/{size}/107565_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 13024,
+        "username": "Kartik1",
+        "name": "Kartik Mittal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      }
+    ],
+    "created_by": {
+      "id": 13024,
+      "username": "Kartik1",
+      "name": "Kartik Mittal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png"
+    },
+    "last_poster": {
+      "id": 13024,
+      "username": "Kartik1",
+      "name": "Kartik Mittal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kartik1/{size}/111108_2.png"
+    },
+    "links": [
+      {
+        "url": "https://pizzawarsbykartik.netlify.app/",
+        "title": "Domino's vs Pizza Hut: The Geospatial Pizza War in Bangalore",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 17,
+        "user_id": 13024,
+        "domain": "pizzawarsbykartik.netlify.app",
+        "root_domain": "pizzawarsbykartik.netlify.app"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
