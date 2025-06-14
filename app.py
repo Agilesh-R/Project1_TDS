@@ -1,41 +1,35 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
+from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
-from discourse_downloader_single import run_scraper_programmatically
+import base64
 
 app = FastAPI()
 
-# ✅ Allow all CORS origins (or restrict to exam site if known)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Or set to specific domain like ["https://exam.iitm.ac.in"]
-    allow_credentials=True,
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-@app.get("/")
-def root():
-    return {"message": "TDS Scraper API is live."}
-
-@app.post("/scrape")
-def scrape():
-    try:
-        run_scraper_programmatically()
-        return {"status": "success", "message": "Scraping completed"}
-    except Exception as e:
-        return {"status": "error", "message": str(e)}
+class QuestionRequest(BaseModel):
+    question: str
+    image: str = None  # optional base64 image
 
 @app.post("/api/")
-def virtual_ta_api(request: Request):
-    data = await request.json()
-    question = data.get("question", "")
-    image = data.get("image", None)  # base64 (optional)
+async def answer_question(request: QuestionRequest):
+    # Extract the question and image (if any)
+    question = request.question
+    image_data = request.image  # You can decode if needed
 
-    # Your response logic here
+    # TODO: Implement answer logic here using scraped data
+    # For now, return a dummy response
     return {
-        "answer": "...",
+        "answer": "This is a placeholder answer.",
         "links": [
-            {"url": "...", "text": "..."}
+            {
+                "url": "https://discourse.onlinedegree.iitm.ac.in/example-post",
+                "text": "Example link for context"
+            }
         ]
     }
-
